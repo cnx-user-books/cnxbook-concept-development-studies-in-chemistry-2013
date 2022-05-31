@@ -1,0 +1,506 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Bonding in Metals and Metal-Non-Metal Salts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44283</md:content-id>
+  <md:title>Bonding in Metals and Metal-Non-Metal Salts</md:title>
+  <md:abstract/>
+  <md:uuid>6db04c81-cbc8-40d6-a23d-4cabdc77c258</md:uuid>
+</metadata>
+
+<content><section id="fs-id1169308037126">
+    
+      <title>Introduction</title>
+   
+    <para id="import-auto-id1169810749401">We have noted that the Lewis model of chemical bonding is very powerful in predicting structures, stability, and reactivity of molecules.  But there is a glaring hole in our model that you may have noticed: the metal elements are missing. Additionally, the Lewis model only applies to a handful of atoms at a time, and we have not examined what happens in solids that have huge numbers of atoms bonded in vast networks.  </para>
+    <para id="import-auto-id1169810398794">The Lewis model is based on the “octet rule” and the concept of a covalent bond as a sharing of an electron pair.  These were developed based on the molecules formed by elements in Groups 4 to 8, and most specifically, the group of elements we call the “non-metals.”  This name clearly says that the properties of the non-metal elements are very different from the properties of metal elements.  We will look at these differences in this study.  But even without analyzing those differences, we can say immediately that the octet rule does not seem to apply to these elements.  Remember that the octet rule says that the number of valence electrons plus the valence of the atom (the number of bonds the atom typically forms) commonly equals 8 for compounds formed by the non-metal elements.  Rather than being the general rule for metals, this is very rarely true.  This means that we need a new model for bonding in metals and in compounds that contain metal atoms.</para>
+    <para id="import-auto-id1169805648901">To develop this model, we will examine the specific properties of metallic elements, which differ significantly from the non-metals.  By considering these properties carefully, we will be able to build a model which accounts for these properties.  </para>
+    <para id="import-auto-id1169815236148">Of course, to be more complete, we also need to consider compounds formed from combinations of metal atoms and non-metal atoms.  These also have properties which differ greatly from either metals or non-metals.  Again, by looking closely at these properties, we will be able to build a model for metal-non-metal bonding, which is different from that in metal bonding.</para>
+    <para id="import-auto-id1169805048508">This means that we will develop models of two new types of bonding in addition to the one we have already developed for covalent bonding.  It would be very helpful to find a way to tie these three types of bonding together, to give a simple understanding of why the bonding is different for different types and combinations of atoms.  In the last section of this study, we will create such a model based on our understanding of the chemical concept of “electronegativity,” developed in the previous concept study.</para></section>
+<section id="fs-id1169315077402">
+    
+      <title>Foundation</title>
+   
+    <para id="import-auto-id1169806550988">In this study, we will assume that we know the essential components of the structure and properties of individual atoms.  Each atom has an electronic configuration which determines its physical and chemical properties, including ionization energy, electron affinity, atomic size, and electronegativity.  Electron motion is described by orbitals, which give the probability for the electron in space around the nucleus.  The energy of each electron is determined by a combination of its kinetic energy, its attraction to the nucleus, and its repulsion from other electrons in the atom.  Our model considers the electron-electron repulsion as a “shielding” of the positive charge of the nucleus, resulting in an effective nuclear charge which is less than the actual nuclear charge, which we refer to as the core charge.  By looking at the core charge experienced by an electron in an atom and at its distance from the nucleus, we can understand the ionization energy of that electron.  We know and can account for the fact that the ionization energies are greatest for atoms near the right side of the periodic table with large core charges.  And the ionization energies are greater for smaller atoms, where the valence electrons are closer to the nucleus.</para>
+    <para id="import-auto-id1169806633893">In a previous study, we developed the concept of electronegativity.  An atom with a high electronegativity strongly attracts the shared electrons to itself in a covalent bond.  The atom with the lower electronegativity in the bond more weakly attracts the shared electrons.  The result is that the bond is “polar,” meaning that one end of the bond is negatively charged and the other end is positively charged.  We will assume a previous understanding of the variations of electronegativity amongst the elements.  Atoms to the right in the Periodic table have higher electronegativities than those to the left.  And atoms in the earlier rows of the Periodic Table have higher electronegativities than those in the later rows.  Electronegativity thus generally increases from “left to right” and “down to up” in the Periodic Table.  These facts will be extremely useful in understanding how and why different types and combinations of atoms form different types of bonds.</para></section>
+ <section id="fs-id1169315074653">   
+      <title>Observation 1: Properties of Metals</title>
+    
+    <para id="import-auto-id1169805595024">Historically, people have worked to locate, isolate, and purify metals because of their valuable properties.  Most metals are both strong and <emphasis effect="underline">malleable</emphasis> solids, meaning that they can be shaped, bent, pressed, flattened, and so forth without cracking or breaking.  This is a very useful property.  Shelters, shields, tools, and armor can be made from solids provided that they can be bent to whatever shape is desired.  Since they are not brittle, metals do not break on impact so they provide excellent protection as well as excellent materials for weapons.  </para>
+    <para id="import-auto-id1169811029497">In the age of electricity, many metals became more valuable due to their <emphasis effect="underline">conductivity</emphasis>.  When a piece of metal is bridged across an electric potential, electrons flow from the negative electrode to the positive electrode, creating a current with obvious applications.  By contrast, non-metals are rarely conductors and are more typically insulators.  Adding to the applications of metals for electricity, metals are also <emphasis effect="underline">ductile,</emphasis> meaning that they can be drawn into thin wires while maintaining strength.</para>
+    <para id="import-auto-id1169822885567">And not least, most metals are actually quite attractive, with shiny, smooth, colorful finishes.  This gives metals intrinsic value in addition to their usefulness.  It is not surprising that gold, silver, and copper have long been used for coins and jewelry, given their beauty and their resistance to oxidation.  </para>
+    <para id="import-auto-id1169810578737">We can examine these properties of metals to try to understand how metal atoms are bonded together.  The distinct properties of metals tells us that the bonding must be quite different from that in the covalent molecules of the non-metals we have been studying so far.  These differences must relate to the differences in the properties of the individual atoms.  So let’s take a look at those properties.</para>
+    <para id="import-auto-id1169811137546">Perhaps the most important atomic property is, as we often have seen, the ionization energy of each metal atom. <link target-id="import-auto-id1169810794106"/> shows the first ionization energy for each atom in the third and fourth rows of the Periodic Table, including both metals and non-metals.  What trends do we see in these data?  Two trends appear very clearly.  One trend is that the ionization energies of metals are significantly lower than the ionization energies of the non-metals. Another trend is that the ionization energies of the metals do not vary much from metal to metal.  This is very different from the sharp increases we see in the non-metals as we move across the periodic table.  </para><table id="import-auto-id1169806664067" summary="Ionization Energies of Different Elements"><title>Ionization Energies of Different Elements</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>
+             
+                <emphasis effect="bold">Element</emphasis>
+         
+            </entry>
+            <entry>
+             
+                <emphasis effect="bold">Atomic Number (Z)</emphasis>
+           
+            </entry>
+            <entry>
+            
+                <emphasis effect="bold">First Ionization Energy (kJ/mol)</emphasis>
+           
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Na</entry>
+            <entry>11</entry>
+            <entry>495.85</entry>
+          </row>
+          <row>
+            <entry>Mg</entry>
+            <entry>12</entry>
+            <entry>737.76</entry>
+          </row>
+          <row>
+            <entry>Al</entry>
+            <entry>13</entry>
+            <entry>577.54</entry>
+          </row>
+          <row>
+            <entry>Si</entry>
+            <entry>14</entry>
+            <entry>786.52</entry>
+          </row>
+          <row>
+            <entry>P</entry>
+            <entry>15</entry>
+            <entry>1011.82</entry>
+          </row>
+          <row>
+            <entry>S</entry>
+            <entry>16</entry>
+            <entry>999.60</entry>
+          </row>
+          <row>
+            <entry>Cl</entry>
+            <entry>17</entry>
+            <entry>1251.20</entry>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>18</entry>
+            <entry>1520.58</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>19</entry>
+            <entry>418.81</entry>
+          </row>
+          <row>
+            <entry>Ca</entry>
+            <entry>20</entry>
+            <entry>589.83</entry>
+          </row>
+          <row>
+            <entry>Sc</entry>
+            <entry>21</entry>
+            <entry>633.09</entry>
+          </row>
+          <row>
+            <entry>Ti</entry>
+            <entry>22</entry>
+            <entry>658.82</entry>
+          </row>
+          <row>
+            <entry>V</entry>
+            <entry>23</entry>
+            <entry>650.92</entry>
+          </row>
+          <row>
+            <entry>Cr</entry>
+            <entry>24</entry>
+            <entry>652.87</entry>
+          </row>
+          <row>
+            <entry>Mn</entry>
+            <entry>25</entry>
+            <entry>717.28</entry>
+          </row>
+          <row>
+            <entry>Fe</entry>
+            <entry>26</entry>
+            <entry>762.47</entry>
+          </row>
+          <row>
+            <entry>Co</entry>
+            <entry>27</entry>
+            <entry>760.41</entry>
+          </row>
+          <row>
+            <entry>Ni</entry>
+            <entry>28</entry>
+            <entry>737.13</entry>
+          </row>
+          <row>
+            <entry>Cu</entry>
+            <entry>29</entry>
+            <entry>745.49</entry>
+          </row>
+          <row>
+            <entry>Zn</entry>
+            <entry>30</entry>
+            <entry>906.41</entry>
+          </row>
+          <row>
+            <entry>Ga</entry>
+            <entry>31</entry>
+            <entry>578.85</entry>
+          </row>
+          <row>
+            <entry>Ge</entry>
+            <entry>32</entry>
+            <entry>762.18</entry>
+          </row>
+          <row>
+            <entry>As</entry>
+            <entry>33</entry>
+            <entry>944.46</entry>
+          </row>
+          <row>
+            <entry>Se</entry>
+            <entry>34</entry>
+            <entry>940.97</entry>
+          </row>
+          <row>
+            <entry>Br</entry>
+            <entry>35</entry>
+            <entry>1139.87</entry>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>36</entry>
+            <entry>1350.77</entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table><para id="import-auto-id1169810094466">We have already discussed the first trend in our study of atomic structure.  We explained the lower ionization energies for metals compared to non-metals from the fact that the metals have relatively lower core charges.  In our previous studies, we saw that the core charge increases for atoms as we increase the atomic number in a single row of the Periodic Table.  Each row consists of elements with valence electrons in the same energy shell.  The metals are more “to the left” in each row, meaning that they have smaller core charges for that row.  This explains the relatively lower ionization energies. </para>
+    <para id="import-auto-id1169810470424">The lack of big variations in the ionization energies of metals is harder to understand.  We have seen that the ionization energy of an atom is determined by the electron configuration.  For the metal atoms, these electron configurations are a little trickier than for the non-metals.  These are illustrated in <link target-id="import-auto-id1169806664067"/> for the atoms in the fourth row of the Periodic Table, beginning with K.  In each of these atoms, the 4s and 3d subshells have energies which are very close together.  In K and Ca, the 4s orbital energy is lower, so the outermost electron or electrons in these two atoms are in the 4s orbital and there are no 3d electrons.  For the transition metal atoms from V to Cu, these atoms have both 4s and 3d electrons and the number in each orbital depends very sensitively on exactly how many valence electrons there are and what the core charge is.  As such, the actual electron configurations in <link target-id="import-auto-id1169806664067"/> would have been very hard to predict and we will treat them as data which we have observed.  </para><table id="import-auto-id1169810392006" summary="Electron Configurations of Period 4 Elements"><title>Electron Configurations of Period 4 Elements</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>K</entry>
+            <entry>[Ar]4s<sup>1</sup></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Ca</entry>
+            <entry>[Ar]4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Sc</entry>
+            <entry>[Ar]3d<sup>1</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Ti</entry>
+            <entry>[Ar]3d<sup>2</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>V</entry>
+            <entry>[Ar]3d<sup>3</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Cr</entry>
+            <entry>[Ar]3d<sup>5</sup>4s<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>Mn</entry>
+            <entry>[Ar]3d<sup>5</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Fe</entry>
+            <entry>[Ar]3d<sup>6</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Co</entry>
+            <entry>[Ar]3d<sup>7</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Ni</entry>
+            <entry>[Ar]3d<sup>8</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Cu</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>Zn</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Ga</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>Ge</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>As</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>3</sup></entry>
+          </row>
+          <row>
+            <entry>Se</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>4</sup></entry>
+          </row>
+          <row>
+            <entry>Br</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>5</sup></entry>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>6</sup></entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><para id="import-auto-id1169807718947">A clear and surprising rule in the data in <link target-id="import-auto-id1169806664067"/> is that the outermost electron in each atom is always a 4s electron.  As we increase the atomic number from V to Cu, there are more 3d electrons, but these are not the highest energy electrons in these atoms.  Instead, these added 3d electrons increasingly shield the 4s electrons from the larger nuclear charge.  The result is that there is not much increase in the core charge, so there is not much increase in the ionization energy, even with larger nuclear charge.  </para><para id="import-auto-id1169807718135">This model explains the data in <link target-id="import-auto-id1169810794106"/>.  Although this analysis probably seems complicated, it helps us to understand the important observation that all of the metals have low ionization energies.  </para><para id="import-auto-id1169807554070">How do these electron configurations determine the properties of metals?  Or stated more specifically, how do the electrons configurations affect the bonding of metal atoms to each other, and how does this bonding determine the properties of the metals?  To find out, let’s look at each property and develop a model that accounts for it.  First, think about the electrical conductivity of metals.  When a relatively low electric potential is applied across a piece of metal, we observe a current, which is the movement of electrons through the metal from the negative to the positive end of the electric field.  The electrons in the metal respond fairly easily to that potential.  For this to happen, at least some of the electrons in the metal must not be strongly attracted to their nuclei. Does this mean that they are somewhat “loose” in the metal?  In fact, we have seen that this is true: the ionization energy of metal atoms is low. Perhaps the valence electrons are somewhat “loose” in the metal.  A metal’s conductivity tells us that when we have many metal atoms (let’s say 1 mole, for example), there are electrons available to contribute to the current when an electric potential is applied.  Thus, the valence electrons must not be localized to individual nuclei but rather are free to move about many nuclei.  </para>
+    <para id="import-auto-id1169823907491">Second, let’s think about the malleability and ductility of solid metals.  These properties mean that the bonding of the metal atoms together is not affected much when the atoms are rearranged.  It may be difficult to see on the macroscale, but bending a piece of metal or stretching into a thin wire requires major movement of atoms.  And since bending the metal does not break it into pieces, the adjacent atoms must remain bonded together despite these large atomic movements.  Apparently, the bonding electrons are not affected by this rearrangement of atoms. This is completely consistent with the idea we just discussed, that the electrons are free to move about many nuclei and are not just localized between two adjacent nuclei.  When the atoms are rearranged by bending or stretching, the electrons are free to immediately rearrange as well, and the bonding is preserved.</para>
+    <para id="import-auto-id1169823671349">Our picture of a metal, based on these conclusions, is that the nuclei of the metal atoms are arranged in an array in the solid metal.  The non-valence electrons in each metal, which are strongly attracted to each nucleus, remain localized near their own atoms.  The valence electrons, though, are free to move about the positive centers of the nuclei and core electrons.  Once you have this image in your head, you can see why chemists refer to this as the “electron sea model” of a metal.  You should also be able to see how the properties of metals lead us to this electron sea image.</para>
+    <para id="import-auto-id1169815467838">What about the shininess of metals?  To understand this, we need to know what causes light to shine off of a surface.  From our previous studies, we learned that light (electromagnetic energy) can be absorbed by atoms causing electrons to move from a lower energy state to a higher one.  Similarly, light can be emitted from an atom with an electron moving from a higher energy state to a lower one. According to Einstein’s formula, the frequency of the light ν absorbed or emitted, when multiplied by a constant h, must match the energy difference ∆E between the two electron states: ∆E=hν. </para>
+    <para id="import-auto-id1169823779145">Because there are so many electrons in the electron sea which are involved in the bonding of the metal atoms together, there are many, many electron energy levels, a huge number in fact.  So there are a correspondingly huge number of energy differences between these levels. This means that, when visible light hits the surface of a metal, the metal can easily absorb and reemit light of that frequency, reflecting the light and making the surface appear to shine.  </para>
+    <para id="import-auto-id1169807562596">Overall, we can see that the “electron sea” model of bonding of metal atoms together accounts for the properties of metals we have observed.  It is worth thinking about how very different this model of bonding is from the covalent model of bonding in non-metals.  We’ll come back to this contrast in the last section of this study.</para>
+</section>
+<section id="fs-id1169308680610">
+  
+      <title>Observation 2: Properties of Salts</title>
+ 
+    <para id="import-auto-id2817474">There are many types of compounds formed by combining metals atoms and non-metal atoms.  To simplify our discussion, we are going to focus on one specific type of compound called a salt.  The common use of the term “salt” refers to one specific compound Sodium Chloride (NaCl), which is also a great example of the more general idea of a salt, so we’ll start with it and then consider some more examples.</para>
+    <para id="import-auto-id1169823471733">What are the properties of NaCl?  They are quite different than the properties of the metals we just discussed.  First, NaCl is a solid crystal and it is not at all malleable. A crystal of NaCl, say “rock salt,” cannot be molded into whatever shape we choose.  Rather, it is very brittle.  Hit it with a hammer and, unlike a piece of metal, it shatters into tinier fragments of the crystal.  Similarly, it is not ductile.  It cannot be rolled or stretched into a wire or a thread.  Second, solid NaCl is not an electrical conductor.  Instead it insulates against the movement of current even when an electric potential is applied.  We can immediately conclude from these observations that the bonding model we developed for a metal is not going to work to describe bonding in NaCl. We’ll have to start from scratch.</para>
+    <para id="import-auto-id1169822118950">There are other interesting properties of NaCl.  One is that it dissolves easily in water, which most metals do not.  And when dissolved in water, the resulting solution conducts electricity.  Somehow then a current can pass through the salt solution, meaning that there are charged particles dissolved in the solution which carry the movement of charge.  These charged particles turn out to be ions, Na<sup>+</sup> and Cl<sup>-</sup>. Of course, this does not tell us whether there are ions in NaCl itself, since the interaction with the water molecules in the solution might change everything.  Instead, we could try melting NaCl, so that we wind up with a liquid which is pure NaCl without any water.  This takes a very high temperature, 808°C, indicating that there are strong forces at work in the solid NaCl crystal.  When we melt NaCl, we find that the resulting liquid does in fact conduct electricity.  Liquid NaCl thus consists of ions, Na<sup>+</sup> positive ions (“cations”) and Cl<sup>-</sup> negative ions (“anions”). </para>
+    <para id="import-auto-id1169807565496">As a result, we should expect that these same ions exist in the solid NaCl.  How can we reconcile the existence of ions in solid NaCl with fact that it does not conduct an electric current?  The answer is that a current is charge <emphasis effect="italics">in motion</emphasis>.  Thus, the simple existence of an ion is not enough to carry a current.  The ion must also be able to move, as electrons do in a metal, or as Na<sup>+</sup> and Cl<sup>-</sup> do when dissolved in water.  The ions in the solid cannot move, at least not very far, as we have seen from the fact that NaCl is not malleable.  In fact, the Na<sup>+</sup> and Cl<sup>-</sup> ions are basically fixed in place. From Coulomb’s law, we know that opposite charges are strongly attracted to each other. We can conclude then that the bonding in NaCl is due to the attraction of Na<sup>+</sup> cations to Cl<sup>-</sup> anions.</para>
+    <para id="import-auto-id1169824240506">Why are there ions in the solid?  The solid crystal itself is not electrically charged, so it isn’t clear why each Na atom has lost an electron and each Cl atom has gained an electron.  Let’s look again at the properties of these very different kinds of atoms.  We know that Na has low ionization energy, but it isn’t zero. It still does require a lot of energy to ionize the valence electron.  We know that Cl has a much higher ionization energy.  More importantly, we also know that Cl has a high electron affinity, which means that a lot of energy is released when an electron is added to a Cl atom.  </para>
+    <para id="import-auto-id1169807647230">Is the energy released when the electron is attached to the Cl atom enough to ionize the Na atom?  To find out, let’s compare the ionization energy of Na to the electron affinity of Cl:</para>
+    <para id="import-auto-id1169825557670">Na → Na<sup>+</sup> + e<sup>-</sup>  Ionization energy = 496 kJ/mol</para>
+    <para id="import-auto-id5098690">Cl + e<sup>-</sup> → Cl<sup>-</sup>  Electron affinity = -349 kJ/mol</para>
+    <para id="import-auto-id1169811062241">Our answer is no.  Taking an electron from a Na atom and giving it to a Cl atom costs a good amount of energy in total.  This seems to suggest that the electron should not leave the Na atom and join the Cl atom, so NaCl shouldn’t form ions and therefore shouldn’t form a stable compound.  </para>
+    <para id="import-auto-id1169817236652">We haven’t considered one key factor, however.  The energy comparison above leads to the formation of independent positive and negative ions which don’t interact with each other after the reaction is complete. But in reality, the Na+ and Cl- ions are very close to one another and attracted to one another.  Coulomb’s law tells us that this significantly lowers the energy.  And there is even more to consider.  A crystal of NaCl does not consist of a single Na<sup>+</sup> and a single Cl<sup>-</sup>.  Instead, it is an entire array of many positive and negative ions.  Each positive ion is surrounded by several negative ions.  And each negative ion is surrounded by the same number of positive ions.  (It turns out that number is 6.)  Coulomb’s law tells us that we get a huge lowering of energy from having all these opposite charges adjacent to one another.  This energy is called the “lattice energy” and it is very large, -787 kJ/mol.  This is much more than the energy deficit for ionizing both atoms, and accounts easily for the bonding in NaCl.  </para>
+    <para id="import-auto-id1705082">The bonding in NaCl is thus different than the covalent bonding in, say, HF or the metallic bonding in, say, Cu metal.  For obvious reasons, we refer to this type of bonding as “ionic bonding.”  </para>
+    <para id="import-auto-id9093917">Before concluding that ionic bonding is responsible for the stability of NaCl, we need to ask about the other primary property of NaCl mentioned above.  Specifically, NaCl is brittle and not malleable.  This is quite different from the property of a metal.  In a metal, we could rearrange the atoms, for example by bending or by deforming with a hammer, and the atoms remain strongly bonded.  But we cannot bend NaCl crystals, and if we hit them with a hammer, the bonding is destroyed as the crystal shatters. We simply cannot rearrange the atoms. It is clear that the bonding in NaCl depends very much on the arrangement of the atoms.</para>
+    <para id="import-auto-id1169820668602">If we think about our ionic bonding model, this makes perfect sense.  For the ionic bonding to work, the negative ions must remain surrounded by the positive ions and vice versa.  Any attempt to rearrange these ions will result in positive ions adjacent to positive ions and negative ions next to negative ions.  This will create strong repulsions, and the solid will fall apart.  Ionic bonding thus accounts for the brittleness of NaCl.</para>
+    <para id="import-auto-id1169817307383">So far, we’ve only looked at ionic bonding in NaCl as an example, but since we’ve seen that different covalent bonds have different energies, perhaps different ionic bonds have different energies.  We compare different salts to see if there are different lattice energies in the ionic bonds.  <link target-id="import-auto-id1169810392006"/> shows a set of lattice energies for salts formed from alkali metals (Li, Na, K, Rb) and halogens (F, Cl, Br, I).  There are some clear trends in these data.  The largest lattice energy corresponds to the combination of the two smallest ions, Li<sup>+</sup> and F<sup>-</sup>.  The lattice energy decreases when either or both of the ions are larger, with the smallest being for RbI, consisting of the two largest ions.  </para><table id="import-auto-id1169810566333" summary="Lattice Energies for Alkali Halides"><title>Lattice Energies for Alkali Halides</title>
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry>(kJ/mol)</entry>
+            <entry>
+              <emphasis effect="bold">F</emphasis>
+              <sup>–</sup>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Cl</emphasis>
+              <sup>–</sup>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Br</emphasis>
+              <sup>–</sup>
+            </entry>
+            <entry>
+              <emphasis effect="bold">I</emphasis>
+              <sup>–</sup>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis effect="bold">Li</emphasis>
+              <emphasis effect="bold"><sup>+</sup></emphasis>
+            </entry>
+            <entry>1036</entry>
+            <entry>853</entry>
+            <entry>807</entry>
+            <entry>757</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Na</emphasis>
+              <emphasis effect="bold"><sup>+</sup></emphasis>
+            </entry>
+            <entry>923</entry>
+            <entry>787</entry>
+            <entry>747</entry>
+            <entry>704</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">K</emphasis>
+              <emphasis effect="bold"><sup>+</sup></emphasis>
+            </entry>
+            <entry>821</entry>
+            <entry>715</entry>
+            <entry>682</entry>
+            <entry>649</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Rb</emphasis>
+              <emphasis effect="bold"><sup>+</sup></emphasis>
+            </entry>
+            <entry>785</entry>
+            <entry>689</entry>
+            <entry>660</entry>
+            <entry>630</entry>
+          </row>
+        </tbody>
+      
+
+
+
+
+
+</tgroup>
+</table><para id="import-auto-id1169811232730">Why would size be a determining factor in the lattice energy?  We should recall that the lattice energy follows Coulomb’s law.  So, the closer the charges are to one another, the stronger is the interaction.  Smaller ions can be closer together than larger ions.  So the lattice energy is largest for the smallest ions.  </para>
+    <para id="import-auto-id1169810010938">Of course, Coulomb’s law also involves the number of the charges.  In all of the compounds in <link target-id="import-auto-id1169810392006"/>, the ions have a single +1 or -1 charge.  We should look at compounds which contain doubly-charged ions.  For common ions with +2 charges, we can look at the alkali earth metals  In <link target-id="import-auto-id1169810566333"/>, we can easily see that the lattice energies for salts of these ions are much larger than for the alkali metal ions.  One final comparison would be a doubly-charged negative ion like O<sup>2-</sup>.  Again, the lattice energies involving single positive charges with O<sup>2-</sup> are larger, and the lattice energy is even larger still when both ions are doubly charges, as in MgO.</para><table id="import-auto-id1169823785119" summary="Lattice Energies for Alkaline Earth Halides and Oxides (kJ/mol)"><title>Lattice Energies for Alkaline Earth Halides and Oxides (kJ/mol)</title>
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>(kJ/mol)</entry>
+            <entry>
+              <emphasis effect="bold">F</emphasis>
+              <emphasis effect="bold">-</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Cl</emphasis>
+              <emphasis effect="bold">-</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Br</emphasis>
+              <emphasis effect="bold">-</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">I</emphasis>
+              <emphasis effect="bold">-</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">O</emphasis>
+              <emphasis effect="bold">2-</emphasis>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis effect="bold">Mg</emphasis>
+              <emphasis effect="bold">2+</emphasis>
+            </entry>
+            <entry>2936</entry>
+            <entry>2496</entry>
+            <entry>2397</entry>
+            <entry>2289</entry>
+            <entry>3923</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Ca</emphasis>
+              <emphasis effect="bold">2+</emphasis>
+            </entry>
+            <entry>2608</entry>
+            <entry>2226</entry>
+            <entry>2131</entry>
+            <entry>2039</entry>
+            <entry>3517</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Sr</emphasis>
+              <emphasis effect="bold">2+</emphasis>
+            </entry>
+            <entry>2475</entry>
+            <entry>2127</entry>
+            <entry>2039</entry>
+            <entry>1940</entry>
+            <entry>3312</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Ba</emphasis>
+              <emphasis effect="bold">2+</emphasis>
+            </entry>
+            <entry>2330</entry>
+            <entry>2028</entry>
+            <entry>1948</entry>
+            <entry>1845</entry>
+            <entry>3120</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><para id="import-auto-id1169810522688">We can conclude that compounds of metals and non-metals are typically formed by ionic bonding, and the strength of this bonding can be clearly understood using Coulomb’s law.</para>
+</section>
+<section id="fs-id1169324833511">
+    
+      <title>Observation 3: Properties and Bonding in Solid Carbon</title>
+  
+    <para id="import-auto-id1169809960890">In the first two observations of this study, we considered bonding in solids of two types, metals and salts.  These are just two of the many types of solids, and not all solids are formed by either ionic bonding or metallic bonding.  Far from it.  We cannot look at every type of solid in this study, but it is worth considering one specific example which forms an interesting contrast to metals and salts.  This example is diamond, one of several forms of pure solid carbon.  (The other primary forms are graphene and the set of materials called fullerenes.  We will postpone study of those materials for later.)</para>
+    <para id="import-auto-id1169810086391">As always, we should begin with experimental observations to guide our understanding of diamond.  What are its primary properties?  It is a very hard solid, generally regarded as the hardest solid available in bulk.  It is not malleable and would not be considered brittle like NaCl.  It can be cleaved only with significant force.  It has a very, very high melting point, over 3500 °C, and as an interesting note, it is the most thermally conducting material we know, meaning that it transfers heat better than any other substance.  However, it does not conduct electricity.</para>
+    <para id="import-auto-id1169808666562">What can we infer about the bonding in diamond from these properties?  Since it is not brittle, we do not expect ionic bonding in diamond. This makes sense, since all of the atoms are carbon.  But since it does not conduct electricity, we do not expect that the electrons are delocalized over the entire crystal, as they are in a metal.  The bonding electrons must be more localized to individual nuclei.  Since diamond is very hard and not malleable, the bonding must depend on the specific arrangement of the atoms, since, unlike a metal, it is very difficult to rearrange these atoms.  Diamond won’t bend!</para>
+    <para id="import-auto-id1169805047891">So diamond has neither metallic bonding nor ionic bonding.  But this is not a surprise, since we know already that carbon forms covalent bonds.  We can recall that carbon atoms have a valence of 4 and have 4 valence electrons which they commonly share with other carbon atoms or with non-metal atoms to form covalent bonds.  Since all of our observations suggest that the bonding electrons in diamond are localized, we can imagine that all of the bonding in diamond is covalent.  That makes sense, based on our knowledge of the ways that carbon atoms bond with different elements.  </para>
+    <para id="import-auto-id1169810740110">Let’s pick one carbon atom to start with.  What if that carbon atom is bonded to four other carbon atoms, satisfying the octet rule for covalent bonding?  And what if each of those four carbon atoms is, in turn, bonded to three additional carbon atoms.  And those twelve carbon atoms are, again in turn, bonded to three additional carbon atoms.  We can build an entire “network” of carbon atoms this way, as is illustrated in <link target-id="import-auto-id1169810794106"/> where the C atoms are shown with bonds connecting them.  </para><figure id="import-auto-id1169810794106"><title>Carbon Atoms in the Diamond Network Lattice</title><media id="import-auto-id1169810108973" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1.jpg" height="320" width="575"/>
+      </media>
+    </figure><para id="import-auto-id1169810036232">Looking closely at this, it is clear that each carbon atom has a complete octet, satisfying its valence of 4.  Thinking about this more carefully, it is also clear that this network does not have to end.  We could continue building this network by adding more and more carbon atoms, each bonded to four other carbon atoms, building a huge molecule large enough to hold.  Or to wear on a ring!</para>
+    <para id="import-auto-id1169810002329">Does the bonding model in <link target-id="import-auto-id1169810794106"/> account for the properties of diamond?  The electrons are all localized, so we wouldn’t expect diamond to conduct electricity.  The atoms are very precisely arranged in the network and cannot be moved relative to one another without breaking some of the covalent bonds, so diamond is very hard and non-malleable.  We call the bonding in diamond “network covalent”, since the bonding is all covalent and creates a network of carbon atoms.</para><para id="import-auto-id1169810459743">There is an important unanswered question: why do the carbon atoms sit in the particular geometry as they do in <link target-id="import-auto-id1169810794106"/>?  The answer is not obvious right now, and the question is the subject of the next concept study.  For now, we’ll simply note that a carbon atom with four single bonds will arrange those bonds in the shape of a tetrahedron.  When all of the carbon atoms are networked together with this geometry, we get the network in <link target-id="import-auto-id1169810794106"/>.</para></section>
+<section id="fs-id1169324749983">
+   
+      <title>A Model for Predicting the type of Bonding: Electronegativity</title>
+    
+    <para id="import-auto-id1169810071099">We have now seen three types of bonding in solids.  In metallic bonding, the bonding valence electrons are delocalized in an “electron sea,” allowing current to flow and permitting distortions of the arrangements of the atoms.  In ionic bonding, adjacent positive metal ions and negative non-metal ions are strongly attracted to each other in an array which places positive ions next to negative ions and vice versa.  This creates a hard, brittle solid, not permitting rearrangement of the ions and not allowing electron flow in an electric current.  In a solid covalent network like diamond, the bonding is the more familiar covalent sharing of an electron pair so that each non-metal atom in the network satisfies its valence in agreement with the octet rule.  This makes a very hard solid which is neither brittle nor malleable, and this does not allow movement of electrons in a current.</para>
+    <para id="import-auto-id1169810436200">It would be nice to add to our bonding model a way to understand or even to predict which of these types of bonding is expected for a particular solid.  This would allow us to understand or predict the properties of the solid from the properties of the atoms which make it up.  How shall we begin? </para>
+    <para id="import-auto-id1169810762229">The most consistent trend we have seen is that bonding appears quite different for metals, non-metals, and combinations of metals and non-metals.  At least from what we have observed so far, metal atoms bond to metal atoms with metallic bonding (hence the name!), metal atoms bond to non-metal atoms with ionic bonding, and non-metal atoms bond to non-metal atoms with covalent bonding.  This suggests that we look at the differences between metal atoms and non-metal atoms.  From our previous concept study, we know one major difference: the electronegativity of non-metals is quite high, whereas the electronegativity of metals is typically much lower.  </para>
+    <para id="import-auto-id1169810097644">Let’s break this down in terms of the three types of bonding.  The easiest case is ionic bonding.  In this case, we have combined a metal with a non-metal, like Na with Cl, so we have combined atoms with high electronegativity with atoms with low electronegativity.  Apparently, atoms with these properties tend to attract each other with ionic bonding.  This makes sense: with very different electronegativities, the atoms are not likely to share bonding electrons.  It is likely that the very electronegative atoms will form negative ions and the weakly electronegative atoms with form positive ions, and the oppositely charged ions will attract each other.  Thus, our model can be that, when a compound contains atoms with very different electronegativities, the compound is likely to be ionic bonded and have the properties of an ionic solid.</para>
+    <para id="import-auto-id1169810726781">By process of elimination, the remaining types of bonding, metallic and covalent, must involve atoms with similar electronegativities.  But something must distinguish these two in a way that we can predict.  Metallic bonding is expected when all the atoms are metals and therefore have low electronegativity.  Covalent bonding is expected when all the atoms are non-metals and therefore have relatively high electronegativity.  </para>
+    <para id="import-auto-id1169805634146">Here is the general summary for our model:  </para>
+    <list id="import-auto-id1169818594158" list-type="bulleted">
+      <item>When the bonded atoms in a compound all have low electronegativity, we should predict metallic bonding and the compound should be a solid with metallic properties.  </item>
+      <item>When the bonded atoms in a compound have very different electronegativities, we should predict ionic bonding and the compound should be a brittle, non-conducting solid.  </item>
+      <item>When the bonded atoms in a compound all have high electronegativity, we should predict covalent bonding.  </item>
+    </list>
+    <para id="import-auto-id1169811132460">In the last case, there are many types of solids possible, and the properties of a covalent compound depend very much on the types of solid which is formed.  To illustrate, diamond and ammonia NH<sub>3</sub> are both covalent compounds, but the properties of these two compounds could hardly be more different.  We’ll need a more extensive model to predict what type of covalent compound will form.</para>
+    <para id="import-auto-id1169811555737">This model leads to a simple picture for a reasonable prediction of the type of bonding.  We need to consider both the differences in electronegativity between the atoms in a compound as well as the actual magnitudes of the electronegativities, either high or low.  This means that, at least for binary compounds (those involving only 2 elements), we can create a chart showing both the magnitude of the electronegativities of the atoms (taken as an average of the two electronegativities) and the difference between the two electronegativities.  We wind up with a chart that looks like a triangle, as in <link target-id="import-auto-id1169805620212"/>.  In fact, this is called a “bond type triangle.”  A few compounds are shown on the triangle to illustrate how this model can be used successfully to predict the type of solid from the atoms involved.   </para><figure id="import-auto-id1169805620212">
+      <media id="import-auto-id1169809959174" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-31c0.jpg" height="415" width="415"/>
+      </media>
+    </figure>
+  
+</section>
+<section id="fs-id7339961">
+      <title>Discussion Questions</title>
+   
+    <list id="import-auto-id5047199" list-type="enumerated" number-style="arabic"><item>Explain why the low ionization energy of a metal atom is important to the bonding in the metal.</item>
+      <item>The four metals Sc, Ti, V, and Cr have increasing nuclear charge in the order listed but have only small differences in ionization energy.  On the basis of the electron configurations of these elements, explain this unexpected lack of variation.</item>
+      <item>It is often argued that alkali metals form ionic bonds with halogens (e.g. NaCl) because the Na atom can form an octet of electrons by losing it valence electron, thus lowering its energy.  Using experimental data, demonstrate that this is an incorrect model for explaining the formation of an ionic bond.  </item>
+      <item>From the data in <link target-id="import-auto-id1169810392006"/> and <link target-id="import-auto-id1169810566333"/>, identify three trends in the variation of lattice energies amongst these compounds, and explain these variations on the basis of Coulomb’s law.</item>
+      <item>When a metal can be shaped into a spring, the metal can be stretched but will return to it original shape when released.  Explain this behavior in terms of the bonding model of a metal.  Suggest a reason why a salt cannot be used to make a spring.</item>
+      <item>Looking at the carbon atom network in diamond illustrated in <link target-id="import-auto-id1169810794106"/>, we could imagine that the bonding electrons are delocalized over the entire network, as in our electron sea model of a metal.  Provide and explain experimental data which demonstrate that the electron sea model does not apply to solid carbon.</item>
+      <item>Why is it necessary to consider both electronegativity differences between bonded atoms and the average electronegativity of bonded atoms when analyzing the type of bond which is formed?</item>
+      <item>Why is the bond type diagram in <link target-id="import-auto-id1169805620212"/> a triangle?  That is, why is it not possible to observe compounds over the entire range of average electronegativity and electronegativity difference?  </item>
+    </list></section>
+  </content>
+</document>

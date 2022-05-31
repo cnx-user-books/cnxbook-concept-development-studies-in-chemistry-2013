@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Structure of an Atom</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44315</md:content-id>
+  <md:title>Structure of an Atom</md:title>
+  <md:abstract/>
+  <md:uuid>ebb48bbb-d754-40de-acf2-70ff61ebe8b7</md:uuid>
+</metadata>
+
+<content>
+  <section id="fs-id1168851433027">
+    <title>
+      Introduction
+    </title>
+    <para id="import-auto-id1167572485093">The Atomic Molecular Theory is very powerful in helping us understand matter.  We can easily understand the differences between the elements and all other compounds by thinking about the particles which make them up.  Elements contain all identical atoms, and compounds contain identical molecules, each composed of definite small numbers of atoms of the elements that make up the compound.  We can also do chemical algebra calculations, which allow us to make predictions about the masses of materials that are involved in chemical reactions.</para>
+    <para id="import-auto-id1167572536349">Without further observations, though, this is about as far as we can go because our knowledge about the properties of atoms is very limited.  We only know that atoms of different elements have different masses, and we know the relative atomic masses of the elements.  But this does not give us any insight into why the atoms of different elements have such differing chemical properties.  For example, carbon and nitrogen have very similar atomic masses.  However, carbon in one of its forms, diamond, is a very hard, unreactive solid and in another of its solid forms, coal, carbon will burn in oxygen.  Nitrogen, though, is a gas and is fairly unreactive with oxygen except at very high temperatures.  Clearly, carbon atoms interact with each other very differently than nitrogen atoms interact with each other.  </para>
+    <para id="import-auto-id1167572545941">Without knowing anything else about atoms, we might imagine them as tiny hard spheres.  But this idea will not help us understand their chemistry, such as why they form the compounds that they do.  What does it mean for hydrogen and carbon to form the compound methane?  We know that methane’s molecular formula is CH<sub>4</sub>, but how do these five atoms hold together in a molecule?  It seems reasonable to imagine that the attractions are due to magnetic forces or electrical forces between the atoms.  However, atoms of hydrogen and carbon must be electrically neutral, since bulk samples of hydrogen and carbon are electrically neutral.  They are also non-magnetic.  How do neutral, non-magnetic atoms interact with each other?  Another riddle is why they form in the particular ratios that they do.  CH<sub>4</sub> is a compound but there isn’t a compound with molecular formula CH<sub>5</sub>.  </para>
+    <para id="import-auto-id1167572511894">Understanding these differing elemental and molecular properties requires us to have a deeper understanding of the properties of individual atoms.  Since we cannot understand these properties by thinking of the atoms as individual hard spheres, we need to investigate the structure of the atom.</para>
+</section>
+<section id="fs-id1168843497131">
+    <title>
+      Foundation
+    </title>
+    <para id="import-auto-id1167572545876">In this study, we will assume that we know the postulates of the Atomic Molecular Theory and our measurements of relative atomic masses.  We know that an element is composed of individual atoms with identical masses, and we know that the atoms of different elements have different masses, which have been measured.  </para>
+    <para id="import-auto-id1167572505188">We will also assume our understanding from a previous study that electricity consists of individual charged particles called electrons, which are assigned a “negative” charge.  The mass of the electron is quite small relative to the mass of an atom.  Atoms contain electrons, and electrons can be added to or removed from atoms by applying an electrical current.  </para>
+    <para id="import-auto-id1167572496076">We noted in the introduction that atoms in elemental form are neutral, or without charge.  Since atoms contain negatively charged electrons, each atom must also contain a positive charge which exactly equals the total charge on the electrons in the atom.  Since electrons are particles, there has to be an integer number of negative charges, so there also has to be an integer number of positive charges in each atom.  These statements are important to keep in mind, but they don’t help us very much without more data.  We don’t know how many electrons are in each atom, and therefore we don’t know how many positive charges are in each atom.  We do not even know whether that number of electrons is the same or different for different atoms of different elements.</para>
+    <para id="import-auto-id1167572513304">In addition, we don’t know how these positive and negative charges are arranged in each atom.  They might be clustered together in some sort of ball, they might be paired off together, they might be randomly arranged, or there may be some other arrangement that we don’t expect.</para>
+    <para id="import-auto-id1167572528276">In this concept development study, we will determine the arrangement of the charged particles in an atom, and we will determine the numbers of charged particles in the atoms of each element.</para>
+</section>
+<section id="fs-id1168844128783"><title>Observation 1: Scattering of α particles by atoms     </title><para id="import-auto-id1167572542057">To find out what the inside of an atom looks like, we perform a “scattering” experiment.  This involves shooting charged particles at atoms and watching what happens. Depending on how the charged particles are arranged inside the atom, these charges should “scatter” the particles we shoot.  If we look at the pattern of the scattering, we should be able to infer what the arrangement of the charges inside the atom looks like.</para>
+    <para id="import-auto-id1167572525114">It would seem very hard to shoot particles at individual atoms, though, since these are very small, impossible to see, and possibly even elusive.  One way to do this is to take a very thin sheet of a metal, so thin that the thickness of the metal will not be very many atoms across.  Gold is a good choice of metal, since it is easy to hammer out to a very thin sheet and it is very unreactive, so it is possible to make it quite pure.  In this experiment, the thickness of the gold foil will be only about 10<sup>-4</sup> cm, sometimes called 1 “micron.”  This is less than one-twentieth of the thickness of one human hair, so this is very thin indeed.</para><para id="import-auto-id1167581464032">We need particles to shoot at this thin foil, preferably charged particles which will interact with the positive and negative charges in the gold atoms.  A good choice is the α particle, which is positively charged and much more massive than an electron.  In the experiment, we will fire a beam of α particles directly at the gold foil, and then we will observe where the α particles go after interacting with the gold atoms.  They might pass through the foil, they might be deflected somewhat as they pass through, or they might even rebound in various angles back to the source of the beam. </para><figure id="import-auto-id1652400"><media id="import-auto-id1167578002942" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-5abb.png" height="411" width="576" print-width="4in"/>
+      </media>
+      
+    <caption>Diagram of Rutherford’s gold foil experiment showing the results of shooting Α particles at a very thin sheet of gold foil. </caption></figure><para id="import-auto-id1167573428221">The experimental data for the scattering of the α particles shows three primary results, as depicted in <link target-id="import-auto-id1652400"/>. First, and perhaps most surprisingly, the greatest number of the α particles pass directly through the gold foil without any deflection in their paths. Second, a much smaller number of the α particles experience small deflections in their paths. And third, a very small fraction of the  α particles (perhaps 1 in 50,000 or more) are deflected back in the direction of the beam they came from.  </para><para id="import-auto-id1167580548145">For now, we’ll focus on the first and third observations. It is surprising that the largest number of the α particles pass through the gold foil as if it is not there. In fact, it is just as if the gold foil consisted mostly of empty space, and most of the α particles seem to pass through that empty space. This seems strange, since the gold foil is certainly solid and doesn’t appear to be empty space. The third result gives a striking contrast to this result. A tiny fraction of the α particles must encounter something other than empty space. To rebound, an α particle must hit something much more massive than itself. We might think that this is a gold atom, which is much heavier than an α particle, but to be consistent with the first observation, most of the gold atom must be empty space.</para><para id="import-auto-id1167572475505">Thinking about these two observations leads us to a simple model for the atom.  Each gold atom must be mostly empty space and most of the mass of the gold atom must be concentrated into a very small fraction of the volume of the atom.  We will call this concentrated mass the “nucleus.”  A careful calculation based on the fraction of α particles which pass through and the fraction which rebound tells us that the diameter of the nucleus is about 100,000 times smaller than the diameter of the atom itself.  This is an amazing result!  Although an atom is very small, the nucleus is very much smaller than that, as analogously depicted in the diagram in <link target-id="import-auto-id1167572517660"/>.</para><figure id="import-auto-id1167572517660"><media id="import-auto-id1167572563892" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-636e.png" height="511" width="575"/>
+      </media>
+      
+    <caption>This map illustrates the size of an atom if the nucleus were a standard-sized basketball at Lovett Hall on the Rice University campus. The atom is 100,000 times large than the nucleus, so on this map this model of an atom has a radius of 11.9 km.</caption></figure><para id="import-auto-id1167572502729">This is an interesting model that seems to account for two of our three observations, but it is a puzzling model too. If the mass of the atom is concentrated in such a small space, what occupies the rest of the volume of the atom? The second observation from the experiment helps us understand this.  Since a small number of the positively charged α particles are deflected in their paths, this suggests that they come close to but do not run into something positive in the atom. Since these α particles are deflected, whatever they come close to must be more massive than they are. This means that they are coming close to the nucleus and the nucleus must be positively charged.</para><para id="import-auto-id1167572529899">This gives us a clue about what occupies the vast empty space of the atom. If the positive charges of the atom are concentrated in the nucleus, the negative charges in the atom, the electrons, must be in the much larger space of the atom outside of the nucleus. This nuclear model of the atom then accounts for all three observations in the α particles gold foil scattering experiment.  Most of the volume of the atom is empty space in which negatively charged electrons move about.  Most of the mass and all of the positive charge of the atom is concentrated in a nucleus, which is tiny in comparison to the atom.</para></section><section id="fs-id1168844540341">
+    <title>
+      Observation 2: X-ray emissions from atoms
+    </title>
+    <para id="import-auto-id1167572516918">It is interesting to know that each atom has a nuclear structure, particularly since we now know that the positive and negative charges in the atom are separated into different parts of the atom.  The interaction of these positive and negative charges must be what determines the properties of each type of atom, including the types of molecules that they tend to form.  Even though each atom is neutral, it might be possible for the positive charges on one atom to interact with the negative charges on another atom, and vice versa.  To show this, we would need to know how many positive and negative charges there are in each atom.  It seems reasonable to assume that these numbers are different for atoms of different elements, but we don’t know that without making more observations.</para>
+    <para id="import-auto-id1167572531172">At this point, we know that atoms contain electrons, and that there are an integer number of these.  We also know that each atom contains an equal number of positive charges, all of which are in the nucleus.  It makes sense that, since the positive charge is an integer, there must be particles of positive charge in the nucleus, and we will now call these particles “protons.”  This doesn’t make our life any easier, but it does clarify our language.</para>
+    <para id="import-auto-id8513399">Our problem now boils down to finding out how many protons and how many electrons there are in each atom of each type.  These integers are the same number for each atom, of course, since each atom is neutral.  Finding this integer for each element seems quite difficult, and the experiment which reveals the number to us is a strange one which doesn’t seem related to the question at all.</para>
+    <para id="import-auto-id1167580617258">When materials are placed in an electrical discharge, they commonly emit light or “electromagnetic radiation.” Not all of this light is visible.  Some of this light is high-energy light called ultraviolet radiation, and some of it is even higher energy radiation called x-rays.  We can tell the difference between different types of radiation by the “frequency” of the radiation, a property that tells us how rapidly the electromagnetic field of the radiation oscillates.  Different frequencies of radiation can be separated by passing the radiation through different materials.  This is how a prism works, for example.  We can also separate the different frequencies with something called a “diffraction grating,” which can be either a solid with parallel grooves or a transparent solid with closely spaced lines.  As common examples of simple diffraction gratings, compact discs and DVDs have grooves in parallel to each other and can be used to produce a visible rainbow.  A white light source will reveal the different colors of light, each with its own frequency, when the light is reflected off of the surface of the disc.</para>
+    <para id="import-auto-id1167572489951">This separation of light into different frequencies is very useful in a type of experiment called “spectroscopy.”  There are many types of spectroscopy, but in most cases, a sample of a material is energized in some way, often in an electrical discharge, and the sample emits light.  This is an everyday observation.  For example, heated objects tend to glow, which means that they are emitting light.  In spectroscopy, the light which the sample emits is separated by a prism or a grating and a wonderful result occurs.  Each different element or compound has its own characteristic set of frequencies of light which are emitted.  In other words, only certain frequencies of light are emitted by each substance, and the set of frequencies for each substance is unique to that substance.  Spectroscopy has great value in science, because we can identify that a sample contains a particular compound or element just by looking at the frequencies of light that the sample emits.  This is how we know the composition of distant stars, for example.</para>
+    <para id="import-auto-id1167573237510">We need to focus on atoms, so we’ll look only at the spectroscopy of pure elements.  Each element has a characteristic spectrum of frequencies.  We will focus on the light frequencies which are x-rays and, even more carefully, for each element we will focus on the lowest frequency x-ray which each atom emits.  These are given for many of the elements in <link target-id="import-auto-id1167579935316"/>.  The ordering of the elements in <link target-id="import-auto-id1167579935316"/> is important.  We could have listed them alphabetically by name.  Instead, we have listed them in their order of increasing relative mass.  In the set of elements given here, lithium is the least massive element so it is at the top, then beryllium, and so forth.  Note that the x-ray frequency emitted by each atom increases as the masses of the atoms increase moving down <link target-id="import-auto-id1167579935316"/>. (There is one exception to our order in <link target-id="import-auto-id1167579935316"/>: Argon is slightly more massive than Potassium, but we have put Argon before Potassium for reasons that we will discuss later.)  </para><table id="import-auto-id1167579935316" summary="X-ray Frequencies of Atoms"><title>X-ray Frequencies of Atoms</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>Atomic Number</entry>
+            <entry>Element Name</entry>
+            <entry>X-ray frequency (10 <sup>16 </sup>s<sup>-1</sup>)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>3</entry>
+            <entry>Lithium</entry>
+            <entry>1.3158</entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>Beryllium</entry>
+            <entry>2.6316</entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>Boron</entry>
+            <entry>4.4379</entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>Carbon</entry>
+            <entry>6.7114</entry>
+          </row>
+          <row>
+            <entry>7</entry>
+            <entry>Nitrogen</entry>
+            <entry>9.4937</entry>
+          </row>
+          <row>
+            <entry>8</entry>
+            <entry>Oxygen</entry>
+            <entry>12.701</entry>
+          </row>
+          <row>
+            <entry>9</entry>
+            <entry>Fluorine</entry>
+            <entry>16.376</entry>
+          </row>
+          <row>
+            <entry>10</entry>
+            <entry>Neon</entry>
+            <entry>20.534</entry>
+          </row>
+          <row>
+            <entry>11</entry>
+            <entry>Sodium</entry>
+            <entry>25.189</entry>
+          </row>
+          <row>
+            <entry>12</entry>
+            <entry>Magnesium</entry>
+            <entry>30.334</entry>
+          </row>
+          <row>
+            <entry>13</entry>
+            <entry>Aluminum</entry>
+            <entry>35.971</entry>
+          </row>
+          <row>
+            <entry>14</entry>
+            <entry>Silicon</entry>
+            <entry>42.008</entry>
+          </row>
+          <row>
+            <entry>15</entry>
+            <entry>Phosphorous</entry>
+            <entry>48.701</entry>
+          </row>
+          <row>
+            <entry>16</entry>
+            <entry>Sulfur</entry>
+            <entry>55.814</entry>
+          </row>
+          <row>
+            <entry>17</entry>
+            <entry>Chlorine</entry>
+            <entry>63.416</entry>
+          </row>
+          <row>
+            <entry>18</entry>
+            <entry>Argon</entry>
+            <entry>71.518</entry>
+          </row>
+          <row>
+            <entry>19</entry>
+            <entry>Potassium</entry>
+            <entry>80.118</entry>
+          </row>
+          <row>
+            <entry>20</entry>
+            <entry>Calcium</entry>
+            <entry>89.242</entry>
+          </row>
+          <row>
+            <entry>21</entry>
+            <entry>Scandium</entry>
+            <entry>98.873</entry>
+          </row>
+          <row>
+            <entry>22</entry>
+            <entry>Titanium</entry>
+            <entry>109.01</entry>
+          </row>
+          <row>
+            <entry>23</entry>
+            <entry>Vanadium</entry>
+            <entry>119.65</entry>
+          </row>
+          <row>
+            <entry>24</entry>
+            <entry>Chromium</entry>
+            <entry>130.80</entry>
+          </row>
+          <row>
+            <entry>25</entry>
+            <entry>Manganese</entry>
+            <entry>142.47</entry>
+          </row>
+          <row>
+            <entry>26</entry>
+            <entry>Iron</entry>
+            <entry>154.65</entry>
+          </row>
+          <row>
+            <entry>27</entry>
+            <entry>Cobalt</entry>
+            <entry>167.33</entry>
+          </row>
+          <row>
+            <entry>28</entry>
+            <entry>Nickel</entry>
+            <entry>180.53</entry>
+          </row>
+          <row>
+            <entry>29</entry>
+            <entry>Copper</entry>
+            <entry>194.25</entry>
+          </row>
+          <row>
+            <entry>30</entry>
+            <entry>Zinc</entry>
+            <entry>208.48</entry>
+          </row>
+          <row>
+            <entry>31</entry>
+            <entry>Gallium</entry>
+            <entry>223.21</entry>
+          </row>
+          <row>
+            <entry>32</entry>
+            <entry>Germanium</entry>
+            <entry>238.47</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><para id="import-auto-id1167572542590">We have also added something interesting in <link target-id="import-auto-id1167579935316"/>, the “atomic number.”  This number is just the ranking of the elements in order of increasing mass.  The atomic number then is just another name we have given to each element with no more significance than the names we have given.  (Note again that Argon is placed before Potassium.  There are other reasons for this, but this also makes sense in the data, since this way, the frequencies of the x-rays increase.)</para><para id="import-auto-id4140118">Other than the fact that the x-ray frequencies consistently increase, there doesn’t seem to be any other obvious pattern in the data.  We could look for a pattern by plotting the x-ray frequency versus the masses of the atoms, but this doesn’t show anything additional.  Surprisingly, though, if we plot the x-ray frequency versus the atomic number, a clear pattern emerges, as we see in <link target-id="import-auto-id1778858"/>.</para><figure id="import-auto-id1778858"><media id="import-auto-id1167578772490" alt="">
+        <image mime-type="image/png" src="../../media/graphics3.png" height="306" width="564"/>
+      </media>
+      
+    <caption>X-ray frequency vs. atomic number for the elements lithium to germanium.</caption></figure><para id="import-auto-id1167579549662">The frequencies don’t just increase with atomic number, they increase with a very smooth function.  This type of graph might look familiar to you.  It looks similar to a graph of y = x<sup>2</sup>, called a parabola.  Is the graph in <link target-id="import-auto-id1652400"/> a parabola?  To find out, we need to know whether the x-ray frequency is a function of the atomic number squared.  One way to do this is to plot the square root of the x-ray frequency versus the atomic number.  This would be like plotting the square root of y versus x to see if y = x<sup>2</sup>.  This new graph is shown in <link target-id="import-auto-id1167577798815"/>.</para><figure id="import-auto-id1167577798815"><media id="import-auto-id1167573466240" alt="">
+        <image mime-type="image/png" src="../../media/graphics4.png" height="351" width="564"/>
+      </media>
+      
+    <caption>The square root of x-ray frequencies vs. atomic number for the elements lithium to germanium.</caption></figure><para id="import-auto-id1167578692899">The graph in <link target-id="import-auto-id1167572517660"/> is very significant.  It shows that there is a simple relationship between the x-ray frequency emitted by each atom and the atomic number of the atom.  But this is a strange result.  The x-ray frequency is a physical property of each atom.  The atomic number is just an integer that we assigned to each element based on its mass ranking.  This is a surprise!  Why would a physical property match up so strongly with a non-physical property like an integer in the mass rankings?  There is only one possibility: the atomic number must also be a physical property of the atom.  It is not an arbitrary number, even though we assigned it that way initially.  It is a property of the atom.</para><para id="import-auto-id1167572512299">The atomic number is also a special property of the atom because it is an integer, and integers are used to count objects or particles.  This means that the atomic number must be counting some integer number of objects or particles in each atom, and that number must be unique for each atom.  But we know that there is an integer that describes each atom: the number of protons and electrons that each atom has.  </para>
+    <para id="import-auto-id5285051">Our conclusion is therefore that the atomic number is a property of each atom which is equal to the number of protons in each atom and is also equal to the number of electrons in each atom.  We have found a way to count the number of charges in each atom! There are two remarkable results to mention here.  The first is that each atom has its own characteristic number of protons and electrons.  This is not shared with any other atom.  This suggests that these numbers must be important in determining the chemical and physical properties of the atom.  The second is that every integer number of protons and electrons is accounted for.  There are no gaps or breaks in <link target-id="import-auto-id1167579935316"/> or in <link target-id="import-auto-id1652400"/> or <link target-id="import-auto-id1167572517660"/>.  We have them all.  There are no missing elements in the range from 3 to 32, nor for that matter from 1 to 114.  This is why there are only a small number of elements (about 90 naturally occurring ones).</para><para id="import-auto-id1167572502421">We now know what is unique about the atoms of different elements.  It does make sense that atoms with different numbers of charged particles would interact differently, forming compounds with different chemical and physical properties.  But we might imagine that atoms with similar (but not equal) numbers of charged particles would have fairly similar chemical and physical properties.  As we will explore in much more detail later, this is not at all the case.  In fact, it is possible to compare two elements with very similar atomic numbers, say Neon and Sodium, and find that their chemical properties are completely different.  Neon is a gas, even at extremely low temperatures, and is so unreactive that it does not form compounds with any other elements.  Sodium is a solid which is so reactive that its reactions with other elements are often violent and energetic.  It seems clear that just knowing how many electrons an atom has is not sufficient to make predictions about how that atom might behave.  We will need to refine our model with further observations.</para>
+</section>
+<section id="fs-id1168854936808"><title>Review and Discussion Questions     </title><list id="import-auto-id1167572496818" list-type="enumerated" number-style="arabic"><item>Explain how the scattering of α particles from gold foil reveals that an atom contains a massive, positively charged nucleus whose size is much smaller than that of an atom.</item>
+  
+      <item>Explain the significance of the relationship between the frequency of x-ray emission from each atom and the atomic ranking of that atom in the periodic table.</item>
+    </list></section><para id="eip-337">By John S. Hutchinson, Rice University, 2011</para></content>
+</document>

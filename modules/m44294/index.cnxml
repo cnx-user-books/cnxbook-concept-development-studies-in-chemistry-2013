@@ -1,0 +1,457 @@
+<document xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns="http://cnx.rice.edu/cnxml">
+  <title>Measuring Energy Changes in Chemical Reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44294</md:content-id>
+  <md:title>Measuring Energy Changes in Chemical Reactions</md:title>
+  <md:abstract/>
+  <md:uuid>79ef1630-f60b-4e8b-b80a-814e9e3977ef</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1165908678909">
+  
+    
+      <title>Introduction</title>
+    
+    <para id="import-auto-id427945">Energy is a central theme of the study of Chemistry.  The most common chemical reactions are carried out entirely for their production of energy.  The most common sources of energy for use by humans are all chemical reactions.  And the source of energy in the human body is entirely from chemical reactions.  The industries of production, transportation, storage, and conversion of energy sources are overwhelmingly chemically based.  </para>
+    <para id="import-auto-id520060">To this point in our studies, we have discussed energy extensively but only to help us understand the stability of atoms, the electronic structure of atoms, the stability of chemical bonds, the geometry of molecules, the bonding in metals and salts, and so forth.  We have not yet studied the energy changes which accompany chemical reactions.</para>
+    <para id="import-auto-id431024">This study and the next mark a significant transition in our studies.  Rather than focus entirely on the structure of atoms and molecules, we will now consider observations of chemical properties on the macroscopic level.  One of the major goals of developing chemical models is to relate the structures of individual atoms and molecules to the properties we observe for substances and reactions in bulk amounts.  This might seem an insurmountable task.  Since a bulk sample of a substance may contain literally trillions of trillions of particles, relating the properties of those particles to the properties of the bulk seems to require an incomprehensible amount of information.  In this study and those that follow, we begin that process.  First, we make detailed observations about the amounts of energy which are released or absorbed during chemical reactions and develop a method for measuring reaction energies for bulk reactions.  Then, in the next study, we will relate the energies of chemical bonds to the energies of chemical reactions.  But first, we must relate the energies of chemical reactions to things we can measure directly and easily.</para>
+</section>
+<section id="fs-id1165904611563">
+    
+      <title>Introduction</title>
+   
+    <para id="import-auto-id772079">To make any progress with energy in Chemistry, we must assume some basic principles about energy from Physics.  Energy is the capacity to do work, where work is the application of a force over a distance.  We can therefore tell whether an object possesses energy by determining whether it has the capacity to accelerate another object.  Keep in mind that this is capacity to do work.  It is not necessary for an object to actually do work to have energy.  We often speak two broad types of energy, kinetic and potential.  Kinetic energy is the energy associated with motion.  An object in motion has the capacity to do work on another object by either pulling it, pushing it, or crashing into it, for examples.  Potential energy is the energy associated with position.  If by changing position an object can do work on another object, then it has potential energy.  For example, a book on a table has potential energy because, if it were to fall to the floor, it could accelerate an object tied to it during the fall.  During this study, we will relate chemical energy to these forms of energy.</para>
+    <para id="import-auto-id654415">One of the most important principles from Physics is the Conservation of Energy.  This tells us that energy is neither created nor destroyed in any process, including a chemical process.  Rather, energy is converted from one form to another during these processes. The energy conversion might possibly be from more useful forms to less useful forms of energy, but the energy is nevertheless conserved.</para>
+    <para id="import-auto-id596974">We will assume a foundation in the different types and energies of chemical bonds.  In particular, we must recall that atoms are bonded together when their energy when bonded is lower than their energy when separated.  Therefore, breaking a chemical bond requires the input of energy to do work on the bonded atoms by separating them.  The more energy required, the stronger the bond. </para>
+</section>
+<section id="fs-id1165906538345">
+    
+      <title>Observation 1:  Temperature Changes during Chemical Reactions</title>
+   
+    <para id="import-auto-id658076">Since we are interested in the energy changes which happen during chemical reactions, it makes sense to look at reactions which have the most conspicuous energy changes, those which evolve heat.  “Fire” is probably the first known human-controlled chemical reaction.  Burning is now understood as a combustion reaction of oxygen with a fuel, such as wood, oil, or natural gas.  These reactions were all originally carried out primarily as sources of heat for warmth or cooking.  In common terms, we use combustion of fuel to “heat up,” that is, to make something hotter or, better said, to raise the temperature of something.</para>
+    <para id="import-auto-id496490">It is pretty easy to observe that whatever is released during a chemical reaction which makes things hotter is a form of energy.  For example, we can carry out the combustion reaction in a closed space that can expand, such as inside a cylinder with a piston inserted to close off the contents of the reaction.  As the reaction occurs, we observe that the piston is pushed back, so work is done on the piston, meaning that the reaction has released energy to do that work.  (This is the principal mechanism behind an internal combustion engine, of course.)  When this transfer of energy creates temperature changes, we call this transfer “heat.” </para>
+    <para id="import-auto-id535490">Since heat can be defined in terms of temperature changes, this tells us that temperature and heat are very closely related concepts.  We need a means to measure temperature.  It is not enough for us to simply say that something hot has a high temperature.  We need a measurement scale that allows us to compare “how hot” objects are compared to each other.  There are lots of ways to do this.  All of them are based on measuring some property which correlates to “hotness.” We most commonly use the expansion and contraction of liquid mercury in a glass tube, but we can observe expansion and contraction of solid metals, gases, etc.  Or, we can observe other properties that vary with “hotness,” like the variation of resistance in wires or thermocouples or like the spectrum of infrared light emitted by a substance. This is why there are so many types of thermometers.  As long as they are calibrated against each other so that they give the same reading when the temperature of a specific object is measured, all of them are useful.  </para>
+    <para id="import-auto-id610871">Once we have a thermometer, we can easily show that heating an object causes its temperature to rise.  Perhaps then temperature is the same thing as heat.  Let’s test this idea and measure the temperature rise produced by a simple heat-producing chemical reaction like burning methane.  As an example, we burn 1.0 g of methane gas and use the heat released to raise the temperature of 1.000 kg of water (essentially 1.0 L of water).  We observe that the water temperature rises by exactly 13.3 °C.  This result is constant for this experiment.  By performing this experiment repeatedly, we always find that the temperature of this quantity of water increases by 13.3 °C.  Therefore, the same quantity of heat must always be produced by reaction of this quantity of methane.  As such, it is very tempting to say that the amount of heat released by burning 1.0 g of methane is 13.3 °C.  If this is true, then every time 1.0 g of methane is burned, a temperature rise of 13.3 °C should be observed.</para><para id="import-auto-id462710">However, if we burn 1.0 g of methane to heat 500 g of water instead, we observe a temperature rise of 26.6 °C.  And if we burn 1.0 g of methane to heat 1.000 kg of iron, we observe a temperature rise of 123 °C.  Therefore, the temperature rise observed depends on the quantity of material heated as well as what the substance is that is heated.  Our temptation has led us astray.  13.3 °C is not an appropriate measure of this quantity of heat, since we cannot say that the burning of 1.0 g of methane "produces 13.3 °C of heat."  Such a statement is clearly nonsense, so we must keep the concepts of temperature and heat distinct.</para>
+</section>
+<section id="fs-id1165904604457">
+    
+      <title>Observation 2: Heat and Heat Capacity, and Reaction Energy</title>
+   
+    <para id="import-auto-id514469">Although temperature and heat are not the same concept, our data do tell us that they are related somehow.  Let’s look at some additional data.  We know that if we burn 1.0 g of methane, the temperature rise in 1.0 kg of water is 13.3 °C or the temperature rise for 0.5 kg of water is 26.6 °C.  What if we burn 2.0 g of methane?  Experimentally, the temperature rise in 1.0 kg of water is 26.6 °C or the temperature rise for 0.5 kg of water is 53.2 °C.  Look at those data carefully.  We can reasonably assume that burning twice as much methane generates twice as much heat.  And we see that it produces twice the temperature change of a fixed amount of water.  This tells us that the temperature change for a fixed amount of water is proportional to the heat absorbed by the water.  </para>
+<para id="import-auto-id550089">Does this work for other materials?  Earlier, we used the heat from burning 1.0 g of methane to heat 1.0 kg of iron, and we saw a temperature increase of 123 °C.  If we burn 2.0 g of methane to heat 1.0 kg of iron, the temperature increase is found to double to 246 °C.  Again, the temperature change is proportional to the heat absorbed.  Let’s put this in symbols.  If we call the quantity of heat q, and ΔT is the temperature rise produced by this heat, then we have observed that</para>
+<equation id="eip-441"><m:math>
+ <m:mrow>
+  <m:mtext>q = C ΔT</m:mtext>
+ </m:mrow>
+</m:math></equation>
+<para id="import-auto-id578851">where C is a proportionality constant.  We need to be careful with this equation, though, because our data say that the relationship between q and ΔT depends on what material is heated (water or iron) and how much is heated (1.0 kg or 0.5 kg).  So C depends on these same things: what material is heated and how much of the material is there.  C is therefore a property of each material and is called the “heat capacity” of the material.  </para>
+    <para id="import-auto-id594639">Our observations have already shown us that the temperature change is double for half as much water.  We can repeat these observations for many different masses of water, and we also find that the temperature change is <emphasis effect="underline">inversely</emphasis> proportional to the mass of the water.  This means that the heat capacity C itself is proportional to the mass of the substance heated.  (Look back at Equation 1 to convince yourself that this is true.  For a fixed amount of heat, what happens to the temperature change and the heat capacity if we double the mass of water heated?)  So now we rewrite Equation 1 with this new information:</para>
+    <equation id="fs-id1165336422165">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>q = m C</m:mtext>
+   <m:mtext>s</m:mtext>
+  </m:msub>
+  <m:mtext>ΔT</m:mtext>
+ </m:mrow>
+</m:math></equation>
+<para id="import-auto-id594587">Here, m is the mass of the material being heated, and the proportional constant is now called the “heat capacity per gram” or more commonly the “specific heat.”  Experiments show that, for any particular material, C<sub>s</sub> is a relatively constant property of the material.  (C<sub>s</sub> actually varies slowly with the temperature, so it is about constant unless we make very large temperature changes.)</para>
+    <para id="import-auto-id553298">This equation so far is not very helpful, though, because we do not know values for the heat q or for the specific heat C<sub>s</sub>. If we knew one, we would know the other from Equation 2, so somehow we have to devise an experiment to measure one or the other.  </para>
+    <para id="import-auto-id386409">Here’s one way to do the experiment.  Since heat is a form of energy and energy is the capacity to do work, we just need to measure how much work can be done for a specific amount of heat, e.g. for burning a specific amount of methane.  This is tricky, but we’ve already seen that we can use the heat generated by a reaction to push a piston back in a cylinder.  If we burn 1.0 g of methane, we can measure how much work is done on the piston by measuring how much force is generated and for what distance.  From these measurements and the rules of physics, we find that burning 1.0 g of methane can produce a maximum amount of work equal to 55.65 kJ.  </para><para id="import-auto-id499470">(A second way to do the experiment is to use work to increase the temperature of water and to measure how much work is required to increase the temperature of water by 1 °C.  We’ll leave it as an exercise to devise a way to elevate temperature by doing work.)</para>
+    <para id="import-auto-id455721">What do the data tell us?  If 55.65 kJ of work can be done by burning 1.0 g of methane, then burning 1.0 g of methane must produce 55.65 kJ of heat.  This is q in Equation 2.  But we have already measured that, for 1.0 kg of water, the temperature change is 13.3°C.  This is ΔT in Equation 2, and m is 1000 g.  From these data, we can directly calculate that, for water, C<sub>s</sub> = 4.184 J/g·°C.  This is called the specific heat of water, or somewhat more loosely, the heat capacity of water.  Pay attention to the units of this quantity, as they are unusual.  </para>
+    <para id="import-auto-id425141">In similar ways, it is possible to find the specific heat or heat capacity of any material of interest.  A set of specific heats for different substances is shown in <link target-id="import-auto-id641821"/>. This is very valuable for predicting temperature changes in different materials.  For our purposes, it has an even greater value.  We can use this to determine the energy change in a chemical reaction.  </para><table id="import-auto-id641821" summary="table"><title>Specific Heat Capacities of Specific Substances at 25 ˚C (unless otherwise noted)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>
+            
+                <emphasis effect="bold">Substance</emphasis>
+            
+            </entry>
+            <entry>
+            
+                <emphasis effect="bold">Cp (J/g·°C)</emphasis>
+           
+            </entry>
+          </row>
+          <row>
+            <entry>Air (sea level) </entry>
+            <entry>1.0035</entry>
+          </row>
+          <row>
+            <entry>Ar (g)</entry>
+            <entry>0.5203</entry>
+          </row>
+          <row>
+            <entry>Au (s)</entry>
+            <entry>0.129</entry>
+          </row>
+          <row>
+            <entry>CH<sub>4</sub> (g)</entry>
+            <entry>2.191</entry>
+          </row>
+          <row>
+            <entry>C<sub>2</sub>H<sub>5</sub>OH (l)</entry>
+            <entry>2.44</entry>
+          </row>
+          <row>
+            <entry>CO<sub>2 </sub>(g)</entry>
+            <entry>0.839</entry>
+          </row>
+          <row>
+            <entry>Cu (s)</entry>
+            <entry>0.385</entry>
+          </row>
+          <row>
+            <entry>Fe (s)</entry>
+            <entry>0.450</entry>
+          </row>
+          <row>
+            <entry>H<sub>2</sub> (g)</entry>
+            <entry>14.30</entry>
+          </row>
+          <row>
+            <entry>H<sub>2</sub>O (0 ˚C)</entry>
+            <entry>2.03</entry>
+          </row>
+          <row>
+            <entry>H<sub>2</sub>O (25 ˚C)</entry>
+            <entry>4.184</entry>
+          </row>
+          <row>
+            <entry>H<sub>2</sub>O (100 ˚C)</entry>
+            <entry>2.080</entry>
+          </row>
+          <row>
+            <entry>He (g)</entry>
+            <entry>5.19</entry>
+          </row>
+          <row>
+            <entry>Ne (g)</entry>
+            <entry>1.030</entry>
+          </row>
+          <row>
+            <entry>NaCl (s)</entry>
+            <entry>0.864</entry>
+          </row>
+          <row>
+            <entry>O<sub>2</sub> (g)</entry>
+            <entry>0.918</entry>
+          </row>
+          <row>
+            <entry>Pb (s)</entry>
+            <entry>0.127</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><para id="import-auto-id657751">
+      <emphasis effect="underline">Calorimetry: Measuring the Heat of a Chemical Reaction</emphasis>
+    </para>
+    <para id="import-auto-id434628">Let’s illustrate by analyzing the example of burning butane instead of methane. If we burn 1.0 g of butane and allow the heat evolved to warm 1.0 kg of water, we observe that an increase in the temperature of the water of 11.8 °C.  Therefore, by <link target-id="fs-id1165336422165"/>, elevating the temperature of 1000 g of water by 11.8 °C must require 49,520 J = 49.52 kJ of heat.  Therefore, burning 1.0 g of butane gas produces exactly 49.52 kJ of heat.  </para><para id="import-auto-id549283">The method of measuring reaction energies by capturing the heat evolved in a water bath and measuring the temperature rise produced in that water bath is called <emphasis effect="underline">calorimetry</emphasis>. Following this procedure, we can straightforwardly measure the heat released or absorbed in any easily performed chemical reaction.  </para>
+    <para id="import-auto-id390360">By convention, when heat is absorbed during a reaction, we consider the quantity of heat to be a positive number: in chemical terms, q &gt; 0 for an <emphasis effect="underline">endothermic</emphasis> reaction.  When heat is evolved, the reaction is <emphasis effect="underline">exothermic</emphasis> and q &lt; 0 by convention.</para>
+</section>
+<section id="fs-id1165908692593">
+    
+      <title>Observation 3: Hess' Law of Reaction Energies</title>
+   
+    <para id="import-auto-id554340">The method of calorimetry we have developed works well provided that the reaction is easily carried out in a way that we can capture the energy transfer in a known quantity of water.  But many reactions of great interest are very difficult to carry out under such controlled circumstances.  Many biologically important chemical reactions may require the conditions and enzymes only available inside a cell.  For example, conversion of glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> to lactic acid CH<sub>3</sub>CHOHCOOH is one of the primary means of providing energy to cells:</para>
+    <equation id="fs-id1163813325538" type=""><m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>12</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>→ 2 CH</m:mtext>
+   <m:mtext>3</m:mtext>
+  </m:msub>
+   <m:mtext>CHOHCOOH</m:mtext>
+ </m:mrow>
+</m:math>
+</equation><para id="import-auto-id610969">Measuring the energy of this reaction is important to understanding the biological process of energy transfer in cells. However, we can’t simply put glucose in a beaker and wait for it to turn into lactic acid.  Very specific conditions and enzymes are required.  We need to develop a different method for measuring the energy of this reaction, and this requires more experimentation.</para>
+    <para id="import-auto-id455527">To begin our observations, we will work with a few reactions for which we can measure the energy change.  Hydrogen gas, which is of potential interest nationally as a clean fuel, can be generated by the reaction of carbon (coal) and water:</para>
+    <equation id="fs-id1163829930596">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C(s)  +  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O(g)  →  CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  +  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+   <m:mtext>(g)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id427277">Calorimetry reveals that this reaction requires the <emphasis effect="underline">input</emphasis> of 90.1 kJ of heat for every mole of C(s) consumed.  </para>
+    <para id="import-auto-id390441">It is interesting to ask where this input energy goes when the reaction occurs.  One way to answer this question is to consider the fact that Reaction (3) converts one fuel, C(s), into another, H<sub>2</sub>(g).  To compare the energy available in each fuel, we can measure the heat evolved in the combustion of each fuel with one mole of oxygen gas.  We observe that</para>
+
+<equation id="fs-id1163804589329">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C(s)  +  O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  →  CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+   <m:mtext>(g)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id635435">produces 393.5 kJ for one mole of carbon burned; hence q = -393.5 kJ.  The reaction</para>
+
+<equation id="fs-id1163804324534">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  +  O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  →  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+   <m:mtext>O(g)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id436633">produces 483.6 kJ for two moles of hydrogen gas burned, so q = -483.6 kJ.  Therefore, more energy is available from the combustion of hydrogen fuel than from the combustion of carbon fuel.  Because of this, we should not be surprised that conversion of the carbon fuel to hydrogen fuel requires the input of energy.</para><para id="import-auto-id599836">We can stare at the numbers for the heats of these reactions, 90.1 kJ, -393.5 kJ, -483.6 kJ, and notice a surprising fact.  The first number 90.1 kJ, is exactly equal to the <emphasis effect="underline">difference</emphasis> between the second number -393.5 kJ and the third number -483.6 kJ.  In other words, the heat input in <link target-id="fs-id1163829930596"/> is exactly equal to the <emphasis effect="underline">difference</emphasis> between the heat evolved in the combustion of carbon (<link target-id="fs-id1163804589329"/>) and the heat evolved in the combustion of hydrogen (<link target-id="fs-id1163804324534"/>).  This might seem like an odd coincidence, but the numbers from the data are too precisely equal for this to be a coincidence.  Just as we do anytime we see a fascinating pattern in quantitative data, we should develop a model to understand this. </para><para id="import-auto-id447696">It is interesting that the energy of <link target-id="fs-id1163829930596"/> is the difference between the energies in <link target-id="fs-id1163804589329"/> and <link target-id="fs-id1163804324534"/>, and not the sum.  One way to view this is to remember that the energy of a reaction running in reverse must be the negative of the energy of the same reaction running forward.  In other words, if we convert reactants to products with some change in energy, and then convert the products back to the reactants, the change in energy of the reverse process must be the negative of the change in energy in the forward process.  If this were not true, we could carry out the reaction many times and generate energy, which would violate the Law of Conservation of Energy.  </para><para id="import-auto-id657754">Let’s list all three reactions together, but in doing so, let’s <emphasis effect="underline">reverse</emphasis> <link target-id="fs-id1163804324534"/>:</para><equation id="fs-id1163810985289">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C(s)  +  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O(g)  →  CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  +  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>(g)</m:mtext>
+  <m:mspace width="50pt"/>
+  <m:mtext>q = 90.1kJ</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<equation id="fs-id1163782151534">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C(s)  +  O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  →  CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>(g)</m:mtext>
+  <m:mspace width="50pt"/>
+  <m:mtext>q = -393.5kJ</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<equation id="fs-id1163776343185">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O(g)  →  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  +  O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>(g)</m:mtext>
+  <m:mspace width="50pt"/>
+  <m:mtext>q = 483.6kJ</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id563913">What if we do <emphasis effect="underline">both</emphasis> <link target-id="fs-id1163804589329"/> and <link target-id="fs-id1163776343185"/> at the same time?</para><equation id="fs-id1163787391415">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C(s)  +  O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  +  2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O(g)  →  CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g) + 2 H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g)  + O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>(g)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id390983">Since O2 (g) is on both sides of this reaction, it is net neither a reactant nor product, so we could remove it without losing anything. <link target-id="fs-id1163787391415"/> is then equivalent to <link target-id="fs-id1163829930596"/>, except that we carried it out by doing two separate reactions.  What if we do <link target-id="fs-id1163787391415"/> in two steps, first doing <link target-id="fs-id1163804589329"/> and then doing <link target-id="fs-id1163776343185"/>?  That would be the same outcome as <link target-id="fs-id1163787391415"/> so it must not matter whether we do <link target-id="fs-id1163804589329"/> and <link target-id="fs-id1163776343185"/> at the same time or one after the other.  The reactants and products are the same either way.</para><para id="import-auto-id492776">What would be the energy of doing <link target-id="fs-id1163804589329"/> and <link target-id="fs-id1163804324534"/> either at the same time or in sequence?  It must be the energy of <link target-id="fs-id1163804589329"/> plus the energy of <link target-id="fs-id1163804324534"/>, of course.  So if we add these together using the above numbers, the energy of doing both reactions together is -393.5kJ + 483.6kJ = 90.1kJ.  This is the energy of <link target-id="fs-id1163787391415"/> and it is experimentally exactly the same as the energy of <link target-id="fs-id1163829930596"/>.</para><para id="import-auto-id431815">This is a new observation.  We have found that the energy of a single reaction (<link target-id="fs-id1163829930596"/>) is equal to the sum of the energies of two reactions (<link target-id="fs-id1163804589329"/> and <link target-id="fs-id1163776343185"/>), which together give the same total reaction as the single reaction.  When the separate reactions add up to an overall reaction, the energies of the separate reactions add up to the energy of the overall reaction.  </para><para id="import-auto-id520435">We could study many reactions in a similar manner to see if this pattern holds up.  We find experimentally that it does.  The pattern is therefore a new natural law called Hess’ Law.  Stated generally (but wordily), the energy of a reaction is equal to the sum of the energies of any set of reactions which, when carried out in total, lead from the same reactants to the same products.  This is a powerful observation!  (It is important to note here that we have omitted something from our observations.  Hess’ Law requires that all reactions considered proceed under similar conditions like temperature and pressure: we will consider all reactions to occur at constant pressure.)  </para>
+    <para id="import-auto-id478302">Why would Hess’ Law be true?  Why doesn’t it matter to the energy whether we carry out a reaction in a single step or in a great many steps which produce the same products?  We might have guessed that more steps somehow require more energy or somehow waste more energy.  But if so, our guess would be wrong.  As such, it would be helpful to develop a model to account for this law to improve our intuition about reaction energies.</para>
+    <para id="import-auto-id490471"><link target-id="import-auto-id533873"/> gives us a way we can make progress based on the work we have already done.  This is a just a picture of Hess' Law showing all of <link target-id="fs-id1163804589329"/>, <link target-id="fs-id1163776343185"/>, and <link target-id="fs-id1163787391415"/>.  (Remember that the total reaction in <link target-id="fs-id1163787391415"/> is exactly the same as the original reaction in <link target-id="fs-id1163829930596"/>.)  In <link target-id="import-auto-id533873"/>, the reactants C(s) + 2 H2O (g) + O<sub>2</sub>(g) are placed together in a box, representing the reactant <emphasis effect="underline">state</emphasis> of the matter before <link target-id="fs-id1163787391415"/> occurs. The products CO2(g) + 2H2(g) + O<sub>2</sub>(g) are placed together in a second box representing the product <emphasis effect="underline">state</emphasis> of the matter after <link target-id="fs-id1163787391415"/>.  The reaction arrow connecting these boxes is labeled with the heat of <link target-id="fs-id1163829930596"/> (which is also the heat of <link target-id="fs-id1163787391415"/>), since that is the energy absorbed when the matter is transformed chemically from reactants to products in a single step.  </para><para id="import-auto-id396778">Also in <link target-id="import-auto-id533873"/>, we have added a box in which we place the same matter as in the reactant box but showing instead the products of carrying out <link target-id="fs-id1163804589329"/>.  In other words, we will first do <link target-id="fs-id1163804589329"/>, producing CO<sub>2</sub>(g) but leaving the H<sub>2</sub>O(g) unchanged.  Notice that the reaction arrow is labeled with the energy of <link target-id="fs-id1163804589329"/>.  Now we can also add a reaction arrow to connect this box to the product box, because that reaction is just <link target-id="fs-id1163776343185"/>, producing H<sub>2</sub>(g) and O<sub>2</sub>(g) from the H<sub>2</sub>O(g).  And we can label this reaction arrow with the energy of <link target-id="fs-id1163776343185"/>.  </para><figure id="import-auto-id533873"><media id="import-auto-id482648" alt="">
+        <image mime-type="image/wmf" src="../../media/12.png" height="165" width="576"/>
+      </media>
+    </figure><para id="import-auto-id492483">This picture of Hess' Law makes it clear that the energy of the reaction along the "path" directly connecting the reactant state to the product state is exactly equal to the total energy of the same reaction along the alternative "path" consisting of two steps which connect reactants to products.  (This statement is again subject to our restriction that all reactions in the alternative path must occur under the same conditions, e.g. constant pressure conditions.)  </para>
+    <para id="import-auto-id492485">Now let’s take a slightly different view of <link target-id="import-auto-id533873"/>.  Visually make a loop by beginning at the reactant box and following a complete circuit through the other boxes leading back to the reactant box, summing the total energy of reaction as you go.  If you go “backwards” against a reaction arrow, then reverse the sign of the energy, since a reverse reaction has the negative energy of the forward reaction.  When we complete a loop and do the sum, we discover that the net energy transferred around the loop starting with reactants and ending with reactants is exactly zero.  This makes a lot of sense when we remember the Law of Conservation of Energy: surely we cannot extract any energy from the reactants by a process which simply recreates the reactants.  If this were not the case, in other words if the sum didn’t equal zero, we could endlessly produce unlimited quantities of energy by following the circuit of reactions which continually reproduce the initial reactants.  Experimentally, this never works since energy is conserved.  </para><para id="import-auto-id490260">However, we do get a clearer understanding of why adding the reaction energies together gives the total energy of the overall reaction.  Hess’ Law is a consequence of the Law of Conservation of Energy.  </para>
+</section>
+<section id="fs-id1165908620343">
+   
+      <title>Using Hess’ Law to Measure Reaction Energy</title>
+    
+    <para id="import-auto-id442560">It may be hard to remember now, but we started out with observations leading to Hess’ Law because we wanted to find a way to measure the energy of a reaction which can’t easily be found using calorimetry.  Some reactions require special conditions which are hard to create in a laboratory where we can make measurements.  We gave as an example fermentation of glucose to lactic acid:</para>
+    
+<equation id="fs-id1163790676750">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>2</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>C</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>12</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>→ 2 CH</m:mtext>
+   <m:mtext>3</m:mtext>
+  </m:msub>
+  <m:mtext>CHOHCOOH</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id535459">As we noted above, we can’t simply put glucose in a beaker and wait for it to turn into lactic acid and measure a temperature change of a water bath.  The reaction just doesn’t happen without the assistance of enzymes in a cell.</para>
+    <para id="import-auto-id535461">So let’s use Hess’ Law, since we know that the energy of <link target-id="fs-id1163790676750"/> will be the same as the sum of the energies of any set of reactions which adds up to <link target-id="fs-id1163790676750"/>.  We just need to pick some reactions which are easy to carry out in the laboratory so that we can measure the energies of these reactions.  </para><para id="import-auto-id395800">The easiest reactions to conduct, particularly with molecules containing carbon, hydrogen, and oxygen, are almost always combustion reactions.  We can pretty easily burn these compounds, reacting them with oxygen to form CO<sub>2</sub>(g) and H<sub>2</sub>O(g).  We can also pretty easily measure the energies of these combustion reactions using calorimetry, just like before.</para>
+    <para id="import-auto-id431921">Here is what the experiments give us:</para>
+    
+<equation id="fs-id1163827774249">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>C</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>12</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(s) + 6O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g) → 6CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g) + 6H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>O(g)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<equation id="fs-id1163830519379">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>2 CH</m:mtext>
+   <m:mtext>3</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>CHOHCOOH + 6O</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g) → 6CO</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>(g) + 6H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>O(g)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="import-auto-id579264">We can now follow a two step process which is equivalent to converting one glucose molecule into two lactic acid molecules.  First, we burn the glucose, and the energy evolved is -2808 kJ.  Second, hypothetically, we convert the CO<sub>2</sub>(g) and H<sub>2</sub>O(g) into lactic acid and oxygen.  Although we can’t really do that hypothetical reaction, we don’t need to.  The energy of that second step is just the negative of the energy we measure for the combustion of two moles of lactic acid, which is -2668 kJ.  Using Hess’ Law, the overall energy for converting glucose to lactic acid then is just the measured energy of <link target-id="fs-id1163827774249"/> plus the negative of the measured energy of <link target-id="fs-id1163830519379"/>.  This is equal to -140 kJ.  We now have a means to measure the energy of a reaction which we can actually carry out!</para><para id="import-auto-id456323">This is a fairly general approach, applicable to most materials.  By measuring the energies of combustion reactions and then summing those combustion reactions, we can calculate the energy of an overall reaction.</para>
+</section>
+<section id="fs-id1165916163052"><title>Review and Discussion Questions</title><list id="import-auto-id563077" list-type="enumerated" number-style="arabic"><item>How can the temperature of water be elevated by doing work on it?  Devise a way to measure the amount work required to raise the temperature of a sample of water by 1°C.</item>
+    
+    <item>Assume you have two samples of two different metals, X and Z.  The samples are exactly the same mass.
+    
+      <para id="eip-id1169382770194">(a) Both samples are heated to the same temperature.  Then each sample is placed into separate glasses containing identical quantities of cold water, initially at identical temperatures below that of the metals.  The final temperature of the water containing metal X is greater than the final temperature of the water containing metal Z.  Which of the two metals has the larger heat capacity?  Explain your conclusion.</para>
+      <para id="eip-id1169394352065">(b) If each sample, initially at the same temperature, is heated with exactly 100 J of energy, which sample has the higher final temperature?</para></item>
+    
+    
+      <item>Using data from <link target-id="import-auto-id641821"/>, provide two reasons with explanation why a hot object is much more efficiently cooled by placing it in water than leaving it in the open air, even when the air and the water are at the same temperature initially.</item>
+    
+    
+      <item>Explain how Hess' Law is a consequence of conservation of energy.  </item>
+   
+    
+      <item>The enthalpy of formation of sucrose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> cannot be measured by the direct reaction of carbon, hydrogen and oxyben.  Devise a method to measure ∆H<sub>f</sub> for sucrose.  What would you measure and how do these measured quantities relate to the ∆H<sub>f</sub> for sucrose?</item>
+    </list></section></content>
+</document>

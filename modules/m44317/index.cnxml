@@ -1,0 +1,258 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Energy and Polarity of Covalent Chemical Bonds</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44317</md:content-id>
+  <md:title>Energy and Polarity of Covalent Chemical Bonds</md:title>
+  <md:abstract/>
+  <md:uuid>9e78bf10-4571-4790-82c4-37573caf6c60</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1165197369752">
+    
+      <title>Introduction</title>
+    
+    <para id="import-auto-id1170881459254">The Lewis model of chemical bonding is one of the most powerful models in all of Chemistry.  With the simple concepts of the octet rule and the sharing of an electron pair to form a chemical bond, we can predict what combinations of atoms and which molecular structures are likely to be stable or unstable.  For example, we can predict that the molecular formula C<sub>4</sub>H<sub>10</sub> should correspond to a stable molecular structure, since it possible to draw a Lewis structure in which all four carbon atoms have an octet of valence electrons and each hydrogen atom has two valence electrons.  In fact, we can even predict that there should be two such molecular structures corresponding to two different stable compounds, butane and methyl propane (often called isobutane). Lewis structures also allow us to predict the relative strengths and lengths of chemical bonds.  For example, we can predict that in the molecule propene C<sub>3</sub>H<sub>6</sub>, one of the C-C bonds is a single bond and the other is a double bond; correspondingly, we can predict that the double bond is shorter and stronger than the single bond.  </para>
+    <para id="import-auto-id1170876979452">In general, for any molecule containing some combination of atoms of C, N, H, O, and any of the halogens (F, Cl, Br, or I), we can predict with confidence that the molecule will be a stable compound if we can draw a Lewis structure in which the C, N, O, and halogen atoms all have an octet of valence electrons.  This is a very significant statement, since the overwhelming majority of the molecules of organic chemistry are composed of only these atoms.  The converse is also generally true: if we cannot draw a Lewis structure in which these atoms have an octet of valence electrons, we will predict fairly confidently that a stable compound of that molecular formula probably does not exist.  Note that “stable” does not mean “non-reactive.”  In this context, “stable” means that the compound exists and can be isolated for long periods of time.  Methane CH<sub>4</sub> is a stable compound which can be manufactured, captured, stored, and transported.  However, it is also a reactive compound, reacting rapidly with oxygen gas in one of the most common combustion reactions in the world.  </para>
+    <para id="import-auto-id1170887016967">These are the reasons why we say that the Lewis structure model of covalent bonding is one of the most important models in all of Chemistry.  However, like most good models, the understanding we get from the model comes with even more questions we might want to ask.  In this Concept Development Study, we will address several of these, while others will wait for later studies.  First, why does sharing a pair of electrons create a chemical bonding?  More pointedly, what does it even mean to “share” an electron between two atoms?  And why do atoms prefer to share a pair of electrons, rather than one or three?  Of course, we’ve also seen that atoms can share more than one pair of electrons, creating double or triple bonds.  We might have guessed that, with more electrons being shared, these electrons would repel each other, leading to a higher energy, but this is not the case. Why does sharing more than one pair of electrons produce a stronger bond?  </para>
+    <para id="import-auto-id1170876977612">Once we have an understanding of what sharing electrons means, we will also ask whether the atoms really do “share” these electrons fully.  We already know that the energies of electrons in different atoms are quite different.  We have observed and analyzed the ionization energies of electrons in atoms.  These results showed that the electrons in some atoms such as fluorine, for example, are much more strongly attracted to their nuclei than in atoms such as carbon, for example.  Knowing this, we might readily ask whether the electrons shared by a C atom bonded to an F atom are actually shared equally.  If they are not equally shared, does it matter?  Does this affect the physical or chemical properties of the molecules?</para>
+    <para id="import-auto-id1170878356479">As always, we will examine experimental observations to help us understand the answers to these questions.</para>
+</section>
+<section id="fs-id1165200982344">
+   
+      <title>Foundation</title>
+   
+    <para id="import-auto-id1170877180976">In this Concept Development Study, we will assume that we already know the basic rules of the Lewis model of chemical bonding.  Chemical bonds between atoms consist of one, two, or three pairs of shared electrons, respectively resulting in single, double, or triple bonds.  Atoms in groups IV, V, VI, and VII, most importantly including C, N, O, and F, share electrons in pairs such that, in stable molecules, these atoms typically have eight electrons in their valence shells.  An H atom will share one pair of electrons with other types of atoms to form stable molecules.</para>
+    <para id="import-auto-id1170881460678">We will need Coulomb’s Law to understand how the bonding electrons interact with the nuclei of the atoms that share them.  We have already used Coulomb’s Law to understand the energies of electrons in atoms and how these vary from one type of atom to another.  These same lines of reasoning will be useful for electrons in molecules.</para>
+    <para id="import-auto-id1170878319331">Though we will not need all of the postulates and conclusions of Quantum Mechanics, there are a few that we will call on to answer the questions posed above.  This makes sense, since any discussion of where electrons might be found or how they might move certainly requires us to take a quantum mechanical view of electrons.  Most notably, we’ll need to recall that the motion of electron is described by an “orbital” which provides the probability for where the electron might be.  In addition, we’ll recall that an electron can exist in two different “spin states,” and that two electrons’ motions may be described by the same orbital only if they have different spin states.  </para>
+</section>
+<section id="fs-id1165195451834">
+   
+      <title>Observation 1: The Simplest Chemical Bond, H<sub>2</sub><sup>+</sup></title>
+    <para id="import-auto-id1170878562999">Let’s start with the easiest molecule we can imagine.  We need at least two atoms of course, so that means we need two nuclei.  The smallest nucleus is just a single proton, in other words, a hydrogen ion, H<sup>+</sup>.  We could try to build a molecule formed from just two of these, but this seems unlikely.  The two positively charged nuclei would just repel each other, so there can’t be such a molecule.  We need at least one electron to provide some attraction.  Is one enough?  The best way to answer that question is to ask whether the combination of two H<sup>+</sup> nuclei plus one electron is a stable molecule, H<sub>2</sub><sup>+</sup>.  </para>
+    <para id="import-auto-id1170878954120">Experimentally, it is indeed possible to observe H<sub>2</sub><sup>+</sup>.  Even though it is far less common than H<sub>2</sub>, it does exist.  What does this mean in terms of chemical bonding?  It means that H<sub>2</sub><sup>+</sup> does not spontaneously fall apart into an H atom and an H<sup>+</sup> ion.  Instead, to break the bond we would have to do some work, or, in other words, add some energy.  This amount of energy can be measured and is 269 kJ/mol.  That is actually quite a lot of energy which must be added to pull an H atom and an H<sup>+</sup> ion apart, so a strong bond is formed when the two H<sup>+</sup> nuclei share a single electron.  This might seem surprising, since our model of chemical bonding based on Lewis structures regards a chemical bond as a sharing of a pair of electrons.  We’ll examine the importance of sharing two electrons instead of one in the next section. </para>
+    <para id="import-auto-id1170885862986">But first, let’s ask why sharing an electron creates a bond.  A better way to ask this question would be why is the energy of the electron lower when the electron is shared by two nuclei instead of being near to only one?  We know that an electron and a proton attract each other via Coulomb’s law, and the closer the two are, the lower the energy.  As such, if an electron can be attracted to two protons, it has a lower energy even if the two protons are not next to each other.  This is illustrated in <link target-id="import-auto-id1170917947361"/>b, which shows the attraction of the electron to both nuclei as well as the repulsion between the two nuclei.  When the electron is near to two nuclei, it has a lower potential energy than when near to only one because its attraction to a second positively charged nucleus further lowers its energy.</para><para id="import-auto-id8551231">We can rearrange the electron and the two nuclei, such that the electron is on the “outside” of the molecule (<link target-id="import-auto-id1170917947361"/>a).  Here, it is close to one nucleus but not the other.  In this case, the repulsion of the two nuclei is greater than the attraction of the electron to the distant nucleus.  Just using Coulomb’s law, the energy of the electron in this position is slightly lower than when it is on one nucleus, but the repulsion of the nuclei is large.  </para><para id="import-auto-id1170903432626">From a comparison of the arrangements of the electron and the two nuclei, it appears that we get a lowering of energy when the electron is “between” the two nuclei and not otherwise.  This suggests what “sharing an electron” means when forming a chemical bond.  Since the shared electron has a lower energy, we would have to raise the electron’s energy to pull the two nuclei away from each other.</para>
+    <para id="import-auto-id1170910669355">Now we know why a chemical bond is formed when two atoms share at least one electron.  The energy of the electron is lower when shared in the molecule than it is in the separated atoms because it is attracted to both positive nuclei at the same time.  To break the bond formed by sharing the electron, we must do work, which means we have to add energy to raise the energy of the electron to be able separate the atoms.</para>
+    <figure id="import-auto-id1170917947361"><title>Attractions and Repulsions in H<sub>2</sub><sup>+</sup></title><media id="import-auto-id1170919814482" alt="">
+        <image mime-type="image/wmf" src="../../media/7-6de8.png" print-width="4in"/>
+      </media>
+    <caption>Attractions and Repulsions in H<sub>2</sub><sup>+</sup></caption></figure><para id="import-auto-id1170881457441">For now, we should make a note to ourselves that all of this discussion of electron energy includes only a discussion of potential energy.  It also assumes that the electron is at some particular location where we can calculate its potential energy.  This ignores the uncertainty principle of quantum mechanics, suggesting that the model is not physically accurate.  Both of these issues need to be corrected, so we need a better understanding of the sharing of electrons in chemical bonds.</para>
+</section>
+<section id="fs-id1165213702135">
+    
+      <title>Observation 2: The Simplest Molecule, H<sub>2</sub>
+    </title>
+    <para id="import-auto-id1170885384630">The hydrogen molecule is familiar to us from our early efforts to determine molecular formulae.  Avogadro was the first person to suggest that hydrogen gas consists of diatomic molecules, H<sub>2</sub>, instead of individual hydrogen atoms.  This was a perplexing idea for the chemists of the early nineteenth century.  Why would identical H atoms be attracted to each other?  Of course, they did not know anything about the structure of these atoms, including that each atom contains a positive nucleus and an electron.  From our work on H<sub>2</sub><sup>+</sup>, we now have a clue as to what holds the two H atoms together.  It must be electron sharing.</para>
+    <para id="import-auto-id1170881400620">What observation can we make about the bonding in H<sub>2</sub>?  Clearly, it is a stable molecule.  Although H<sub>2</sub> molecules are highly reactive, they do not spontaneously fall apart into H atoms except under very extreme circumstances.  Experimental data tell us that the bond energy of H<sub>2</sub> is 436 kJ/mol.  This is even more energy than is required to break the bond in H<sub>2</sub><sup>+</sup>, nearly twice as much in fact.  Remember that to break the bond in H<sub>2</sub><sup>+</sup> we must raise the energy of the shared electron.  Perhaps, in H<sub>2</sub>, we have to raise the energy of the two electrons, costing us about twice the energy.  This seems to be a good starting point for understanding the strong bond in H<sub>2</sub>.  </para>
+    <para id="import-auto-id1170881879704">But there are some troubling questions about this simple picture.  This model would suggest that sharing more than two electrons should give an even greater bond energy.  But this is only true for some molecules, and it is certainly not true for H<sub>2</sub>.  There is something significant about sharing a pair of electrons, rather than one or three.  In addition, the strength of the bond (436 kJ/mol) is actually less than double the strength of the bond with one shared electron (269 kJ/mol).  There must be another factor at work.  And finally, there are the questions we ended with in the last section: what about kinetic energy?  And what about the uncertainty principle, which states that an electron is not actually localized? </para>
+    <para id="import-auto-id1170878965734">Let’s work our way backwards through these questions.  We know from our study of quantum mechanics that the motion of an electron is described by an “orbital” which provides the probability for where the electron might be found.  We can’t actually know where an electron is, but we can look at its probability distribution.  This is true for electrons in molecules just like it is in atoms.  We just need to observe what an orbital looks like for an electron that is shared by two nuclei.  </para>
+    <para id="import-auto-id1170885356620">Such a “molecular orbital” for the electron in H<sub>2</sub><sup>+</sup> is shown in <link target-id="import-auto-id1170885383677"/>.  We’ve seen images like this when we discussed atomic orbitals.  Remember that this image of a cloud gives us a probability: where there are many dots, the probability is high.  The electron can be found near either nucleus but can also be found with high probability in the area between the two nuclei.  This seems encouraging when thinking about the energy of the electron in the molecule as we discussed in the previous section.  When the electron is in the region between the two nuclei, the potential energy of the electron is lower.</para><figure id="import-auto-id1170885383677"><title>Bonding Molecular Orbital</title><media id="import-auto-id1170881487454" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-7c86.jpg" height="259" width="389"/>
+      </media>
+    <caption>orbital image courtesy of M. Winter, “The Orbitron” website (<link url="http://winter.group.shef.ac.uk/orbitron/">http://winter.group.shef.ac.uk/orbitron/</link>)</caption></figure><para id="import-auto-id1170878974047">There is a second interesting aspect to the molecular orbital.  It is larger in space than the atomic orbital that the electron would occupy if it were in a single H atom.  Why does this matter?  Thinking back to our study of the energies of electrons in atomic orbitals, we can recall that both potential energy and kinetic energy are important.  The kinetic energy of the electron is easiest to understand by remembering the uncertainty principle.  The more the electron is confined, the less certain is its momentum.  This means that, on average, the electron moves faster with greater kinetic energy when it is confined to a smaller space.  When less confined, the electron can have lower kinetic energy.  Since the molecular orbital confines the electron less than the atomic orbital does, the kinetic energy of the electron is lower in the molecular orbital than it is in the atomic orbital.  (Some very complicated calculations show that this fact is the single most important factor in lowering the energy of the electron in a bond.  For simplicity, we will assume that both lower potential energy and lower kinetic energy contribute to the strength of a chemical bond.) </para>
+    <para id="import-auto-id1170908487702"><link target-id="import-auto-id1170885383677"/> shows a molecular orbital for H<sub>2</sub><sup>+</sup>.  However, we were discussing the bond strength in H<sub>2</sub> and, in particular, the fact that two electrons seem to be better than one.  Again, we have to refer back to our study of the quantum energy levels and electron configurations of atoms.  Remember that there were rules from both quantum and experimental observations which restrict what energy states electrons can occupy.  Most importantly, there is an important aspect about two electrons: only two electrons can occupy a single orbital.  As a very good model then, we can imagine that the two electrons in H<sub>2</sub> both move as described by the probability in the molecular orbital in <link target-id="import-auto-id1170885383677"/>.  This means that both electrons have their energy lowered, just as the single electron has its energy lower in H<sub>2</sub><sup>+</sup>.  This means that, to separate the two H atoms, it takes more energy to raise the energies of these two electrons than to raise the energy of just one.  So the bond energy of H<sub>2</sub> is much greater than the bond energy of H<sub>2</sub><sup>+</sup>.  </para><para id="import-auto-id1170885609763">From quantum mechanics, we can’t add a third electron to this molecular orbital.  We don’t need the detail now to know what would happen if we added a third electron  to an H<sub>2</sub> molecule, but we can say that the energy of the third electron  is not  lowered.  The strongest bond is formed by sharing just two electrons, not more and not less.</para>
+    <para id="import-auto-id1170881367603">And finally, why is the bond energy of H<sub>2</sub> not double the bond energy of H<sub>2</sub><sup>+</sup>?  With two electrons in the same orbital, it would seem that we need double the energy of one electron to separate the atoms.  Of course, this would assume that the two electrons are unaffected by each other, with energies which do not depend on each other.  This can’t be true, since two electrons will repel each other by Coulomb’s Law. In an atomic orbital, we saw that electron-electron repulsion raised the energy of both electrons sharing an orbital.  The same is true in a molecular orbital. This means that the energy of each electron in H<sub>2</sub> is not the same as the energy of the one electron in H<sub>2</sub><sup>+</sup>.  In a discussion question, we consider the question of why this means that the bond energy in H<sub>2</sub> is less than double the bond energy in H<sub>2</sub><sup>+</sup>.  </para>
+</section>
+<section id="fs-id1165194553217">
+      <title>Observation 3: Dipole moments in Diatomic Molecules</title>
+    
+    <para id="import-auto-id1170879596002">We now have an understanding of what it means for two atoms to share an electron pair and why this results in a bond.  In addition to H<sub>2</sub>, this description works well in describing and understanding chemical bonds such as in F<sub>2</sub> or Cl<sub>2</sub>.  More work is required to understand multiple bonds such as the double bond in O<sub>2</sub>, but it turns out that the same principles apply.  What about molecules where the atoms are not the same, e.g. HF?  The Lewis model of these molecules still assumes a sharing of an electron pair.  But we learned in our study of atomic structure that the properties of H atoms and F atoms are quite different.  For example, the ionization energy of an F atom is larger than the ionization energy of an H atom.  F atoms also have very strong electron affinity.  Do such different types of atoms share electrons?  If so, does it matter that the properties of the two atoms are so different?</para>
+    <para id="import-auto-id1170877179796">We need observations to answer these questions.  First, we can do as we did with H<sub>2</sub> and examine the energies of the bonds between different atoms.  The bond energy of HF is 568 kJ/mol, larger than the bond energy of H<sub>2</sub>.  By contrast, the bond energy of F<sub>2</sub> is 154 kJ/mol, quite a bit weaker than the bonds in either HF or H<sub>2</sub>.  The bond energy of HCl is 432 kJ/mol, weaker than the HF bond.  The energy of one O-H bond in H<sub>2</sub>O is 463 kJ/mol.  Clearly, the strength of bond depends on what types of atoms are bonded together.  This suggests that the sharing of an electron pair depends on the properties of the atoms in the bond, including the sizes of the atoms and the charges on the nuclei.  In fact, it would not be too surprising if different atoms did not share the electrons equally.</para>
+    <para id="import-auto-id1170887289528">To find out if this is the case, we observe a property of molecules called the “dipole moment.”  An electric dipole is simply a separation of a positive and a negative charge.  The dipole moment, usually labeled μ, measures how strong the dipole is by taking the product of the amount of the charge times the separation of the charge.  Just having a positive charge, let’s say a proton, and a negative charge, let’s say an electron, does not mean that there is a dipole moment.  The hydrogen atom does not have a dipole moment because the electron is in constant rapid motion around the positive nucleus.  As such, viewed from outside the atom, there is no positive “end” or negative “end” to the hydrogen atom, so there is no dipole moment.  This is true of all atoms.</para>
+    <para id="import-auto-id1170877958140">It might seem that molecules could not have dipole moments for the same reason.  The electrons are moving about the nuclei rapidly.  In the H<sub>2</sub> molecule, although there are positive and negative charges, there is no end of the molecule which looks more positive and no end which looks more negative.  H<sub>2</sub> does not have a dipole moment.</para>
+    <para id="import-auto-id1170881378453">What about a molecule like HF?  If an H atom has no dipole moment and an F atom has no dipole moment, does HF have a dipole moment?  Experimentally, molecular dipoles can be observed in a number of ways.  If you put a molecule with a dipole moment in an electric field, it will line up with the field, with the positive end of the dipole pointed towards the negative end of the field.  Dipoles can interact with each other as well, so that the negative end of one dipole will point towards the positive end of another dipole.</para>
+    <para id="import-auto-id1170881590741">It is also possible to measure the magnitude of the dipole moment.  A number of these are given in <link target-id="import-auto-id1170876905882"/> for some simple molecules.  We can see that, not only does HF have a dipole moment, but in fact it has the largest dipole moment of the molecules listed.  What does it mean that HF has a dipole moment?  An HF molecule must have a permanent negative end and a permanent positive end.  Experimentation shows that the F end of the molecule has a net negative charge and the H end has a net positive charge.  </para><table id="import-auto-id1170876905882" summary="table"><title>Dipole Moments of Specific Molecules</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>
+            
+                <emphasis effect="bold">Molecule</emphasis>
+            
+            </entry>
+            <entry>
+            
+                <emphasis effect="bold">μ (debye)</emphasis>
+          
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>H<sub>2</sub>O</entry>
+            <entry>1.85</entry>
+          </row>
+          <row>
+            <entry>HF</entry>
+            <entry>1.91</entry>
+          </row>
+          <row>
+            <entry>HCl</entry>
+            <entry>1.08</entry>
+          </row>
+          <row>
+            <entry>HBr</entry>
+            <entry>0.80</entry>
+          </row>
+          <row>
+            <entry>HI</entry>
+            <entry>0.42</entry>
+          </row>
+          <row>
+            <entry>CO</entry>
+            <entry>0.12</entry>
+          </row>
+          <row>
+            <entry>CO<sub>2</sub></entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>NH<sub>3</sub></entry>
+            <entry>1.47</entry>
+          </row>
+          <row>
+            <entry>PH<sub>3</sub></entry>
+            <entry>0.58</entry>
+          </row>
+          <row>
+            <entry>AsH<sub>3</sub></entry>
+            <entry>0.20</entry>
+          </row>
+          <row>
+            <entry>CH<sub>4</sub></entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>NaCl</entry>
+            <entry>9.00</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><para id="import-auto-id1170915971306">How can this be so?  The total number of electrons and protons in the molecule are evenly matched, of course, and the electrons are moving rapidly about the two nuclei just as in H<sub>2</sub>.  Perhaps the electrons are not moving uniformly around the H and the F nuclei.  To observe this, we look at the molecular orbital for the shared electrons in the HF bond, shown in <link target-id="import-auto-id1170890956310"/>.  </para><figure id="import-auto-id1170890956310"><media id="import-auto-id8750001" alt="">
+        <image mime-type="image/wmf" src="../../media/3-800d.png" print-width="3in"/>
+      </media>
+    <caption>Distribution of Electron Probability in HF</caption></figure><para id="import-auto-id1170886994952">We observe that the electrons in the molecule move with greater probability near the F atom.  There is thus more electron charge around the F nucleus than the positive charge on the F nucleus.  And the opposite is true for the H end of the molecule.  Apparently, when an H atom and an F atom share electrons, they do not share them equally!  </para>
+    <para id="import-auto-id1170881401751">This is an extremely important result, one of the most useful in all of Chemistry.  Different atoms have different tendencies to draw electrons to themselves when sharing electrons in a covalent bond.  The relative strength with which an atom draws electrons to itself in a bond is called “electronegativity.”  A very electronegative atom will attract the shared electrons more strongly than a less electronegative atom.  This will produce a negative charge near the more electronegative atom and a positive charge near the atom other.  This will, in most cases, create a permanent dipole moment in the molecule. At this point, we don’t know how much negative charge is near the more electronegative atom, but it probably is not the full charge on a single electron since the electrons are still mostly shared by the two atoms.  As such, we label the negative charge by δ-, where δ is some number between 0 and 1.  In most cases, we don’t even need to know how large δ is.  The positive end of the molecule is labeled by δ+, since whatever the negative charge on the negative end must equal the positive charge on the positive end. HF is a good starting example.  The F atom is more electronegative than the H atom; hence, the HF molecule has a dipole moment, which makes HF what we call a polar molecule.</para>
+    <figure id="import-auto-id1170891837535"><media id="import-auto-id1170881401594" alt="">
+        <image mime-type="image/wmf" src="../../media/4-d714.png" print-width="1in"/>
+      </media>
+    </figure><para id="import-auto-id1170900962022">Of course, we next want to know why the F atom is more electronegative.  We need more data to develop a model for electronegativity.  <link target-id="import-auto-id1170876905882"/> listing the dipole moments of several molecules provides good data for comparison.  </para><para id="import-auto-id1170878333921">Let’s first study the set of molecules HF, HCl, HBr, and HI.  It is easy to see that the dipole moments of these molecules are in the order of HF &gt; HCl &gt; HBr &gt; HI.  To analyze this comparison, we need to remember that the dipole moment measures the product of the amount of charge separated times the distance by which the charges are separated.  Since the dipole moment of HF is larger than that of HCl, let’s compare these two.  How do the properties of F atoms compare to those of Cl atoms?  One thing we can say for sure: Cl is a larger atom than F.  This means that the HCl bond (127 pm) is longer than the HF bond (92 pm).  Since the dipole moment depends on the distance between the positive and negative charges, the comparison of bond lengths would perhaps lead us to predict that HCl would have a larger dipole moment than HF,  But that’s not what the data tell us.  There is only one way to explain this.  The difference between HF and HCl must be in the amount of charge that is separated.  It must be true that the negative charge on the F atom is greater than the negative charge on the Cl atom.  This means that F attracts the shared electrons in the H-F bond more than the Cl atom attracts the shared electrons in the H-Cl bond.  This means that F is more electronegative than Cl.</para>
+    <para id="import-auto-id1170878356603">Looking at the dipole moments of these four molecules and remembering that the atoms get larger in the order F &lt; Cl &lt; Br &lt; I, it must be true that the electronegativities go in the order F &gt; Cl &gt; Br &gt; I.  In this group, the electronegativity is larger for smaller atoms.  To see if this turns out to be generally true, we can examine other families in the periodic table.</para><para id="import-auto-id1170881360913">First, let’s look at the dipole moments for H<sub>2</sub>O and H<sub>2</sub>S.  H<sub>2</sub>O has a dipole moment with the O being the negative end.  This means that O is more electronegative than H.  H<sub>2</sub>S also has a dipole moment, but it is much smaller than that of H<sub>2</sub>O, so S is less electronegative than O.  Let’s compare the dipole moments of NH<sub>3</sub> and PH<sub>3</sub>: we see the same trend.  It is generally true that electronegativity is larger for smaller atoms.</para>
+    <para id="import-auto-id1170876982840">We should also compare the electronegativities of elements in the same row of the Periodic Table.  For example, the dipole moments increase in the order of NH<sub>3 </sub>&lt; H<sub>2</sub>O &lt; HF, and PH<sub>3</sub> &lt; H<sub>2</sub>S &lt; HCl.  From this, we can conclude that, in general, electronegativity increases with increasing atomic number within a single row of the Periodic Table.  </para>
+    <para id="import-auto-id1170885607850">Electronegativity is an extremely useful concept in chemistry, but it is not a precisely defined physical property.  In fact, there are several possible definitions of how to measure electronegativity each of which leads to slightly different values for each atom  Although the exact values vary, the overall trends we observed are similar.  Using one popular definition, <link target-id="import-auto-id1170881591453"/> shows electronegativities for many atoms.  Looking at these numbers, you should be able to see the trends we have developed from analyzing dipole moments of simple molecules.</para><table id="import-auto-id1170881591453" summary="table"><title>Electronegativity of Selected Atoms</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Atom</entry>
+            <entry>Electronegativity (Χ)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>H</entry>
+            <entry>2.1</entry>
+          </row>
+          <row>
+            <entry>He</entry>
+            <entry>-</entry>
+          </row>
+          <row>
+            <entry>Li</entry>
+            <entry>1.0</entry>
+          </row>
+          <row>
+            <entry>Be</entry>
+            <entry>1.5</entry>
+          </row>
+          <row>
+            <entry>B</entry>
+            <entry>2.0</entry>
+          </row>
+          <row>
+            <entry>C</entry>
+            <entry>2.5</entry>
+          </row>
+          <row>
+            <entry>N</entry>
+            <entry>3.0</entry>
+          </row>
+          <row>
+            <entry>O</entry>
+            <entry>3.5</entry>
+          </row>
+          <row>
+            <entry>F</entry>
+            <entry>4.0</entry>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>-</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>0.9</entry>
+          </row>
+          <row>
+            <entry>Mg</entry>
+            <entry>1.2</entry>
+          </row>
+          <row>
+            <entry>Al</entry>
+            <entry>1.5</entry>
+          </row>
+          <row>
+            <entry>Si</entry>
+            <entry>1.8</entry>
+          </row>
+          <row>
+            <entry>P</entry>
+            <entry>2.1</entry>
+          </row>
+          <row>
+            <entry>S</entry>
+            <entry>2.5</entry>
+          </row>
+          <row>
+            <entry>Cl</entry>
+            <entry>3.0</entry>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>-</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>0.8</entry>
+          </row>
+          <row>
+            <entry>Ca</entry>
+            <entry>1.0</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><para id="import-auto-id1170881718721">With these observations in mind, we need to develop a model to understand why the electronegativity is larger for a larger atomic number in a single row, but is smaller for a larger atomic number in a single group.  These trends seem to contradict each other.  There must be a good physical explanation of these observations.</para>
+    <para id="import-auto-id1170879258301">To find one, let’s note that both trends point to F being the most electronegative element.  F is as far to the right on the table as we can go and as far to the top of the table as we can go.  (We might consider He or Ne to be more electronegative, but since there are no known molecules containing bonds with He or Ne, electronegativity has no meaning for these atoms.)  What else do we know about F atoms?  Thinking back on our understanding of atomic energy levels, we recall that F atoms have the highest ionization energy (except for He and Ne) and the highest electron affinity of any of the elements.  Electrons are clearly most strongly attracted to F atoms.  We developed a model to explain this based on Coulomb’s law.  The F atom uniquely combines the largest “core” charge and the smallest distance of the valence electrons to the nucleus (measured as the average orbital distance).  Perhaps these two factors are also responsible for F having the largest electronegativity.  </para>
+    <para id="import-auto-id1170888313080">To find out, we should examine other elements with high electronegativities.  The highest electronegativities are all for elements with high ionization energies.  Interesting examples include N, O, and Cl.  Of these, O has the highest electronegativity, and this makes sense: it has a large core charge and a small shell radius.  But if we compare N and O, N has the higher ionization energy.  There must be more to electronegativity than just ionization energy.  Another interesting comparison of N and O is that N has no electron affinity whereas O has a strong electron affinity, so electron affinity must also be important in understanding electronegativity.  This makes sense: an atom with a higher ionization energy is less likely to have its electrons drawn to another atom in a chemical bond, and an atom with a higher electron affinity is more likely to draw electrons from another atom in a chemical bond.</para>
+    <para id="import-auto-id1170878154935">This produces a simple model to understand electronegativity.  Atoms with higher ionization energies and higher electron affinities have higher electronegativity.  The reasons for high ionization energy and high electron affinity are the same as the reasons for high electronegativity.  On the basis of Coulomb’s law, a larger core charge and a smaller shell radius generally give larger ionization energy, larger electron affinity, and larger electronegativity.  One way to define electronegativity is simply as the average of the ionization energy and the electron affinity.  In fact, the values in <link target-id="import-auto-id1170881591453"/> are just this average multiplied by a constant to give a simplified scale.  </para><para id="import-auto-id1170891929754">Understanding these trends is extremely useful. Electronegativity is one of the most powerful concepts in chemistry for predicting chemical reactivity.  For example, positive ends of molecules are often attracted to the negative ends of other molecules.  Understanding where there may be a more negative charge in a molecule can then help us predict the location in a molecule where a reaction may take place or even predict whether a reaction is expected to occur or not.  We will have many occasions to apply the concept of electronegativity, including in the next concept study.</para>
+</section>
+<section id="fs-id1165193541687">
+    
+      <title>Review and Discussion Questions</title>
+    
+    <list id="import-auto-id1170888172409" list-type="enumerated" number-style="arabic">
+      <item>Why does an electron shared by two nuclei have a lower potential energy than an electron on a single atom? Why does an electron shared by two nuclei have a lower kinetic energy than an electron on a single atom? How does this sharing result in a stable molecule? How can this affect be measured experimentally?</item>
+      <item>The bond in an H<sub>2</sub> molecule is almost twice as strong as the bond in the H<sub>2</sub><sup>+</sup> ion. Explain why the H<sub>2</sub> bond is so much stronger.  Why isn’t the H<sub>2</sub> bond exactly twice as strong as the H<sub>2</sub><sup>+</sup> bond? </item>
+      <item>The ionization energy of H<sub>2</sub> is slightly less than the ionization energy of H<sub>2</sub><sup>+</sup>.  But the bond energy of H<sub>2</sub> is much larger than the bond energy of H<sub>2</sub><sup>+</sup>.  Explain how these two facts are consistent with each other.</item>
+      <item>In this study, we referred to H<sub>2</sub> as a “stable” molecule.  But H<sub>2</sub> gas can be explosively reactive, as a viewing of the Hindenberg disaster clearly reveals.  In what sense is H<sub>2</sub> “stable?”  How can a stable molecule be a highly reactive molecule?</item>
+      <item>Explain why an atom with a high ionization energy is expected to have a high electronegativity. </item>
+      <item>Explain why an atom with a high electron affinity is expected to have a high electronegativity.</item>
+      <item>Explain why S has a greater electronegativity than P but a smaller electronegativity than O.</item>
+      <item>N atoms have a high electronegativity. However, N atoms have no electron affinity, meaning that N atoms do not attract electrons. Explain how and why these facts are not inconsistent.</item>
+    </list></section>
+  </content>
+</document>

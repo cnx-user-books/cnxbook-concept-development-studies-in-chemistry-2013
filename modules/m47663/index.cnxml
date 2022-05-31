@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Phase Equilibrium and Intermolecular Forces</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47663</md:content-id>
+  <md:title>Phase Equilibrium and Intermolecular Forces</md:title>
+  <md:abstract/>
+  <md:uuid>1c8a49d9-7bb1-4c0f-913c-7ca18d76ae04</md:uuid>
+</metadata>
+
+<content>
+    <section id="fs-id1170541997204"><title>Introduction</title>
+    <para id="import-auto-id7477630">Our study of phase equilibrium between the liquid and gas phases has opened a door to a world of information about how molecules interact in a liquid.  Recall that we would like to relate the properties of individual molecules to the properties of bulk samples of a substance.  Our studies of the properties of gases were a little disappointing towards this goal.  We found that the properties of a mole of gas molecules are the same, accurately predicted for all substances by the Ideal Gas Law except under extreme conditions.  This means that the properties of individual molecules are largely irrelevant to the properties of gases.  </para>
+    <para id="import-auto-id7484223">By contrast, we now know that each liquid has a characteristic vapor pressure at each temperature and a characteristic boiling point at each pressure, and these properties differ from one substance to the next.  These differences must be related to differences in the properties of the individual molecules in the liquid phase.  Furthermore, we developed a model for phase equilibrium based on a dynamic view.  The rate of condensation must equal to the rate of evaporation at equilibrium.  And the rate of evaporation must differ from one liquid to the next and must also vary as the temperature changes.  These experimental clues will help us develop a model to account for the differences in physical properties arising from differences in the attractions of individual molecules in the liquid phase.  </para>
+    <para id="import-auto-id2529962">In this study, we will further develop the concept of phase equilibrium, including solids in our discussion.  We will experimentally determine the conditions under which one of the phases is the most stable and conditions under which two or all three of the phases are stable at equilibrium.  We will then build a model to describe the interactions between molecules, accounting for which types of molecules have strong attractions and which have weaker attractions.</para>
+    </section><section id="fs-id1170551041472"><title>Observation 1: Liquid-Vapor Phase Diagram</title>
+    <para id="import-auto-id7470265">In the previous study, we examined experimental data on the vapor pressures of different liquids as a function of their temperature.  We found that the vapor pressure of a liquid depends strongly on what the liquid substance is.  These variations reflect the differing "volatilities" of the liquids: those with higher vapor pressures are more volatile.  </para>
+    <para id="import-auto-id7469908">In addition, there is a very interesting correlation between the volatility of a liquid and the boiling point of the liquid.  Without exception, the substances with high boiling points have low vapor pressures and vice versa.  If we look more closely at the connection between boiling point and vapor pressure, we can find an important relationship.  </para>
+    <para id="import-auto-id7461049">Let’s consider the specific case of water, with its vapor pressure given in Figure 1.  We know from experiment that water boils at 1 atm pressure at 100 ºC.  Note in Figure 1 that, at 100 ºC, the vapor pressure of water is 760 torr = 1 atm.  Thus, the boiling point of water at 1 atm is the temperature at which the vapor pressure of water is equal to 1 atm.  This is a general result.  The boiling point of each liquid at 1 atm pressure is equal to the temperature at which the vapor pressure of that liquid is equal to 1 atm.  </para>
+    <para id="eip-449"><figure id="eip-id1171400300772"><media id="eip-id1171414911832" alt="">
+          <image mime-type="image/png" src="../../media/CDS1-b587.png"/>
+        </media>
+      </figure></para><para id="import-auto-id7335934">Let’s stop to think about why this is true at 1 atm pressure.  To do so, we need to remember how we observed the boiling point.  We applied a pressure using a piston which trapped a liquid in a cylinder.  When we elevated the temperature, we observed a phase transition at one temperature which we called the boiling point.  At that point, the vapor became stable.  For this to be true, the pressure created by the vapor (which is of course the vapor pressure) must at least be equal to the pressure applied externally to the piston.  If the vapor pressure is less than the applied pressure, the vapor cannot resist the applied pressure, the piston moves in, and all of the vapor condenses into the liquid.  Therefore, for the liquid to boil, the temperature must be high enough for the vapor pressure to equal the applied pressure.  Only at this temperature or above will the rate of evaporation be great enough to offset the rate of condensation created by the externally applied pressure.  </para>
+    <para id="import-auto-id7348593">To find the boiling point temperature at 1 atm pressure, we need to find the temperature at which the vapor pressure is 1 atm.  To do so, we find the point on the graph where the vapor pressure is 1 atm and read off the corresponding temperature, which must be the boiling point.  Of course, this will work at any given pressure.  We just read off of Figure 1 the temperature at which the vapor pressure equals the applied pressure, and that will be the temperature at which the liquid boils at that pressure.  This means that Figure. 1 gives us <emphasis effect="underline">both</emphasis> the vapor pressure of water as a function of the temperature <emphasis effect="underline">and</emphasis> the boiling point temperature of water as a function of the applied pressure.  They are the same graph!</para>
+    <para id="import-auto-id7226538">Remember that in the experiment, at the boiling point we observed that both liquid and gas are at equilibrium with one another.  Both phases are present at the boiling point.  This is true at every combination of applied pressure and boiling point temperature.  Therefore, for every combination of temperature and pressure along the curve on the graph in Figure 1, we observe liquid-gas equilibrium. </para><para id="import-auto-id7202024">What happens at combinations of temperature and pressure which are not on the line drawn in Figure 1?  To find out, let’s run the experiment.  We first start at any temperature-pressure combination on the curve and elevate the temperature while holding the applied pressure constant. In Figure 1, this moves us to the right of the curve. We observe that all of the liquid vaporizes, and there is only gas in the container.  What happened to the equilibrium?  At higher temperature, the vapor pressure of the liquid rises, but if the applied pressure does not also increase, then the vapor pressure will be greater than the applied pressure.  The vapor pushes back the piston and the liquid evaporates.  We must therefore not be at equilibrium anymore.  For all temperature and pressure combinations to the right of the curve, only vapor exists.</para>
+    <para id="import-auto-id7176740">Now let’s start at a point on the curve and lower the temperature while holding the pressure constant, leaving us to the left of the curve.  We observe that all of the gas condenses into the liquid.  This is because the vapor pressure is below the applied pressure, and the piston moves in against the gas until it all condenses into the liquid.  For all temperature and pressure combinations to the left of the curve, only liquid exists.</para>
+    <para id="import-auto-id7150992">What if we start at a temperature-pressure combination on the curve and elevate the applied pressure without raising the temperature?  This places us “above” the curve, which is also of course to the left of the curve.  The applied pressure is now greater than the vapor pressure, and as before all of the gas will condense into the liquid. Just as before, for all points to the left of or above the curve, only liquid exists. The opposite reasoning applies if we decrease the applied pressure.  </para>
+    <para id="import-auto-id7193073">Figure 1 thus actually reveals to us what phase or phases are present at each combination of temperature and pressure: along the line, liquid and gas are in equilibrium; above or to the left of the line, only liquid is present; below or to the right of the line, only gas is present.  When we label the graph with the phase or phases present in each region as in Figure 1, we refer to the graph as a “phase diagram.”  In general, every substance has a liquid-vapor phase diagram like Figure 1, although the values of the pressures and temperatures along the equilibrium line differ from substance to substance.</para>
+    </section><section id="fs-id1170539328394"><title>Observation 2: Solid-Liquid-Gas Phase Diagrams</title>
+    <para id="import-auto-id7410223">Of course, Figure 1 only includes liquid, gas, and liquid-gas equilibrium.  We know that, if the temperature is low enough, we expect that the water will freeze into solid.  To complete the phase diagram, we need additional observations.  </para>
+    <para id="import-auto-id7229279">We go back to our apparatus we used before, with a piston in a cylinder trapping liquid water and vapor in phase equilibrium.  We can start at a temperature of 25 ↓C and 23.8 torr since we know that this is the vapor pressure of liquid water at 25 ºC.  If we slowly lower the temperature, the vapor pressure decreases slowly as well, as shown in Figure 1.  However, if we continue to lower the temperature, we observe an interesting transition, as shown in the more detailed Figure 2.  The very smooth variation in the vapor pressure shows a slight, almost unnoticeable break very near to 0 ↓C.  Below this temperature, the pressure continues to vary smoothly, but along a slightly different curve. </para>
+    <para id="eip-333"><figure id="eip-id1171206042609"><media id="eip-id1171210087087" alt="">
+          <image mime-type="image/png" src="../../media/CDS2-c685.png"/>
+        </media>
+      </figure></para><para id="import-auto-id7181330">To understand what we have observed, we examine the contents of the container.  We find that, at temperatures below 0 ↓C, the water in the container is now an equilibrium mixture of water vapor and solid water (ice), and there is no liquid present.  The direct transition from solid to gas, without liquid, is called “sublimation.”  For pressure-temperature combinations along this new curve below 0 ↓C, the curve shows the solid-gas equilibrium conditions.  As with the liquid-vapor curve, we can interpret this new curve in two ways.  The solid-gas curve gives the vapor pressure of the solid water as a function of temperature, and also gives the sublimation temperature as a function of applied pressure.</para>
+    <para id="import-auto-id7302278">Figure 2 is still not a complete phase diagram, because we have not included the combinations of temperature and pressure at which solid and liquid are at equilibrium.  As a starting point for these observations, we look more carefully at the conditions near 0 ↓C.  Very careful measurements reveal that the solid-gas line and the liquid-gas line intersect in Figure 2 where the temperature is 0.01 ↓C.  Under these conditions, we observe inside the container that solid, liquid, and gas are all at equilibrium inside the container.  As such, this unique temperature-pressure combination is called the “triple point.”  At this point, the liquid and the solid have the same vapor pressure, so all three phases can be at equilibrium.  If we raise the applied pressure slightly above the triple point, the vapor must disappear.  We can observe that, by only slightly varying the temperature, the solid and liquid remain in equilibrium.  We can further observe that the temperature at which the solid and liquid are in equilibrium varies almost imperceptibly as we increase the pressure.  If we include the solid-liquid equilibrium conditions on the previous phase diagram, we get Figure 3, where the solid-liquid line is very nearly vertical.  </para><para id="eip-128"><media id="eip-id2220810" alt="">
+          <image mime-type="image/png" src="../../media/CDS3-1679.png"/>
+        </media></para><para id="import-auto-id7466768">Figure 3 is an example of a complete phase diagram.  This diagram shows for each temperature and pressure which phase or phases are present at equilibrium.  Figure 3 is for water, but each substance has its own unique phase diagram, similar in appearance.</para>
+    </section><section id="fs-id1170548859187"><title>Observation 3: Boiling Points and Intermolecular Forces</title>
+    <para id="import-auto-id6953108">Earlier in this study, we determined that the boiling point of a liquid is the temperature at which the vapor pressure of the liquid equals the pressure applied externally, e.g. by the atmosphere or by a piston trapping the liquid and gas in a cylinder.  When the applied pressure is 1 atm, we refer to this as the “normal boiling point.”  If we compare the normal boiling points of two liquids, the liquid with the higher normal boiling point clearly requires a higher temperature to reach a vapor pressure of 1 atm.  From our work on dynamic equilibrium, we know that this higher temperature is required to provide sufficient kinetic energy for the molecules in the liquid to overcome stronger attractions between the molecules.  Overcoming these attractions is necessary for a molecule to “escape” the liquid and join the vapor phase.</para><para id="import-auto-id6930900">This line of reasoning means that, when we compare the normal boiling points of two liquids, we are also indirectly comparing the strengths of the intermolecular attractions in those two liquids.  The liquid with a higher boiling point has stronger intermolecular attractions.</para>
+    <para id="import-auto-id6924609">What determines the strength of these attractions?  To find out, we can analyze experimental data for the boiling points of many liquids and look at the properties of the corresponding molecules.  A useful set of compounds to look at are the covalent compounds formed by combining hydrogen with each of the elements in the “main group,” Groups IV to VII. For example, in the first row of the periodic table, these include CH<sub>4</sub>, NH<sub>3</sub>, H<sub>2</sub>O, and HF.  Table 1 gives the experimentally observed normal boiling points of the sixteen hydrides from Groups IV to VII in the first four rows of the periodic table.</para>
+    <table id="eip-704" summary="table">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry/>
+    <entry>Boiling Point (˚C)</entry>
+  </row>
+  <row>
+    <entry>CH4</entry>
+    <entry>-164</entry>
+  </row>
+  <row>
+    <entry>NH3</entry>
+    <entry>-33</entry>
+  </row>
+  <row>
+    <entry>H2O</entry>
+    <entry>100</entry>
+  </row>
+  <row>
+    <entry>HF</entry>
+    <entry>20</entry>
+  </row>
+  <row>
+    <entry>SiH4</entry>
+    <entry>-111.8</entry>
+  </row>
+  <row>
+    <entry>PH3</entry>
+    <entry>-87.7</entry>
+  </row>
+  <row>
+    <entry>H2S</entry>
+    <entry>-60.7</entry>
+  </row>
+  <row>
+    <entry>HCl</entry>
+    <entry>-85</entry>
+  </row>
+  <row>
+    <entry>GeH4</entry>
+    <entry>-88.5</entry>
+  </row>
+  <row>
+    <entry>AsH3</entry>
+    <entry>-55</entry>
+  </row>
+  <row>
+    <entry>H2Se</entry>
+    <entry>-41.5</entry>
+  </row>
+  <row>
+    <entry>HBr</entry>
+    <entry>-67</entry>
+  </row>
+  <row>
+    <entry>SnH4</entry>
+    <entry>-52</entry>
+  </row>
+  <row>
+    <entry>SbH3</entry>
+    <entry>-17.1</entry>
+  </row>
+  <row>
+    <entry>H2Te</entry>
+    <entry>-2.2</entry>
+  </row>
+  <row>
+    <entry>HI</entry>
+    <entry>-35</entry>
+  </row>
+</tbody>
+</tgroup>
+</table><para id="import-auto-id7144075">At first glance, the values of the boiling points seem to be all over the place.  Any patterns that might exist are not obvious.  But there are patterns if we look at the data long enough, and those patterns can reveal to us what determines the intermolecular attractions.  First, we can see that, for the compounds in each row of the periodic table, the compound with the lowest boiling point is from Group IV: CH<sub>4</sub>, SiH<sub>4</sub>, GeH<sub>4</sub>, and SnH<sub>4</sub>.  Note that these are not the lowest four boiling points in Table 1.  Rather, for each period, they are lowest boiling points of the compounds in each period.  Notice also that the boiling points increase as we move down the table in Group IV, so that the heavier mass molecules have higher boiling points. This is easiest to see if we put them together on a chart in Figure 4.  </para>
+    <para id="eip-218"><figure id="eip-id1171414933536"><media id="eip-id1171410642143" alt="">
+          <image mime-type="image/png" src="../../media/CDS4-adea.png"/>
+        </media>
+      </figure></para><para id="import-auto-id6925686">These two observations suggest that we might find patterns if we put all of the sixteen hydrides on a chart together, sorted by the period each are in.  The result is shown in Figure 5, which is just Figure 4 expanded to show all four groups in the data set of Table 1.  With this chart, we see that the two patterns we described for Group IV work for Groups V to VII, but we also see three dramatic exceptions to those patterns in H<sub>2</sub>O, NH<sub>3</sub>, and HF.</para>
+    <para id="eip-90"><figure id="eip-id1164307373495"><media id="eip-id4103230" alt="">
+          <image mime-type="image/png" src="../../media/CDS5-94e7.png"/>
+        </media>
+      </figure></para><para id="import-auto-id6855393">First, as we noted before, the hydrides from Group IV are the lowest boiling point compounds in each period.  Second, in each group, the boiling point increases as we move down the periodic table.  In fact, this second pattern is perhaps the most pronounced trend in the data.  From this, we draw our first conclusion about the strengths of intermolecular attractions: for similar types of molecules, the molecules with larger atoms (more mass, more protons) have stronger intermolecular attractions.  </para>
+    <para id="import-auto-id7336424">Why would this be?  The answer is not obvious but does make sense once we know it.  Remember that these are all neutral molecules.  As such, we might have imagined that there would no positive-negative interactions. However, each molecule consists of a large of number of protons from the nuclei of the atoms, and an equal number of electrons, both core electrons and valence electrons, which are either shared or unshared. When two molecules are close to each other, the positive and negative charges in each of the molecules interact with each other.  We might again imagine that the attractions of opposite charges would be exactly offset by the repulsions of like charges.  This would be true if the charges were uniformly distributed in the molecules, as we would expect for non-polar molecules.  But when the molecules are close enough to each other, the attractions and repulsions cause the charges to rearrange such that the attractions become significantly more favorable.  </para>
+    <para id="import-auto-id6856890">Such an arrangement of electrons in two adjacent highly simplified molecules is shown in Figure 6.  Note that two nonpolar molecules become polarized when they are close to each other, due to the attraction of the negative charges in one molecule to the positive charges in the other molecule, and vice versa.  The result is a net attractive force between the two molecules.  This type of force is called the “dispersion force,” sometimes also called the “London force” after the discoverer.  </para><para id="eip-669"><figure id="eip-id1164320622235">
+<media id="eip-id1167795917610" alt="dispersion">
+      <image mime-type="image/jpg" src="../../media/dispersion v2.jpg" width="440" height="335"/>
+    </media>
+  </figure></para><para id="import-auto-id7065795">What makes the dispersion force larger?  The data in Table 1 and Figure 5 tell us: molecules with more positive and negative charges, like SnH<sub>4</sub>, have stronger attractions than molecules with fewer positive and negative charges, like CH<sub>4</sub>.  We say that the molecule with more charges is more “polarizable,” meaning it is easier for the molecule to become polarized in the presence of other electrical charges.  The more polarizable a molecule is, the stronger the intermolecular forces will be.</para>
+    <para id="import-auto-id7325731">Let’s now compare the boiling points of compounds in the same period from Group IV and from  Group VII, e.g. SiH<sub>4</sub> versus HCl.  The boiling point of HCl is larger.  However, if we count the charges in these two molecules, we discover that they have the same number of electrons and the same number of protons.  This suggests that the two molecules should be equally polarizable and therefore should have equal dispersion forces and therefore should have equal boiling points.  But this is not true.  Something else must be contributing to the difference in boiling points than just the dispersion forces.  </para>
+    <para id="import-auto-id7503342">To spot the difference between these two molecules, we need to rely on our previously developed knowledge of electronegativities, molecular geometries, and molecular polarity.  HCl is a polar linear molecular because the Cl atom is much more electronegative than the H atom.  Si atoms are actually slightly less electronegative than H atoms, suggesting that SiH<sub>4</sub> should also be polar.  But, we also recall from our electron domain model that SiH<sub>4</sub> has a symmetric tetrahedral geometry, like CH<sub>4</sub>.  As such, like CH<sub>4</sub>, SiH<sub>4</sub> has no molecular dipole moment.  From this comparison, we can conclude that, in comparing two molecules with similar dispersion forces, the molecule with a dipole moment will have stronger intermolecular attractions than the molecule without a dipole moment.  This explains why, in each period in Figure 5, the Group IV hydride compound always has the lowest boiling point.  Each of these compounds has nonpolar molecules due to their symmetry.  By contrast, two HCl molecules will have stronger attractions as the positive end of one HCl will be attracted to the negative end of the other HCl, and vice versa.</para>
+    <para id="import-auto-id4450889">We can now conclude that molecules attract one another via dispersion forces and, if the molecules are polar, via dipole-dipole attractions.  Understanding these two types of intermolecular attractions works well to explain the major patterns observed in Figure 5.</para>
+    <para id="import-auto-id3596903">This does not explain the exceptions, however.  Why are the boiling points of NH<sub>3</sub>, H<sub>2</sub>O, and HF so abnormally high?  Given that these are small mass molecules, we would not expect them to have larger than average dispersion forces.  All three are polar molecules, but there is nothing to suggest that there dipole moments are unusually high.  There must be a different type of intermolecular attraction that is unique to these three molecules out of this set of molecules.  </para>
+    <para id="import-auto-id3508969">We need a pattern to analyze.  What do these three molecules have in common with each other that the other molecules in Table 1 do not?  N, O, and F are all strongly electronegative atoms and are also amongst the smallest atoms in the periodic table.  In the Lewis structures for all three molecules, O, N and F all have non-bonded, lone pairs of electrons.  These three properties, taken together in a single molecule, must present a uniquely strong intermolecular attraction.</para>
+    <para id="import-auto-id6327650">Chemists account for this strong bonding via a model called “hydrogen bonding.”  This is a uniquely strong form of dipole-dipole attraction that only occurs when a molecule contains a hydrogen atom bonded to an N atom, an O atom, or an F atom.  Due to the strength of the electronegativity of these atoms, the N-H bond or  O-H bond or F-H bond is highly polar, meaning that the H atom is almost a bare, positively charged hydrogen nucleus.  This strong positive charge on one molecule is in turn strongly attracted to the negatively charged lone pair electrons on the N, O, or F atom of another molecule.  This is illustrated in Figure 7.</para><para id="eip-614"><figure id="eip-id1166085278297"><media id="eip-id1166071171212" alt="">
+          <image mime-type="image/png" src="../../media/CDS7.png"/>
+        </media>
+      </figure></para><para id="import-auto-id2573563">Note that size seems to be important in hydrogen bonding as well.  HF has a much higher boiling point than HCl, indicating that HF has stronger intermolecular attractions.  Even though the Cl atom is strongly electronegative and has lone pair electrons in the HCl molecule, the Cl atom is apparently too large to support the uniquely strong dipole-dipole attraction we call hydrogen bonding.  </para>
+    <para id="import-auto-id6687326">It turns out that other measurements and calculations reveal that, when present, hydrogen bonding attractions are approximately ten times stronger than dipole-dipole attractions or dispersion forces, for comparably sized molecules.  Thus, hydrogen bonding dominates intermolecular attractions for those molecules which are capable of hydrogen bonding.  </para>
+    <para id="import-auto-id5292379">Of course, these conclusions are based on the set of data in Table 1 and Figure 5.  These sixteen molecules are all somewhat comparable, consisting of no more than 5 atoms, and no more than one atom other than hydrogen.  The boiling points of other molecules can reveal other trends in the strengths of intermolecular attractions.  We will take one example to illustrate this.  Let’s compare the normal boiling point of H<sub>2</sub>O, 100 ºC, to that of octane (C<sub>8</sub>H<sub>18</sub>), which is 125 ºC.  Octane is symmetric, has no dipole moment, and has no N, O, or F atoms that could hydrogen bond. Therefore, octane molecules attract each other entirely through dispersion forces.  And yet, the strength of the attractions between octane molecules is greater than that between water molecules.  This reveals that the magnitude of the dispersion force can be dominant in comparing molecules of very different sizes. Dispersion forces can dominate both dipole-dipole interactions in polar molecules, and even hydrogen bonding forces.  </para>
+    <para id="import-auto-id4427177">Therefore, in attempting to predict which of two molecules might have the stronger intermolecular forces, it is important first to consider first whether the molecules are of comparable sizes or of very different sizes.  Provided that the molecules are of comparable size, the dispersion forces should not be too very different.  In this case, polar molecules will have stronger intermolecular forces than non-polar molecules, and molecules which exhibit hydrogen bonding will have even stronger intermolecular forces. </para>
+    </section><section id="fs-id1170547551365"><title>Review and Discussion Questions</title>
+    <list id="import-auto-id4309501" list-type="enumerated" number-style="arabic"><item>In the phase diagram for water in Figure 1, start at the point where T = 60 ºC and P = 400 torr.  Slowly increase the temperature with constant pressure until T = 100 ºC.  State what happens physically to the water during this heating process.</item>
+      <item>In the phase diagram for water in Figure 1, start at the point where T = 60 ºC and P = 400 torr.  Slowly lower the pressure at constant temperature until P = 80 torr.  State what happens physically to the water during this process.</item>
+      <item>Explain why Figure 1 is both a graph of the boiling point of liquid water as a function of applied pressure and a graph of the vapor pressure of liquid water as a function of temperature.</item>
+      <item>Using arguments from the Kinetic Molecular Theory and the concept of dynamic equilibrium, explain why, at a given applied pressure, there can be one and only one temperature, the boiling point, at which a specific liquid and its vapor can be in equilibrium.</item>
+      <item>Using dynamic equilibrium arguments, explain why a substance with weaker intermolecular forces has a greater vapor pressure than one with stronger intermolecular forces.</item>
+      <item>The vapor pressure of phenol is 400 torr at about 160 ºC, whereas the vapor pressure of dimethyl ether is 400 torr at about -40 ºC.  Which of these substances has the greater intermolecular attractions?  Which substance has the higher boiling point?  Explain the difference in the intermolecular attractions in terms of molecular structure.</item>
+      <item>In Table 4 and Figure 5, the boiling point of stannane (SnH<sub>4</sub>) is -52 ºC and the boiling point of phosphine (PH<sub>3</sub>) is -87.7 ºC.  SnH<sub>4</sub> is non-polar and PH<sub>3</sub> is polar.  Explain why the boiling point of SnH<sub>4</sub> is nevertheless higher than the boiling point of PH<sub>3</sub>.</item>
+      <item>Figure 5 shows that the boiling points of the hydrides in the first period are all unexpectedly high, except for methane (CH<sub>4</sub>).  Explain why CH<sub>4</sub> is an exception to this trend.</item>
+    </list></section>
+  </content>
+</document>

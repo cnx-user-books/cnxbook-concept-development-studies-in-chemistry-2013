@@ -1,0 +1,683 @@
+<html xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Untitled Document</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+    <link rel="stylesheet" title="Sky" type="text/css" href="/preview_css/cnx-styles/newlook/document.css"/>
+    <script type="text/javascript" src="/preview_css/js/exercise.js"> </script>
+    <script type="text/javascript" src="/preview_css/js/qml_1-0.js"> </script>
+    <!--****QML**** sets the feedback and hints to non-visible.-->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
+          MathJax.Hub.Config({
+            	extensions: ["mml2jax.js"],
+            	menuSettings: {zoom:"Click"},
+            	"HTML-CSS": {scale:110},
+            	jax: ["input/MathML","output/HTML-CSS"]
+        	});
+        	if(location.href.split("#").length != 1) {
+          	MathJax.Hub.Register.StartupHook("End", function() {location.href = location.href; });
+        	}
+        </script>
+    <style type="text/css">
+	      .feedback {display:none}
+	      .hint {display:none}
+        body {margin: 0px; padding: 15px;}
+	    </style>
+  </head>
+  <body>
+    <!--Editing In Place javascript-->
+    <div id="cnx_module_header">
+      <h1 id="cnx_content_title">Untitled Document</h1>
+    </div>
+    <div xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml/0.4" xmlns:qml="http://cnx.rice.edu/qml/1.0" xmlns:mod="http://cnx.rice.edu/#moduleIds" xmlns:bib="http://bibtexml.sf.net/" id="cnx_main">
+    <p class="para" id="import-auto-id511255">
+      <b class="emphasis">Concept Development Study 5</b>
+    </p>
+    <p class="para" id="import-auto-id491922">
+      <b class="emphasis">Quantum Electron Energy Levels in an Atom</b>
+    </p>
+    <p class="para" id="import-auto-id444390">
+      <u class="emphasis">Introduction</u>
+    </p>
+    <p class="para" id="import-auto-id462504">The electron shell model for the atom provides significant answers to many of the most important questions about the properties of atoms.  For many of the problems that chemists need to solve, we don&#8217;t need more details about the structure of the atom than what we can gain from knowing the numbers of electrons in the valence shell, the size of the valence shell, and the charge on the nucleus.  As perhaps the best example of this, the Periodic Law of the elements is easily understood from the repeating pattern of filling a valence shell successively and starting over with a new shell.  Even though more advanced and detailed theories of atomic structure have come along since the electron shell model was introduced, chemists return to this simple model to understand the properties of elements and the structures and reactions of molecules.  We shall come back and explore these applications of the electron shell model in later Concept Development Studies. </p>
+    <p class="para" id="import-auto-id635924">For now, there are still some nagging questions about this simple model.  What does it mean for two or more electrons in an atom to be &#8220;in the same shell&#8221;?  We don&#8217;t have a model for what a shell is, other than a set of electrons which appear to be at about the same distance from the nucleus.  But this does not give a clear picture of what the electrons are doing.  We have said that the electrons move in the empty space surrounding the nucleus, but we have not yet asked how they move or where they move.  Without knowing that, we cannot really know why electrons have similar or different energies.  </p>
+    <p class="para" id="import-auto-id555298">Probably the most important unanswered question is why the shells fill up.  The arrangement of elements into groups and the periodicity of chemical properties both depend on the idea that a shell is &#8220;filled&#8221; by a certain number of electrons.  Why is there a limit on the number of electrons which can &#8220;fit&#8221; into a shell?  Looking at the number of elements in each period, the number of electrons which fills a shell depends on which shell is being filled.  There are 8 elements from lithium to neon and from sodium to argon, telling us that 8 electrons will fill the valence shells in each of those sets of elements.  However, there are 18 elements from potassium to krypton and from rubidium to xenon, telling us that 18 electrons will fill the valence shells in each of those sets of elements.  In the cases of hydrogen and helium, only 2 electrons will fill their shell.  What determines how many electrons can &#8220;fit&#8221; in a shell?  What is special about the numbers 2, 8, and 18?  Why is there a limit at all?  These may seem like questions about only technical details.  But the power of the electron shell model rests on these details, so we should find out the answers to these questions.</p>
+    <p class="para" id="import-auto-id774456">
+      <u class="emphasis">Foundation</u>
+    </p>
+    <p class="para" id="import-auto-id552151">In this study, we will assume that we know the postulates of the Atomic Molecular Theory and our measurements of relative atomic masses.  We know that an element is composed of individual atoms with identical masses, and we know that the atoms of different elements have different masses, which have been measured.  </p>
+    <p class="para" id="import-auto-id567607">We will also assume that we know that structure of an atom, with a tiny, massive, positively charged nucleus surrounded by a much larger empty space in which electrons move.  The positive charge on the nucleus is equal to the number of protons in the nucleus and, in a neutral atom, is also equal to the number of electrons moving about the nucleus.  The number, called the atomic number, is unique for each type of atom.  No two elements have the same atomic number, and amongst the naturally occurring elements, no atomic number is skipped: for every integer up to 118 we know an element with that atomic number.  We will assume knowledge of the concept of electron shells as a means of understanding the Periodic Law, which describes the chemical and physical properties of the elements.  </p>
+    <p class="para" id="import-auto-id772252">From the previous Concept Development Studies, we shall also assume an understanding of Coulomb&#8217;s Law to describe the interactions of the protons and electrons in an atom.  And we shall also assume an understanding that light, or electromagnetic radiation, can be described in terms of the frequency of the light and that the frequencies emitted by a light source can be separated by using a prism or diffraction grating.  We will use each of these understandings as we probe into greater detail about the structures of atoms.</p>
+    <p class="para" id="import-auto-id759750">
+      <u class="emphasis">Observation 1: The Spectrum of Hydrogen</u>
+    </p>
+    <p class="para" id="import-auto-id387510">In the Concept Development Study on Atomic Structure, we discussed the experimental method called &#8220;spectroscopy.&#8221;  In general in a spectroscopy experiment, we look at the frequencies of light that an atom or molecule emits when energy is added to it in some way (commonly by heating it or placing it in an electric arc but possibly also by shining light on it).  Alternatively, we can also look at the frequencies of light which the atom or molecule absorbs when we shine light with a range of frequencies on the atom or molecule.  These two techniques are called &#8220;emission spectroscopy&#8221; and &#8220;absorption spectroscopy,&#8221; and which method is used depends on what properties we are trying to measure.  </p>
+    <p class="para" id="import-auto-id433026">In the simple case of an atom, say hydrogen, the frequencies of light which the atom will absorb are the same as the frequencies of light which the atom will emit.  We can look at either one, and the set of frequencies we see experimentally is called the &#8220;spectrum&#8221; of the atom.  Since hydrogen is the simplest atom, with only a single proton and a single electron, we&#8217;ll look at hydrogen&#8217;s spectrum first.</p>
+    <p class="para" id="import-auto-id660236">The spectrum of hydrogen contains frequencies of light corresponding to visible light, ultraviolet light, and x-rays.  The visible spectrum of hydrogen, which is just the four frequencies hydrogen emits that can be seen by the human eye, is shown in Figure 1. There are many more frequencies in hydrogen&#8217;s spectrum than the ones that we can see.  Table 1 shows a set of these frequencies.</p>
+    <div class="figure" id="import-auto-id671469"><table border="0" cellpadding="0" cellspacing="0" align="center" width="50%"><caption class="figure-caption" align="bottom"><strong class="cnx_label">Figure 1</strong></caption><tbody><tr><td class="inner-figure"><span class="media" id="import-auto-id390983"><img src="graphics1.png" height="408" width="576" alt="Figure 1 (graphics1.png)"/></span></td></tr></tbody></table></div>
+    <p class="para" id="import-auto-id640028">Figure 1. Diagram showing the visible emission spectrum of hydrogen corresponding to light at 410, 434, 486, and 656 nm wavelengths. </p>
+    <p class="para" id="import-auto-id622123">Table 1</p>
+    <p class="para" id="import-auto-id525045">Hydrogen Spectrum</p>
+    <div class="table" id="import-auto-id642273"><table cellspacing="0" cellpadding="0" align="center" summary="" style="border: 1px solid; "><caption align="bottom" class="table-text"><span class="cnx_label">Table 1</span></caption><tbody valign="top">
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">Wavelength (nm)</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">Frequency (THz)</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Region(color)</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">94</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">3197</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Ultraviolet</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">95</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">3157</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Ultraviolet</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">97</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">3083</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Ultraviolet</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">103</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">2922</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Ultraviolet</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">122</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">2466</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Ultraviolet</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">410</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">731</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Visible (violet)</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">434</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">691</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Visible (violet-blue)</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">486</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">617</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Visible (blue-green)</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">656</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">457</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Visible (red)</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">955</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">314</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Infrared</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">1005</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">298</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Infrared</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">1094</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">274</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Infrared</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">1282</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 1px solid; text-align: left !important; ">234</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 1px solid; text-align: left !important; ">Infrared</td>
+          </tr>
+          <tr>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 0 !important; text-align: left !important; ">1875</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 1px solid; border-bottom: 0 !important; text-align: left !important; ">160</td>
+            <td style="border-left: 0 !important; border-top: 0 !important; border-right: 0 !important; border-bottom: 0 !important; text-align: left !important; ">Infrared</td>
+          </tr>
+        </tbody></table></div>
+    <p class="para" id="import-auto-id542638">There doesn&#8217;t appear to be a pattern of any sort in the data in Table 1, just a collection of numbers.  The first important conclusion to remember, though, is that only these frequencies are observed.  Hydrogen atoms will not emit radiation with a frequency between these numbers, for example.  Given the infinite possibilities for what the frequency of light can be, this is a very small set of numbers observed in the spectroscopy experiment.  </p>
+    <p class="para" id="import-auto-id389136">As it turns out, there is a pattern in the data, but it is quite hard to see.  Each frequency in the spectrum can be predicted by a very simple formula, in which each line corresponds to a specific choice of two simple positive integers, <i class="emphasis">n </i>and <i class="emphasis">m</i>.  If we pick any two small integers (1, 2, 3, &#8230;) for <i class="emphasis">n</i> and <i class="emphasis">m</i>, we can calculate a frequency<i class="emphasis"> &#925;</i>, from the equation:</p>
+    <p class="para" id="import-auto-id522806">
+      <m:math display="inline"><m:semantics><m:mrow>
+        <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>&#957;</m:mi>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfenced open="&#57502;" close="&#57503;">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>n</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                          <m:mi mathvariant="normal">&#8722;</m:mi>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>m</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+      </m:mrow><m:annotation-xml encoding="MathML-Content"><m:semantics xmlns="http://cnx.rice.edu/cnxml">
+          <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>&#957;</m:mi>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfenced open="&#57502;" close="&#57503;">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>n</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                          <m:mi mathvariant="normal">&#8722;</m:mi>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>m</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{&#957;=R times  left ( {  {1}  over  {n rSup { size 8{2} } } }  -  {  {1}  over  {m rSup { size 8{2} } } } "  " right ) } {}</m:annotation>
+        </m:semantics></m:annotation-xml></m:semantics></m:math>
+    </p>
+    <p class="para" id="import-auto-id563550">This is called the Rydberg equation, and the constant <b class="emphasis">R</b> is called the Rydberg constant, which has value 3.29 &#8805; 1015 sec-1.  This is a truly remarkable equation, both because it is so simple and because it is complete.  Every choice of <i class="emphasis">n</i> and <i class="emphasis">m</i> will produce a value of <i class="emphasis">&#925;</i> which is observed experimentally.  And every <i class="emphasis">&#925;</i> that is observed in the experiment corresponds to a choice of <i class="emphasis">n</i> and <i class="emphasis">m</i>.  There are no exceptions, no simple choices of <i class="emphasis">n</i> and <i class="emphasis">m</i> which don&#8217;t produce a frequency observed in the spectrum, and no frequency in the spectrum for which we can&#8217;t find simple choices of <i class="emphasis">n</i> and <i class="emphasis">m</i>.  </p>
+    <p class="para" id="import-auto-id424933">A very interesting question, then, is what <i class="emphasis">n</i> and <i class="emphasis">m</i> mean.  They must have some physical significance to the hydrogen atom, since they predict a physical property of the hydrogen atom.  The spectrum alone does not provide any further insights, so we&#8217;ll need additional observations.  </p>
+    <p class="para" id="import-auto-id397391">What about the spectrum of atoms of other elements?  Experimentally, we find that the atomic spectrum of every element consists of a limited set of frequencies which are observed.  Each element has a unique atomic spectrum, which a set of frequencies which uniquely identify that element.  However, the Rydberg equation only predicts the frequencies for the hydrogen atom spectrum.  There does not exist a similarly simple formula for any other atom.</p>
+    <p class="para" id="import-auto-id563868">
+      <u class="emphasis">Observation 2: The Photoelectric Effect</u>
+    </p>
+    <p class="para" id="import-auto-id493119">To understand the spectrum of hydrogen and other elements, we need to have a better understanding of the energy associated with electromagnetic radiation.  To begin, we should be clear that electromagnetic radiation is a form of energy.  There are some simple ways to see this in everyday life, including the fact that water left in sunlight will become hotter just as if it had been heated over a flame.  It is also possible to generate electrical power from light, and it is even possible to &#8220;push&#8221; an object using energy absorbed from light.  The question we now ask is, &#8220;How much energy is contained in light?&#8221;  Even more specifically, &#8220;How is the energy contained in the light related to the frequency and intensity of the light source?&#8221;</p>
+    <p class="para" id="import-auto-id514488">We need a way to measure the energy.  One way is via the &#8220;photoelectric effect.&#8221;  When light is directed at a metal surface under the correct conditions, experimental observations show that electrons are ejected from the metal.  These electrons can be collected to produce a usable electric current.  There are a number of simple applications of the photoelectric effect, including in remote control devices or &#8220;electric eye&#8221; door openers.</p>
+    <p class="para" id="import-auto-id541452">We already know that removing an electron from an atom requires energy, so it must be true that removing an electron from a metal requires energy, as well.  In the photoelectric effect, the energy required is provided by the light source.  We can vary the frequency of the light source and the intensity of the light source to determine under what conditions enough energy is provided to eject an electron from the metal.  This could be detected by measuring the electric current produced.  The more electrons ejected, the greater the current.  We can also measure the energy of the ejected electrons.  This is hard to do, but it is possible to measure the kinetic energy of these electrons as they are collected.  </p>
+    <p class="para" id="import-auto-id594927">Before looking at the experimental data, we can stop to make a prediction about the results.  We know that more intense light must contain greater energy, since light from the sun can certainly warm something up faster than a flashlight.  So we would expect that more intense light would produce more and faster electrons.  What would be harder to predict is the effect of changing the frequency of the light.  So first, let&#8217;s use a light source with a single frequency.  This can be done by passing the light source first through a prism or diffraction grating.  Then we can vary the intensity of the light. </p>
+    <p class="para" id="import-auto-id431766">The first surprising result is that, if we choose a frequency too low for our source, there are no electrons produced by the photoelectric effect.  There is no current at all.  We have to use a light source with at least a minimum frequency, <i class="emphasis">&#925;</i><i class="emphasis">0</i><i class="emphasis">, </i>called the &#8220;threshold frequency,&#8221; in order to observe electrons ejected.  This is puzzling.  Even when we apply a very intense light source, which presumably provides a lot of energy, no electrons are ejected unless we are using light of at least the minimum frequency.  And conversely, even if the intensity is very low so that not much energy is provided, we do get electrons ejected if the light source has frequency above the threshold.  This is not what we would expect. </p>
+    <p class="para" id="import-auto-id554793">The value of the threshold frequency depends on which type of metal we shine the light source on.  Let&#8217;s stick with a single type of metal, and let&#8217;s use a light source with frequency greater than the threshold, so <i class="emphasis">&#925; </i>&gt; <i class="emphasis">&#925;</i><i class="emphasis">0</i>.  With this light source in place, we&#8217;ll vary the intensity of the light and measure the current and the kinetic energy of the ejected electrons. The results are shown in Figure 2.</p>
+    <p class="para" id="import-auto-id611288"><div class="figure" id="import-auto-id611289"><table border="0" cellpadding="0" cellspacing="0" align="center" width="50%"><caption class="figure-caption" align="bottom"><strong class="cnx_label">Figure 2</strong></caption><tbody><tr><td class="inner-figure"><span class="media" id="import-auto-id499770"><img src="graphics2.png" height="468" width="456" alt="Figure 2 (graphics2.png)"/></span></td></tr></tbody></table></div>Figure 2. The results from shining light on metal and measuring the photoelectrons ejected. &amp; is the photoelectric current, &#925; is the frequency of light, I is the intensity of incident light, and KE is the photoelectron kinetic energy. (a) If the frequency of light is high enough, the number of photoelectrons emitted increases directly with the light intensity. (b) However, the energy of the photoelectrons does not depend on the light intensity. (c) For photoelectrons to be emitted, the light frequency must be greater than a threshold value. (d) If the light frequency is high enough, the energy of the electrons increases directly with the frequency. </p>
+    <p class="para" id="import-auto-id535140">In part (a), we see that, just as expected, a more intense light above the threshold frequency produces more electrons and a greater current.  But in part (b), we see that the more intense light above the threshold frequency does not produce electrons with greater kinetic energy.  This is not expected, since more energy would have been expected to produce more energetic electrons.  </p>
+    <p class="para" id="import-auto-id535156">To dig further into these surprising results, let&#8217;s fix the intensity of the light and vary the frequency of the source while observing the electric current produced and the kinetic energy of the electrons ejected.  The results are also shown in Figure 2.  First, in part (c), we see the threshold frequency clearly.  If the frequency is below the threshold frequency, <i class="emphasis">&#925;</i><i class="emphasis">0</i>, then no electrons are ejected and there is no current.  This suggests that the frequency of the light is related to the energy of the light so that we need a high enough frequency to provide a high enough energy.  But part (c) also shows that if the light source is above the threshold, then we get a fixed current, no matter how high the frequency.  This also seems strange if the higher frequency light is higher in energy.  What happened to the added energy at high frequency?  The answer is in part (d), which shows that the kinetic energy of the ejected electrons increases when we increase the frequency of the light source.  In fact, it is a very simple relationship.  Assuming the frequency is above the threshold, increasing the frequency of the light increases the kinetic energy of the electrons in direct proportion.  </p>
+    <p class="para" id="import-auto-id396749">To summarize the results in Figure 2, light which is high intensity but low frequency will not eject electrons.  Light which has sufficiently high frequency will eject electrons whether the intensity is low or high.  Increasing the intensity gives us more electrons but not more energetic electrons.  Increasing the frequency gives us more energetic electrons but not more of them.</p>
+    <p class="para" id="import-auto-id525408">This is a very challenging puzzle, and an analogy helps to reveal the subtle answer. Imagine trying to knock pieces out of a wall by throwing objects at it.  We discover that, no matter how many ping pong balls we throw, we cannot knock out a piece of the wall.  On the other hand, only a single bowling ball is required to accomplish the task.  This is because, in either case, the energy from either the ping pong balls or the bowling ball is provided to the wall in individual collisions.  Each ball hits the wall individually, whether there are many of them or only one.  The key to understanding our imaginary experiment is in discovering that, although there are many more ping-pong balls than bowling balls, it is only the impact of each individual particle with the wall which determines what happens and whether a piece of the wall is knocked loose.  </p>
+    <p class="para" id="import-auto-id427492">The results of this &#8220;experiment&#8221; are similar to the observations of the photoelectric effect: very little high frequency light can accomplish what an enormous amount of low frequency light cannot.  If we use this analogy, we can reasonably conclude that the energy of the light is supplied in &#8220;bundles&#8221; or &#8220;packets&#8221; of constant energy, similar to the energy of the balls being provided in packets.  In light, we will call the packets of constant energy &#8220;photons.&#8221;  In the photoelectric effect, each photon or packet of light energy hits the metal surface individually and acts individually.  </p>
+    <p class="para" id="import-auto-id520476">How much energy does a photon contain?  This is revealed by looking at Figure 2(d), which shows that the kinetic energy of the ejected electrons increases in direct proportion to the frequency provided that the frequency is above the threshold.  We can conclude that the light supplies energy to the electron, which is proportional to the light frequency, so the energy of each photon is proportional to the frequency of the light.  This now accounts for the observation that the frequency of the light source must be above the threshold frequency.  For a photon to dislodge a photoelectron, it must have sufficient energy, by itself, to supply to the electron to overcome its attraction to the metal.  It does not get any help from other photons, just like a single ping-pong ball acts alone against the wall.  Since each photon must have sufficient energy and since the energy is proportional to the frequency, then each photon must be of a sufficient minimum frequency.</p>
+    <p class="para" id="import-auto-id387530">Increasing the intensity of the light certainly must increase the total energy of the light, since we observe this in everyday life.  This means that the intensity of the light is proportional to the number of photons in the light but not the energy of each individual photon.  Therefore, if the frequency of the light is too low, the photon energy is too low to eject an electron.  Think again of the analogy: we can say that a single bowling bowl can accomplish what many ping-pong balls cannot, and a single high frequency photon can accomplish what many low frequency photons cannot.</p>
+    <p class="para" id="import-auto-id462462">The important conclusion for our purposes is that light energy is &#8220;quantized&#8221; into packets of energy.  The amount of energy in each photon is proportional to the frequency of the light.  Einstein first provided these conclusions, along with the equation which gives the energy of a photon of frequency<i class="emphasis"> &#925;</i></p>
+    <p class="para" id="import-auto-id591509">E = h<i class="emphasis">&#925;</i></p>
+    <p class="para" id="import-auto-id448477">where h is a constant called Planck&#8217;s constant.</p>
+    <p class="para" id="import-auto-id597163">
+      <u class="emphasis">Observation 3: Quantum Energy Levels in Hydrogen Atoms</u>
+    </p>
+    <p class="para" id="import-auto-id512823">Observation 1 showed us that only certain frequencies of light are emitted by hydrogen atoms.  Observation 2 showed us that the energy of light is quantized into photons, or packets of energy, whose energy is proportional to the frequency of the light <i class="emphasis">&#925;</i>.  We can now think about combining these two observations into a single observation about the hydrogen atom.  When a hydrogen atom emits light, it must be emitting a photon of energy and is therefore losing energy.  A hydrogen atom consists only of a nucleus and a single electron moving about that nucleus.  The simplest (and perhaps only) way for the hydrogen atom to lose energy is for the electron to lose some of its energy.  Therefore, when a hydrogen atom emits radiation of a certain frequency, it is emitting a photon of a specific energy, and therefore, the electron loses that same very specific energy.</p>
+    <p class="para" id="import-auto-id578546">In the spectrum of hydrogen, only certain frequencies are emitted.  That means that only certain amounts of energy loss are possible for the electron in a hydrogen atom.  How can this be?  Why can&#8217;t an electron in a hydrogen atom lose any amount of energy?  The answer becomes clearer by thinking of an analogy, in this case of walking down a staircase or walking down a ramp.  When you walk down a ramp, you can change your elevation by any amount you choose.  When you walk down a staircase, you can only change your elevation by fixed amounts determined by the fixed heights of the steps and the difference in heights of those steps.  The energy of an electron is like the height of each step on a staircase, not like the height on a ramp, since the energy can only be changed by certain specific amounts.  This means that the energy of an electron in a hydrogen atom can only be certain specific values, called &#8220;energy levels.&#8221;  In other words, the energy of a hydrogen atom is &#8220;quantized.&#8221;  </p>
+    <p class="para" id="import-auto-id528112">The Rydberg equation tells us what these energy levels are.  Recall that every frequency emitted by a hydrogen atom is predicted by the simple equation:</p>
+    <p class="para" id="import-auto-id596481">
+      <m:math display="inline"><m:semantics><m:mrow>
+        <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>&#957;</m:mi>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfenced open="&#57502;" close="&#57503;">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>n</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                          <m:mi mathvariant="normal">&#8722;</m:mi>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>m</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+      </m:mrow><m:annotation-xml encoding="MathML-Content"><m:semantics xmlns="http://cnx.rice.edu/cnxml">
+          <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>&#957;</m:mi>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfenced open="&#57502;" close="&#57503;">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>n</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                          <m:mi mathvariant="normal">&#8722;</m:mi>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msup>
+                              <m:mi>m</m:mi>
+                              <m:mstyle mathsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mtext/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{&#957;=R times  left ( {  {1}  over  {n rSup { size 8{2} } } }  -  {  {1}  over  {m rSup { size 8{2} } } } "  " right ) } {}</m:annotation>
+        </m:semantics></m:annotation-xml></m:semantics></m:math>
+    </p>
+    <p class="para" id="import-auto-id562387">Each emitted frequency must correspond to a certain energy h<i class="emphasis">&#925;</i>, and this energy must be the energy lost by the electron.  This energy must therefore be the <u class="emphasis">difference</u> between two electron energy levels in the hydrogen atom.  Let&#8217;s label the energy the electron starts with as E<i class="emphasis">m</i>, where <i class="emphasis">m</i> is just an index that tells us where the electron starts.  Similarly, let&#8217;s label the energy the electron finishes with as E<i class="emphasis">n</i>, where <i class="emphasis">n</i> is just a different index.  The electron loses energy equal to E<i class="emphasis">m</i> &#8211; E<i class="emphasis">n</i>, and this must equal the photon energy emitted:</p>
+    <p class="para" id="import-auto-id488740">h&#925;  = E<i class="emphasis">m</i> - E<i class="emphasis">n</i></p>
+    <p class="para" id="import-auto-id651367">We should be able to compare these two equations, since both contain a difference between two quantities that depend on two indices, <i class="emphasis">m</i> and <i class="emphasis">n</i>.  Each energy of the electron might be given by an index <i class="emphasis">n</i> as</p>
+    <p class="para" id="import-auto-id654991">
+      <m:math display="inline"><m:semantics><m:mrow>
+        <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mstyle mathsize="8pt">
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">&#8722;</m:mi>
+                        <m:mi>h</m:mi>
+                      </m:mrow>
+                      <m:mi mathvariant="normal">&#215;</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mstyle mathsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+      </m:mrow><m:annotation-xml encoding="MathML-Content"><m:semantics xmlns="http://cnx.rice.edu/cnxml">
+          <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mstyle mathsize="8pt">
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">&#8722;</m:mi>
+                        <m:mi>h</m:mi>
+                      </m:mrow>
+                      <m:mi mathvariant="normal">&#215;</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mstyle mathsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{n} } = - h times R times  {  {1}  over  {n rSup { size 8{2} } } } } {}</m:annotation>
+        </m:semantics></m:annotation-xml></m:semantics></m:math>
+    </p>
+    <p class="para" id="import-auto-id552404">If so, then the energy lost by an electron in the second equation above would be</p>
+    <p class="para" id="import-auto-id482760">
+      <m:math display="inline"><m:semantics><m:mrow>
+        <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mstyle mathsize="8pt">
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>-E</m:mtext>
+                        <m:mstyle mathsize="8pt">
+                          <m:mrow>
+                            <m:mi>n</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi mathvariant="normal">=</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi mathvariant="normal">&#8722;</m:mi>
+                            <m:mi>h</m:mi>
+                          </m:mrow>
+                          <m:mi mathvariant="normal">&#215;</m:mi>
+                          <m:mi>R</m:mi>
+                        </m:mrow>
+                        <m:mi mathvariant="normal">&#215;</m:mi>
+                        <m:mfenced open="&#57502;" close="&#57503;">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:msup>
+                                <m:mi>m</m:mi>
+                                <m:mstyle mathsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mfrac>
+                            <m:mi mathvariant="normal">&#8722;</m:mi>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:msup>
+                                <m:mi>n</m:mi>
+                                <m:mstyle mathsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">=</m:mi>
+                    <m:mi mathvariant="italic">h&#957;</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+      </m:mrow><m:annotation-xml encoding="MathML-Content"><m:semantics xmlns="http://cnx.rice.edu/cnxml">
+          <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mstyle mathsize="8pt">
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>-E</m:mtext>
+                        <m:mstyle mathsize="8pt">
+                          <m:mrow>
+                            <m:mi>n</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi mathvariant="normal">=</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi mathvariant="normal">&#8722;</m:mi>
+                            <m:mi>h</m:mi>
+                          </m:mrow>
+                          <m:mi mathvariant="normal">&#215;</m:mi>
+                          <m:mi>R</m:mi>
+                        </m:mrow>
+                        <m:mi mathvariant="normal">&#215;</m:mi>
+                        <m:mfenced open="&#57502;" close="&#57503;">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:msup>
+                                <m:mi>m</m:mi>
+                                <m:mstyle mathsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mfrac>
+                            <m:mi mathvariant="normal">&#8722;</m:mi>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:msup>
+                                <m:mi>n</m:mi>
+                                <m:mstyle mathsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">=</m:mi>
+                    <m:mi mathvariant="italic">h&#957;</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{m} } "-E" rSub { size 8{n} } = - h times R times  left ( {  {1}  over  {m rSup { size 8{2} } } }  -  {  {1}  over  {n rSup { size 8{2} } } }  right )=h&#957;} {}</m:annotation>
+        </m:semantics></m:annotation-xml></m:semantics></m:math>
+    </p>
+    <p class="para" id="import-auto-id541524">This equation is the same as the Rydberg equation found experimentally.  Therefore, we can conclude that, in a hydrogen atom, the energy of an electron can only be certain values given by an integer index <i class="emphasis">n</i> and equal to </p>
+    <p class="para" id="import-auto-id488460">
+      <m:math display="inline"><m:semantics><m:mrow>
+        <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mstyle mathsize="8pt">
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">&#8722;</m:mi>
+                        <m:mi>h</m:mi>
+                      </m:mrow>
+                      <m:mi mathvariant="normal">&#215;</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mstyle mathsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+      </m:mrow><m:annotation-xml encoding="MathML-Content"><m:semantics xmlns="http://cnx.rice.edu/cnxml">
+          <m:mrow>
+            <m:mstyle mathsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mstyle mathsize="8pt">
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                  <m:mi mathvariant="normal">=</m:mi>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">&#8722;</m:mi>
+                        <m:mi>h</m:mi>
+                      </m:mrow>
+                      <m:mi mathvariant="normal">&#215;</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                    <m:mi mathvariant="normal">&#215;</m:mi>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msup>
+                        <m:mi>n</m:mi>
+                        <m:mstyle mathsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{n} } = - h times R times  {  {1}  over  {n rSup { size 8{2} } } } } {}</m:annotation>
+        </m:semantics></m:annotation-xml></m:semantics></m:math>
+    </p>
+    <p class="para" id="import-auto-id494589">This means that the electron in a hydrogen atom can only exist in certain states with certain energies.  These states must therefore determine the motion of the electron in the atom.  Interestingly, this state of the electron is characterized by an integer, <i class="emphasis">n</i>, which we will now call a &#8220;quantum number&#8221; since it completely determines the quantized energy of the electron.</p>
+    <p class="para" id="import-auto-id572454">This discussion has only been about the hydrogen atom.  These results also apply generally to all atoms, since all atoms display only specific frequencies which they emit or absorb.  Since only certain frequencies can be emitted by each atom, only certain energy losses are possible, and only certain energy levels are possible in each atom.  However, the equation above applies only to the energy of a hydrogen atom, since the Rydberg equation only describes the experimental spectrum of a hydrogen atom.</p>
+    <p class="para" id="import-auto-id587173">
+      <u class="emphasis">Review and Discussion Questions</u>
+    </p>
+    <div class="list" id="import-auto-id448082"><ol class="arabic"><li class="item">The photoelectric effect demonstrates that radiation energy is quantized into &#8220;packets&#8221; or photons. Explain how and why this observation is of significance in understanding the structure of atoms.</li></ol></div>
+    <div class="list" id="import-auto-id421164"><ol class="arabic"><li class="item">Explain how we can know that higher frequency light contains higher energy photons.</li></ol></div>
+    <p class="para" id="import-auto-id496490">By John S. Hutchinson, Rice University, 2011</p>
+  </div>
+  </body>
+</html>

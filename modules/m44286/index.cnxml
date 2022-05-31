@@ -1,0 +1,334 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electron Orbitals and Electron Configurations in Atoms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44286</md:content-id>
+  <md:title>Electron Orbitals and Electron Configurations in Atoms</md:title>
+  <md:abstract/>
+  <md:uuid>495e7c53-d657-4494-ae1d-275069f9e2d7</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1171294301281">
+      <title>Introduction</title>
+  
+    <para id="import-auto-id1172779319794">In looking at the structure of atoms to understand their properties, we have come up with two very powerful models.  The first of these, the electron shell model developed in Concept Development Study 4, is based on observing the Periodic Law and the ionization energies of atoms.  This led us to a model of the atom in which the electrons in an atom can be grouped together into “shells” with the electrons in a single shell seem to have similar energies.  The second model is the quantum energy level description we observed in Concept Development Study 5.  We observed that electrons in hydrogen atoms can only have certain specific energies, called energy levels.  These two models seem quite similar.  In both cases, it appears that the arrangement of the electrons in an atom can be understood by looking at the energies that the electrons can have.  </para>
+    <para id="import-auto-id1172779306716">But there are still many questions about how these two models are related.  We developed the shell model by comparing the properties of different atoms, each with different numbers of electrons.  We developed the quantum energy level model by looking mostly at hydrogen atoms, which each have only a single electron.  We would like to know how the energy levels in a hydrogen atom are related to the electron shells in atoms with many electrons.  </para>
+    <para id="import-auto-id1172779297747">Perhaps the electrons in a single shell are in the same energy level, but we have not shown that.  Even if we assume it is true, we still do not know what determines how many electrons can be in a single level.  Without that, we do not know why each shell has a limit on how many electrons can fit.  And if we don’t know that, then we don’t know why the properties of the elements are periodic.</para>
+    <para id="import-auto-id1172779779097">To answer these important questions, we need to understand what it means for an electron to move about a nucleus.  In the process of studying this, we will find that electrons move very differently than the ways in which we are used to particles moving.  The results are surprising but they provide a firm foundation for understanding the Periodic Law of the elements.  </para>
+</section>
+<section id="fs-id1171283403602">
+   
+      <title>Foundation</title>
+
+    <para id="import-auto-id1172779732608">In this study, we will assume that we know the postulates of the Atomic Molecular Theory and our measurements of relative atomic masses.  We will also assume that we know that structure of an atom, with a tiny, massive, positively charged nucleus surrounded by a much larger empty space in which electrons move.  The positive charge on the nucleus is equal to the number of protons in the nucleus and, in a neutral atom, is also equal to the number of electrons moving about the nucleus.  We will assume knowledge of the concept of electron shells as a means of understanding the Periodic Law, which describes the chemical and physical properties of the elements.  </para>
+    <para id="import-auto-id1172779461381">From the previous Concept Development Studies, we shall also assume an understanding of Coulomb’s Law to describe the interactions of the protons and electrons in an atom.  We will assume an understanding that light is an electromagnetic wave, meaning that, as it travels, the electric part of the light and the magnetic part of the light oscillate like a wave.  And we shall also assume an understanding of the conclusions of our observations of the photoelectric effect.  This means we understand that the energy of light is quantized into photons, or packets of energy, whose energy is proportional to the frequency of the light.</para>
+</section>
+<section id="fs-id1171283490799">
+    
+      <title>Observation 1: Electron waves and the uncertainty principle</title>
+   
+    <para id="import-auto-id1172779769163">Our first step in discovering how electrons move requires us to examine the results of an experiment seemingly far removed from the questions we are asking.  These results concern something called “diffraction,” which happens when two waves collide.  When two particles collide, they may bounce off of each other,  stick together, or cause each other to change paths.  A wave collision is perhaps hard to think about, since waves don’t exist in a single location.  For this reason, we sometimes think instead of the overlap of two waves which come across each other. When two waves collide or overlap, their motions “interfere” with one another, meaning that the waves can add together or subtract from one another.  This interference can be either constructive or destructive, depending upon how the waves add together.  If the high points of both waves coincide in the same place, then the waves add together to give a bigger wave with a greater amplitude.  If the high point of one wave adds to the low point of the other wave, then the waves cancel each other out.  We can have a wave with smaller amplitude, and in some locations the interference results in zero amplitude for the wave.  This is called a “node.”  It is easy to see these kinds of wave interference in water waves when the waves hit a barrier and bounce back.  The wave coming to the barrier and the wave leaving the barrier interfere with each other, and a beautiful pattern of high points and low points emerges.  <link target-id="import-auto-id1172779547081"/> is an example of a “diffraction pattern.” </para><figure id="import-auto-id1172779547081"><media id="import-auto-id1172779553012" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2.png" height="275" width="366"/>
+      </media>
+    <caption>Photograph of wave interference coming towards the South Island of New Zealand (<link url="http://www.flickr.com/x/t/0093009/photos/brewbooks/309494512/">http://www.flickr.com/x/t/0093009/photos/brewbooks/309494512/</link>).</caption></figure><para id="import-auto-id1172779811829">A common way to observe interference with waves is to allow the wave to encounter an obstacle.  For a light wave, this could be a small slit. Different pieces of the light wave encounter the slit at different points, deflecting in varying directions rather than going straight through the slit. When light is passed through a series or grid of small slits, the deflected light pieces can then interfere with one another either constructively or destructively, depending upon the angle at which the light approaches the grid. Since we can get both increased and decreased amplitude, we can see a beautiful diffraction pattern, just like water waves and as seen in <link target-id="import-auto-id1172779258069"/>.  Since the grid can produce a diffraction pattern, it is called a diffraction grating.</para><figure id="import-auto-id1172779258069"><media id="import-auto-id1172778060964" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6.png" height="115" width="293"/>
+      </media>
+    <caption>Diffraction of a red laser (633 nm) through a diffraction grating of 150 slits (<link url="http://en.wikipedia.org/wiki/File:Diffraction_150_slits.jpg">http://en.wikipedia.org/wiki/File:Diffraction_150_slits.jpg</link>).</caption></figure><para id="import-auto-id1172779325333">The comparison between the diffraction patterns of water waves and of light is very strong evidence to prove to us that light moves like a wave.  Recall, however, that our earlier conclusion is that light behaves as a collection of energy <emphasis effect="underline">packets</emphasis>, or photons.  This means that light has some characteristics which are like particles and some which are like waves.</para>
+    <para id="import-auto-id1172779499758">Up to this point, we have assumed that electrons are simply particles, behaving essentially as billiard balls or planets.  To test this assumption, we try reflecting electrons off of a surface of a metal and looking at the pattern produced when the electrons return from their interaction with the surface.  Since the metal consists of atoms, the metal surface looks to the incoming electron like a diffraction grating, with grooves spaced one atom apart.  As we can see in <link target-id="import-auto-id1172779486966"/>, we observe in this experiment that the reflected electrons produce a pattern very similar to that observed by diffracted light.  Certain angles of incidence and reflection produce no reflected electrons.  These angles are alternated with angles with strong probability for reflection of electrons.  This is very strong evidence that electrons move as waves!</para><para id="import-auto-id1172779554442">
+      <figure id="import-auto-id1172779486966"><media id="import-auto-id1172779610579" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7.png" height="283" width="283"/>
+        </media>
+      <caption>Electron diffraction pattern from parallel beams of electrons taken using a Transmission Electron Microscope  (<link url="http://en.wikipedia.org/wiki/File"><emphasis effect="underline">http://en.wikipedia.org/wiki/File</emphasis></link>: DifraccionElectronesMET.jpg).</caption></figure></para>
+    <para id="eip-787">The concept of wave-like motion for electrons has been very difficult to imagine or visualize.  What does it mean for a particle to move like a wave?  This is very subtle, and we will discuss it later in this study.  But we can visualize it. Very recently, scanning tunneling microscopy (STM) has been used to take images that clearly reveal this wave-like character.  The STM mechanism can be used to literally pick up and place metal atoms in specific arrangements on metal surfaces.  For example, iron atoms have been arranged to form a closed circle on a copper surface.  An image of the resultant structure then taken using the STM shows not only the ring of iron atoms but also conspicuous waves inside the ring, which result from the motion of electrons moving within the ring and reflecting off of the walls formed by the iron atoms.  Two of the original images taken at IBM of these so-called “quantum corrals”  are shown in <link target-id="eip-id1165209871865"/>.</para><para id="eip-653"><figure id="eip-id1165209871865"><media id="eip-id1165206470300" alt="">
+          <image mime-type="image/png" src="../../media/26-7daf.png"/>
+        </media><caption>The color-enhanced STM image on the left shows iron atoms in a stadium corral shape on a copper surface. The series of four STM images on the right show the making of a circular corral of iron atoms on a copper surface. The images were originally created by IBM Corporation (http://www.almaden.ibm.com/vis/stm/corral.html)</caption></figure></para><para id="import-auto-id1172779495792">Interpretation of the wave motion of electrons is a very complicated proposition, and we will only deal at present with a single important consequence, namely the <emphasis effect="underline">uncertainty principle</emphasis>.  A property of wave motion is that, unlike a particle, the wave does not have a definite position at a single point in space.  By contrast, our everyday experience with particles is that the location of a particle is precise.  We can look at something and determine where it is with a great deal of certainty.  But our experiments tell us that the electron travels as a wave, and we cannot determine precisely the location of a wave.  We must conclude that we cannot determine the precise location of an electron in an atom.  This is, for our purposes, the “uncertainty principle” arising from the branch of Physics called quantum mechanics.  Even though we cannot determine the precise location of an electron within an atom, we <emphasis effect="underline">can</emphasis> make measurements of the location of the electron. With these measurements, we find that each results in a different value for the location.  Even though we can’t pin the electron down, we can determine a <emphasis effect="underline">probability distribution</emphasis> for where the electron is observed.</para>
+    <para id="import-auto-id1172779752297">This probability distribution is the most that we can know about the location and motion of an electron.  It is extremely difficult to observe, but it can be determined by calculations from the field of quantum mechanics.  The postulates (or rules) of quantum mechanics cannot be deduced from our experimental observations, and the calculations are far beyond what we need to worry about here.  For what we need in this study, our observations, such as electron diffraction and the quantized energy levels for the electron in a hydrogen atom, are all consistent with the predictions of quantum mechanics. We will treat the predictions of quantum mechanics as the equivalent of experimental observations, conclusions that we can work with and build on.  </para>
+</section>
+<section id="fs-id1171283964995">
+   
+      <title>Observation 2: Electron orbitals in hydrogen atoms</title>
+ 
+    <para id="import-auto-id1172787486889">Quantum mechanics tells us that the motion of the electron in a hydrogen atom is described by a function, often called the “wave function” or the “electron orbital” and typically designated by the symbol Ψ.  The electron orbital is the best information we can get about the motion of the electron about the nucleus.  For a particular position (x,y,z) in the space about the nucleus, quantum mechanics tells us that |Ψ|<sup>2</sup> is the probability of observing the electron at the location (x,y,z).  The uncertainty principle we worked out above tells us that the probability distribution is the most we can know about the electron’s motion.  In a hydrogen atom, it is most common to describe the position of the electron not with (x,y,z) but rather with coordinates that tell us how far the electron is from the nucleus, <emphasis effect="italics">r</emphasis>, and what the two angles which locate the electron, θ and φ.  We won’t worry much about these angles, but it will be valuable to look at the probability for the distance of the electron from the nucleus, <emphasis effect="italics">r</emphasis>.  </para><para id="import-auto-id1172778058106">There isn’t just one electron orbital for the electron in a hydrogen atom.  Instead, quantum mechanics tells us that there are a number of different ways for the electron to move, each one described by its own electron orbital, Ψ.  Each electron orbital has an associated constant value of the energy of the electron, E<sub>n</sub>. This agrees perfectly with our earlier conclusions in the previous Concept Development Study.  In fact, quantum mechanics exactly predicts the energy levels and the hydrogen atom spectrum we observe.</para>
+    <para id="import-auto-id1172779181380">The energy of an electron in an orbital is determined primarily by two characteristics of the orbital.  The first characteristic determines the average strength of the attraction of the electron to the nucleus, which is given by the potential energy in Coulomb’s law.  An orbital which has a high probability for the electron to have a low potential energy will have a low total energy.  This makes sense.  For example, as we shall see shortly, the lowest energy orbital for the electron in a hydrogen atom has most of its probability near the nucleus.  By Coulomb’s law, the potential energy for the attraction of the electron to the nucleus is lower when the electron is nearer the nucleus.  In atoms with more than one electron, these electrons will also repel each other according to Coulomb’s law.  This electron-electron repulsion also adds to the potential energy, since Coulomb’s law tells us that the potential energy is higher when like charges repel each other.</para>
+    <para id="import-auto-id1172779294460">The second orbital characteristic determines the contribution of kinetic energy to the total energy.  This contribution is more subtle than the potential energy and Coulomb’s law.  As a consequence of the uncertainty principle, quantum mechanics predicts that, the more confined an electron is to a smaller region of space, the higher its average kinetic energy must be.  Remember that we cannot measure the position of electron precisely, and we define the uncertainty in the measurement as ∆<emphasis effect="italics">x</emphasis>.  This means that the position of the electron within a range of positions, and the width of that range is ∆<emphasis effect="italics">x</emphasis>.  Quantum mechanics also tells us that we cannot measure the momentum of an electron precisely either, so there is an uncertainty ∆<emphasis effect="italics">p</emphasis> in the momentum.  In mathematical detail, the uncertainty principle states that these uncertainties are related by an inequality:</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-907"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mtext>(∆</m:mtext>
+   <m:mi>x</m:mi>
+   <m:mtext>)(∆</m:mtext>
+   <m:mi>p</m:mi>
+   <m:mtext>)≥</m:mtext>
+   <m:mfrac>
+    <m:mi>h</m:mi>
+    <m:mi>4π</m:mi>
+   </m:mfrac>
+  </m:mrow>
+ </m:semantics>
+</m:math>
+
+</para><para id="import-auto-id1172779651708">This inequality reveals that, when an electron moves in a small area with a correspondingly small uncertainty <emphasis effect="italics">∆x</emphasis>, the uncertainty in the momentum <emphasis effect="italics">∆p</emphasis> must be large.  For <emphasis effect="italics">∆p</emphasis> to be large, the momentum must also be large, the electron must be moving with high speed, and so the kinetic energy must be high.  (We won’t need to use this inequality for calculations, but it is good to know that <emphasis effect="italics">h</emphasis> is Planck’s constant, 6.62×10<sup>-34</sup> J·sec. We have previously seen Planck’s constant in Einstein’s equation for the energy of a photon.)  </para><para id="import-auto-id1172779534646">From the uncertainty principle we learn that the more compact an orbital is, the higher the kinetic energy will be for an electron in that orbital.  If the electron’s movement is confined to a small region in space, its kinetic energy must be high.  This extra kinetic energy is sometimes called the “confinement energy,” and it is comparable in size to the average potential energy of electron-nuclear attraction.  Therefore, in general, an electron orbital provides an energy compromise, somewhat localizing the electron in regions of low potential energy but somewhat delocalizing it to lower its confinement energy. </para>
+    <para id="import-auto-id1172778010973">What do these orbitals look like?  In other words, other than the energy, what can we know about the motion of an electron from these orbitals?  Quantum mechanics tell us that each electron orbital is given an identification, essentially a name, that consists of three integers, <emphasis effect="italics">n, l, </emphasis>and <emphasis effect="italics">m, </emphasis>often called “quantum numbers.”  The first quantum number <emphasis effect="italics">n</emphasis> tells us something about the size of the orbital.  The larger the value of <emphasis effect="italics">n</emphasis>, the more spread out the orbital is around the nucleus, and therefore the more space the electron has to move in. <emphasis effect="italics">n</emphasis> must be a positive integer (1, 2, 3, …), so the smallest possible <emphasis effect="italics">n</emphasis> is 1.  In a hydrogen atom, this quantum number <emphasis effect="italics">n</emphasis> is the same one that tells us the energy of the electron in the orbital, E<emphasis effect="italics">n</emphasis>. </para>
+    <para id="import-auto-id1172779593677">The second quantum number, <emphasis effect="italics">l</emphasis>, tells us something about the shape of the orbital.  There are only a handful of orbital shapes that we find in atoms, and we’ll only need to know two of these for now.  <emphasis effect="italics">l </emphasis>is a positive integer or 0, and it must be smaller than the value of <emphasis effect="italics">n</emphasis> for the orbital.  For example, if <emphasis effect="italics">n</emphasis> is 2, <emphasis effect="italics">l</emphasis> must be less than 2, so l can be either 0 or 1.  In general, <emphasis effect="italics">l</emphasis> must be an integer from the set (0, 1, 2, ... n-1).  Each value of <emphasis effect="italics">l</emphasis> gives us a different orbital shape.  If <emphasis effect="italics">l </emphasis>= 0, the shape of the orbital is a sphere.  Since the orbital tells us the probability for where the electron might be observed, a spherical orbital means that the electron is equally likely to be observed at any angle about the nucleus.  There isn’t a preferred direction.  Since there are only a few shapes of orbitals, each shape is given a one letter name to help us remember.  In the case of the <emphasis effect="italics">l </emphasis>= 0 orbital with a spherical shape, this one letter name is “s.” (As an historical note, “s” doesn’t actually stand for “sphere”; it stands for “strong.”  But that doesn’t mean we can’t use “s” as a way to remember that the s orbital is spherical.)  <link target-id="import-auto-id1172779650100"/> is an illustration of the spherical shape of the s orbital.</para><figure id="import-auto-id1172779650100"><media id="import-auto-id1172779782671" alt="">
+        <image mime-type="image/png" src="../../media/58.png" height="288" width="288"/>
+      </media>
+    <caption>Approximate probability distribution of the 1s orbital shown with axes to emphasize the 3-dimensional spherical shape. </caption></figure><para id="import-auto-id1172779738576">For now, the only other shape we will worry about corresponds to <emphasis effect="italics">l </emphasis>= 1.  In this case, the orbital is not spherical at all.  Instead, it consists of two clouds or “lobes” on opposite sides of the nucleus, as in <link target-id="import-auto-id1172779368606"/>.  This type of orbital is given the one letter name “p,” which actually stands for “principal.”  Looking at the p orbitals in <link target-id="import-auto-id1172779368606"/>, it is reasonable to ask what direction the two lobes are pointing in.  If it seems that the lobes could point in any of three directions, that is correct.  There are three “p” orbitals for each value of <emphasis effect="italics">n</emphasis>, each one pointed along a different axis, x, y, or z.  The third quantum number <emphasis effect="italics">m</emphasis> gives each orbital a name allowing us to distinguish between the three orbitals pointing perpendicularly to each other.  In general, the <emphasis effect="italics">m</emphasis> quantum number must be an integer between <emphasis effect="italics">–l</emphasis> and <emphasis effect="italics">+l</emphasis>.  When <emphasis effect="italics">l </emphasis>= 1, <emphasis effect="italics">m</emphasis> can be -1, 0 or 1.  This is why there are three p orbitals.</para><figure id="import-auto-id1172779368606"><media id="import-auto-id1172779239706" alt="">
+        <image mime-type="image/png" src="../../media/06.png" height="174" width="576"/>
+      </media>
+    <caption>Approximate probability distributions of p orbitals shown along the x, y, and z axes.</caption></figure><para id="import-auto-id1172779180809">Although we will not worry about the shape of the <emphasis effect="italics">l </emphasis>= 2 orbitals for now, there are two things to know about them.  First, these orbitals are given the single letter name <emphasis effect="italics">d</emphasis>.  Second there are five <emphasis effect="italics">d</emphasis> orbitals for each <emphasis effect="italics">n</emphasis> value, since <emphasis effect="italics">l </emphasis>= 2 and therefore <emphasis effect="italics">m</emphasis> can be -2, -1, 0, 1, or 2.</para>
+    <para id="import-auto-id1172777943008">Chemists describe each unique orbital with a name which tells us the <emphasis effect="italics">n</emphasis> and <emphasis effect="italics">l</emphasis> quantum numbers.  For example, if <emphasis effect="italics">n </emphasis>= 2 and <emphasis effect="italics">l </emphasis>= 0, we call this a 2s orbital.  If <emphasis effect="italics">n </emphasis>= 2 and <emphasis effect="italics">l </emphasis>= 1, we call this a 2p orbital.  Remember though that there are three 2p orbitals since there are three <emphasis effect="italics">m</emphasis> values (-1, 0, 1) possible.  </para>
+    <para id="import-auto-id1172779807434">The motion of an electron in a hydrogen atom is then easily described by telling the quantum numbers or name associated with the orbital it is in.  In our studies, an electron can only be in one orbital at a time, but there are many orbitals it might be in.  If we refer to a 2p electron, we mean that the electron is in an orbital described by the quantum numbers <emphasis effect="italics">n </emphasis>= 2 and <emphasis effect="italics">l </emphasis>= 1.  The <emphasis effect="italics">n </emphasis>= 2 value tells us how large the orbital is, and the <emphasis effect="italics">l </emphasis>= 1 value tells us the shape of the orbital.  Knowing the orbital the electron is in is for now everything that we can know about the motion of the electron around the nucleus.</para>
+</section>
+<section id="fs-id1171280740495">
+   
+      <title>Observation 3: Photoelectron spectra and electron configurations</title>
+   
+    <para id="import-auto-id1172779498329">So far, we have been concerned almost entirely with describing the motion of the electron in a hydrogen atom.  Fortunately, this will be helpful in understanding the motion of electrons in all other atoms.  The most important differences between the hydrogen atom and all other atoms are the charge on the nucleus, the number of electrons, and the effects of the repulsions of the electrons from each other.  Electron-electron repulsion is not important in a hydrogen atom since it contains only a single electron, but it is very important in all other atoms.</para>
+    <para id="import-auto-id1172779643990">To begin to understand the energies and orbitals for electrons in other atoms, we need more experimental information.  We look at a new experiment called photoelectron spectroscopy.  This form of spectroscopy is similar to the photoelectric effect we discussed in the previous concept study.  We shine light on an atom and measure the minimum frequency of light which will ionize an electron from an atom. Remember that the frequency of light corresponds to a specific energy of the photons in that light.  When the frequency of light is too low, the photons in that light do not have enough energy to ionize electrons from an atom.  As we increase the frequency of the light, we find the minimum frequency, or threshold, at which electrons begin to ionize.  As we continue to increase the frequency, we find that additional electrons are ionized at higher thresholds.  These electrons are more tightly bound to the atom, requiring more energy and thus a greater frequency of light to ionize.  By finding these higher thresholds for ionization, we can measure the ionization energy of not only the outermost electron but also of each electron in each orbital.  With a higher frequency of light, there is sufficient energy to ionize a number of different electrons, each with its own energy.  The different types of electrons are distinguishable from each other by their kinetic energies when they are ionized.  The more energy which is required to ionize the electron, the less energy is left over for the kinetic energy of the ionized electron.  This means that we can look at the energies of all of the electrons in an atom, not just the electrons with the highest energy.</para>
+    <para id="import-auto-id1172779700555">The threshold ionization energies for the first twenty elements are given in <link target-id="import-auto-id1172778020800"/>.  </para>
+
+
+<table id="import-auto-id1172778020800" summary="table"><title>Threshold Ionization Energies</title>
+<tgroup cols="7"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <thead>
+          <row>
+            <entry>
+             <emphasis effect="bold">Element</emphasis>
+              </entry>
+            <entry namest="c2" nameend="c7">
+                 <emphasis effect="bold">Ionization Energy Thresholds (MJ/mol)</emphasis>
+              </entry>
+           
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>H</entry>
+            <entry>1.31</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>He</entry>
+            <entry>2.37</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Li</entry>
+            <entry>6.26</entry>
+            <entry>0.52</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Be</entry>
+            <entry>11.5</entry>
+            <entry>0.90</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>B</entry>
+            <entry>19.3</entry>
+            <entry>1.36</entry>
+            <entry>0.80</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>C</entry>
+            <entry>28.6</entry>
+            <entry>1.72</entry>
+            <entry>1.09</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>N</entry>
+            <entry>39.6</entry>
+            <entry>2.45</entry>
+            <entry>1.40</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>O</entry>
+            <entry>52.6</entry>
+            <entry>3.12</entry>
+            <entry>1.31</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>F</entry>
+            <entry>67.2</entry>
+            <entry>3.88</entry>
+            <entry>1.68</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>84.0</entry>
+            <entry>4.68</entry>
+            <entry>2.08</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>104</entry>
+            <entry>6.84</entry>
+            <entry>3.67</entry>
+            <entry>0.50</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Mg</entry>
+            <entry>126</entry>
+            <entry>9.07</entry>
+            <entry>5.31</entry>
+            <entry>0.74</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Al</entry>
+            <entry>151</entry>
+            <entry>12.1</entry>
+            <entry>7.79</entry>
+            <entry>1.09</entry>
+            <entry>0.58</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Si</entry>
+            <entry>178</entry>
+            <entry>15.1</entry>
+            <entry>10.3</entry>
+            <entry>1.46</entry>
+            <entry>0.79</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>P</entry>
+            <entry>208</entry>
+            <entry>18.7</entry>
+            <entry>13.5</entry>
+            <entry>1.95</entry>
+            <entry>1.01</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>S</entry>
+            <entry>239</entry>
+            <entry>22.7</entry>
+            <entry>16.5</entry>
+            <entry>2.05</entry>
+            <entry>1.00</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Cl</entry>
+            <entry>273</entry>
+            <entry>26.8</entry>
+            <entry>20.2</entry>
+            <entry>2.44</entry>
+            <entry>1.25</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>309</entry>
+            <entry>31.5</entry>
+            <entry>24.1</entry>
+            <entry>2.82</entry>
+            <entry>1.52</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>347</entry>
+            <entry>37.1</entry>
+            <entry>29.1</entry>
+            <entry>3.93</entry>
+            <entry>2.38</entry>
+            <entry>0.42</entry>
+          </row>
+          <row>
+            <entry>Ca</entry>
+            <entry>390</entry>
+            <entry>42.7</entry>
+            <entry>34.0</entry>
+            <entry>4.65</entry>
+            <entry>2.9</entry>
+            <entry>0.59</entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table><para id="import-auto-id1172777993357">There is a lot of data in this table, so we should take it line by line and look for patterns.  We note that there is a single threshold for hydrogen and helium.  In hydrogen, this makes sense, because there is only a single electron.  The lowest energy orbital is the 1s orbital, since <emphasis effect="italics">n </emphasis>= 1 is the lowest value and only <emphasis effect="italics">l </emphasis>= 0 is possible when <emphasis effect="italics">n </emphasis>= 1.  But helium has two electrons.  Why is there only a single type of electron in helium?  It must be the case that both electrons in helium are in the same orbital with the same energy.  Also, the ionization energy for helium is about double the ionization energy of hydrogen.  This makes sense when we remember that the charge on the nucleus is in Coulomb’s law: doubling the charge should double the strength of the attraction of the electron to the nucleus.  This very strongly indicates that the two electrons in helium are in the same orbital as the one electron in hydrogen.  If we want to describe the helium atom, we could state that it has two 1s electrons.  We adopt a shorthand notation for this, 1s<sup>2</sup>, meaning that there are two electrons in the 1s orbital.  This is called the electron configuration of helium.  This is an extremely important conclusion because it tells us that we can use the electron orbitals for the hydrogen atom to describe the motions of electrons in other atoms.</para>
+    <para id="import-auto-id1172779174241">We now look at lithium and beryllium and notice that there are two ionization energies for each, meaning that there are two types of electrons in each atom.  In lithium, this definitely means that the electron configuration is not 1s<sup>3</sup>.  Apparently, there cannot be three electrons in a 1s orbital, so the third electron must go into a higher energy orbital. The next orbital higher in energy would be either a 2s or a 2p orbital.  So lithium must have two electrons in the 1s orbital and one electron in either the 2s or 2p orbital, and the electron configuration is either 1s<sup>2</sup>2s<sup>1</sup> or 1s<sup>2</sup>2p<sup>1</sup>.  Whichever it is, it appears that beryllium will have a similar electron configuration 1s<sup>2</sup>2s<sup>2</sup> or 1s<sup>2</sup>2p<sup>2</sup>, since there are only two ionization energies for beryllium.  And we already know that two electrons can be in the same orbital.  But which is the correct electron configuration?</para>
+    <para id="import-auto-id1172787520584">To find out, we look at boron and notice that suddenly there are three ionization energies.  One of them is much larger than the other two, and the other two are fairly similar.  Certainly the large ionization energy is due to two electrons in the 1s orbital.  It seems probable that one of the other two ionization energies is for an electron in the same orbital as lithium or beryllium.  The third one represents an electron in a new orbital.  Apparently, we cannot put a third electron into whichever orbital beryllium has two electrons in.  This is just what we saw before: there appears to be a fundamental principle that only two electrons can move in the same electron orbital.  This principle is part of a more general principle called the “Pauli Exclusion Principle,” named after its discoverer.  </para>
+    <para id="import-auto-id1172779576990">We can use this principle and the ionization energies to determine the electron configurations of lithium, beryllium, and boron.  If beryllium’s configuration was 1s<sup>2</sup>2p<sup>2</sup>, we could put a third electron in a 2p orbital, because there are three 2p orbitals, as we recall from above.  This would mean that boron’s electron configuration would be 1s<sup>2</sup>2p<sup>3</sup>, and there would be only two ionization energies.  But this is not right: the data show that there are three ionization energies for boron.  If beryllium’s electron configuration were 1s<sup>2</sup>2s<sup>2</sup>, then the added electron in boron would have to go into a new orbital, and boron’s electron configuration would be 1s<sup>2</sup>2s<sup>2</sup>2p<sup>1</sup>.  The data in <link target-id="import-auto-id1172778020800"/> for boron match this configuration.  Notice that it appears that the 2s electrons and the 2p electron have very similar ionization energies.  This makes sense, since both have the same <emphasis effect="italics">n</emphasis> value.  We will later explore the reason why they don’t have exactly the same energy.</para><para id="import-auto-id1172779431258">Does this concept account for the ionization energies of the next several elements (carbon to neon)?  In each of these elements, there are only three ionization energies, and just as in boron, one is very large and the other two are smaller and comparable in size.  But there are six elements from boron to neon.  How can it be that we can have six electrons in the 2p orbital?  The answer is that there are three 2p orbitals, so two electrons can move in each orbital for a total of six 2p electrons.  For example, the electron configuration of neon would be 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>.  </para>
+    <para id="import-auto-id1172779671933">The next obvious step in the data in <link target-id="import-auto-id1172778020800"/> comes with sodium, where a fourth ionization energy is observed.  This means that there are electrons in four different types of orbitals.  If our reasoning above is correct, this makes sense.  There is no room for a seventh electron to move in the 2p orbitals, so one electron in sodium must be in a higher energy orbital.  The next higher energy orbital would be either 3s, 3p, or 3d, since <emphasis effect="italics">n </emphasis>= 3 is the next lowest energy level. The ionization energies bear this out, since one of them is quite large (the 1s electrons) two of them are moderately sized (the 2s and 2p electrons), and one is much smaller (the <emphasis effect="italics">n </emphasis>= 3 electron).  Just by looking at the pattern of the ionization energies for the elements from sodium to argon, it should be clear that we have the same pattern as for lithium to neon.  This means that the same argument must apply, and the 3s orbital must have an electron in sodium and must have two electrons in magnesium.  Sodium’s electron configuration must be 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>1</sup> and magnesium’s must be 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>. </para><para id="import-auto-id1172788685789">Our ionization energy data have provided us with three conclusions.  First we conclude that two, and only two, electrons can move in the same orbital.  Second, the electron configuration for each atom can be found by assigning electrons two at a time to each orbital in increasing order of energy, with the s orbital lower in the energy than the p orbital for each <emphasis effect="italics">n</emphasis> value.  This is sometimes called the <emphasis effect="italics">aufbau</emphasis> principle, after the German word meaning, roughly, “built up.”  </para>
+    <para id="import-auto-id1172779785458">Third is a very exciting conclusion based on the first two.  Notice that when <emphasis effect="italics">n </emphasis>= 2, there are four different orbitals to which we can assign a total of eight electrons.  After those eight electrons have been assigned, no more electrons can be assigned to orbitals with <emphasis effect="italics">n </emphasis>= 2.  But we’ve seen this before!  The number eight corresponds to our shell model of the atom in which only eight electrons could be in the second or third shell of each atom.  Now we have an explanation of why the electron shells “fill up.”  Each shell corresponds to a particular <emphasis effect="italics">n</emphasis> value, and there are a limited number of electrons which can fit into the orbitals in each shell.  Once those orbitals have all been assigned two electrons, the shell is “full,” and any additional electrons must be assigned to a new shell at a higher energy.</para>
+    <para id="import-auto-id1172779443621">Looking at the pattern of the data in <link target-id="import-auto-id1172778020800"/> reveals to us the ordering of the orbitals in terms of increasing energy, at least for this set of atoms.  The data show that the orbitals, in order of increasing energy, are:</para><para id="import-auto-id1172788402487">1s &lt; 2s &lt; 2p &lt; 3s &lt; 3p &lt; 4s &lt; 3d &lt; 4p &lt; 5s etc.</para>
+</section>
+<section id="fs-id1171294779035">
+    
+      <title>Observation 4: The importance of electron-electron repulsion</title>
+   
+    <para id="import-auto-id1172779718744">There is a single detail missing from our description, which is of some importance to our discussion.  Why is the 2s orbital lower in energy than the 2p orbital?  This is something of a surprise.  If we go back to look at the energy levels for an electron in a hydrogen atom, we will recall that the energy depends only on the <emphasis effect="italics">n</emphasis> quantum number.  This is the same for an electron in the 2s and 2p orbitals in a hydrogen atom.  But in all of the atoms from lithium to neon, it is clear that the 2s orbital is lower in energy than the 2p orbital. Hydrogen is unique because it has only a single electron.  As a result, there is no electron-electron repulsion to affect the energy.  Apparently, when there is electron-electron repulsion, an electron in the 2s orbital has a lower energy than an electron in the 2p orbital.  Therefore, the movement of the electron in the 2s orbital must produce a smaller amount of electron-electron repulsion than that produced by the movement of the electron in the 2p orbital.  Electrons do repel each other.  If they move in such a way as to maintain distance from one another, the amount of this repulsion is smaller.  The 2s orbital must do a better job of this than the 2p orbital.</para>
+    <para id="import-auto-id1172779231875">It is very difficult to calculate the energy from electron-electron repulsion because we do not know, on average, how far apart the electrons typically are so we can’t use Coulomb’s law in any simple way.  We need a simple model instead.  One way to do this is to think of the shell structure of the atom.  An <emphasis effect="italics">n </emphasis>= 2 electron is farther from the nucleus than an <emphasis effect="italics">n </emphasis>= 1 electron.  In lithium, for example, the lone 2s electron is on the outside of both the nucleus and the two 1s electrons.  These two 1s electrons form a negatively charged “core” which surrounds the nucleus.  In lithium, the nuclear charge is +3 and the charge on the core electrons is -2, so the 2s electron feels an attraction to a +3 charge and a repulsion from a -2 charge.  A simple way to look at this is as though the 2s electron “feels” a net charge from the core of +1.  This is sometimes called the “effective nuclear charge” because it takes into account both the attraction to the charge on the nucleus and the repulsion from the negative charge from the core electrons.  In one way of viewing this, the nuclear charge is partially “shielded” by the negative charge of the core electrons, reducing the attraction of the 2s electron to the nucleus.</para>
+    <para id="import-auto-id1172787567628">This argument would seem to apply perfectly well to an electron in either the 2s or 2p orbital, since both are in the <emphasis effect="italics">n </emphasis>= 2 shell.  So this does not account for the difference in the energies of these orbitals.  It does account for the similarity of the energies of these orbitals, as clearly seen in the data in <link target-id="import-auto-id1172778020800"/>.  But we still need to know why there is a difference.  </para><para id="import-auto-id1172779571772">The answer lies in remembering that in each orbital we only know the probabilities for where the electrons might be observed.  Therefore, we cannot definitely state that the n = 2 electrons are “outside” of the 1s core electrons; we can only say that they probably are.  As a result, the shielding effect is not perfect.  In fact, there is some probability that an n = 2 electron might be found closer to the nucleus than the 1s electrons.  This is called “core penetration.”  When an n = 2 electron does penetrate the core, it is no longer shielded from the nucleus.  In this case, the n = 2 electron is very strongly attracted to the nucleus and its energy is thus lowered.  Therefore, the effect of core penetration is to reduce the shielding effect and therefore increase the effective nuclear charge.</para>
+    <para id="import-auto-id1172778045778">What is the extent of this penetration?  The answer is in <link target-id="import-auto-id1172779353062"/>, which shows the probability of finding an electron a distance <emphasis effect="italics">r</emphasis> away from the nucleus for each of the 1s, 2s, and 2p orbitals.  If we compare the probabilities, we see that there is a slightly greater probability (though still quite small) for the 2s electron to penetrate the core than for the 2p electron to do so.</para><figure id="import-auto-id1172779353062"><media id="import-auto-id1172779196132" alt="">
+        <image mime-type="image/png" src="../../media/Picture 11.png" height="316" width="501"/>
+      </media>
+    <caption>Probability for an electron at a distance r from a hydrogen nucleus.</caption></figure><para id="import-auto-id1172779673219">As a result of the core penetration, an electron in a 2s orbital feels a greater “effective nuclear charge” than just the core charge, which was approximated by assuming perfect shielding.  Thus, the effective nuclear charge for a 2s electron is greater than the effective nuclear charge for a 2p electron. Therefore, the energy of an electron in the 2s orbital in beryllium is lower than it would be in the 2p orbital.</para>
+    <para id="import-auto-id1172779742435">Knowing how the electrons move about the nucleus explains the ionization energy data in <link target-id="import-auto-id1172778020800"/> and also explains the shell model of the atom by explaining why each shell can hold a limited number of electrons.  This means that we can understand the Periodic Law and the trends in the Periodic Table using this new model.  It turns out that we can also use our understanding of the motions of the electrons in atoms to help understand how and why atoms bond together to form molecules.  This is a very important question for chemists, because understanding bonding is the key to understanding how and why molecules react with each other.  Our understanding of electron orbitals will be very useful in answering these questions.</para></section>
+<section id="fs-id1171293864476">
+    
+      <title>Review and Discussion Questions</title>
+    
+    <list id="import-auto-id1172779436832" list-type="enumerated" number-style="arabic"><item>Electron affinity is the energy released when an electron is attached to an atom. If an atom has a positive electron affinity, the added electron is attracted to the nucleus to form a stable negative ion. Why doesn't a Beryllium atom have a positive electron affinity? Explain how this demonstrates that the energy of a 2s orbital is less than the energy of a 2p orbital.</item>
+    <item>Why does an inert gas atom have a high ionization energy but a low electron affinity? Why do these properties combine to make the atoms of inert gases unreactive?</item>
+
+<item>Consider electrons from two different subshells in the same atom. In photoelectron spectroscopy, the lower energy electron has a higher ionization energy but is observed to have lower kinetic energy after ionization. Reconcile the lower energy with the higher ionization energy with the lower kinetic energy.</item>
+
+<item>Chlorine atoms have 5 distinct ionization energies. Explain why. Predict the number of ionization energies for Bromine atoms, and explain your answer. (Hint: examine the structure of the periodic table.)</item>
+    
+<item>Why does a Bromine atom have a much smaller radius than a Potassium atom, even though a Br atom has 16 more electrons than does a K atom?</item>
+    
+<item>Explain why electrons confined to smaller orbitals are expected to have higher kinetic energies.</item>
+    
+<item>Define "shielding" in the context of electron-electron repulsion. What is the significance of shielding in determining the energy of an electron? How is the affected by core penetration?</item>
+    </list>
+</section><para id="import-auto-id1172778005042">By John S. Hutchinson, Rice University, 2011</para>
+  </content>
+</document>
