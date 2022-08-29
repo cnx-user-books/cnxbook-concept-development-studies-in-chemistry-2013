@@ -1,144 +1,37 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="John S. Hutchinson">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12221</md:content-id>
-  <md:title>Concept Development Studies in Chemistry 2013 for WebAssign</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>d1d58a4a-198f-4150-a48c-e9877f3ce41e</md:uuid>
-<md:slug>concept-development-studies-in-chemistry-2013-for-webassign</md:slug>
-</metadata>
-
+    <md:content-id>col12221</md:content-id>
+    <md:title>Concept Development Studies in Chemistry 2013 for WebAssign</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>d1d58a4a-198f-4150-a48c-e9877f3ce41e</md:uuid>
+    <md:slug>concept-development-studies-in-chemistry-2013-for-webassign</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m44281"/>
-        
-      
-    
-    
-      <col:module document="m44278"/>
-        
-      
-    
-    
-      <col:module document="m44315"/>
-        
-      
-    
-    
-      <col:module document="m44287"/>
-        
-      
-    
-    
-      <col:module document="m44312"/>
-        
-      
-    
-    
-      <col:module document="m44286"/>
-        
-      
-    
-    
-      <col:module document="m44285"/>
-        
-      
-    
-    
-      <col:module document="m44304"/>
-        
-      
-    
-    
-      <col:module document="m44317"/>
-        
-      
-    
-    
-      <col:module document="m44283"/>
-        
-      
-    
-    
-      <col:module document="m44296"/>
-        
-      
-    
-    
-      <col:module document="m44294"/>
-        
-      
-    
-    
-      <col:module document="m44306"/>
-        
-      
-    
-    
-      <col:module document="m47710"/>
-        
-      
-    
-    
-      <col:module document="m47661"/>
-        
-      
-    
-    
-      <col:module document="m47666"/>
-        
-      
-    
-    
-      <col:module document="m47663"/>
-        
-      
-    
-    
-      <col:module document="m47664"/>
-        
-      
-    
-    
-      <col:module document="m47744"/>
-        
-      
-    
-    
-      <col:module document="m47740"/>
-        
-      
-    
-    
-      <col:module document="m47715"/>
-        
-      
-    
-    
-      <col:module document="m47655"/>
-        
-      
-    
-    
-      <col:module document="m47657"/>
-        
-      
-    
-    
-      <col:module document="m47658"/>
-        
-      
-    
+    <col:module document="m44281"/>
+    <col:module document="m44278"/>
+    <col:module document="m44315"/>
+    <col:module document="m44287"/>
+    <col:module document="m44312"/>
+    <col:module document="m44286"/>
+    <col:module document="m44285"/>
+    <col:module document="m44304"/>
+    <col:module document="m44317"/>
+    <col:module document="m44283"/>
+    <col:module document="m44296"/>
+    <col:module document="m44294"/>
+    <col:module document="m44306"/>
+    <col:module document="m47710"/>
+    <col:module document="m47661"/>
+    <col:module document="m47666"/>
+    <col:module document="m47663"/>
+    <col:module document="m47664"/>
+    <col:module document="m47744"/>
+    <col:module document="m47740"/>
+    <col:module document="m47715"/>
+    <col:module document="m47655"/>
+    <col:module document="m47657"/>
+    <col:module document="m47658"/>
   </col:content>
 </col:collection>
