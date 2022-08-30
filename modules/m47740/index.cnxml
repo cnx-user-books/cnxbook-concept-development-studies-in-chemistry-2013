@@ -90,7 +90,7 @@
           <image mime-type="image/png" src="../../media/CDS2-3905.png"/>
         </media>
       </figure></para><para id="import-auto-id1169837305382">From Figure 2, we can see that the data in Table 1 fit the equation</para>
-    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1169836456116">ln<emphasis effect="italics">(k) = a<m:math display="display">
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1169836456116">ln<emphasis effect="italics">(k) = a<m:math>
   <m:apply>
     <m:eq/>
     <m:apply>
