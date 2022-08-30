@@ -767,7 +767,7 @@ In this study, we will assume very little prior knowledge, as we are beginning a
       <para id="import-auto-id732752">[A] = [A]<sub>0</sub>e<sup>-kt</sup></para><para id="import-auto-id760305">or equivalently</para>
       <para id="import-auto-id1169070190418">ln[A] = ln[A}<sub>0</sub> - kt</para><para id="import-auto-id1169068224409">Equation (12) reveals that, if a reaction is first order, we can plot ln[A] versus time and get a straight line with slope equal to <emphasis effect="italics">–k</emphasis>.  This would be a way to test whether a reaction is first order or not.  Moreover, if we know the rate constant and the initial concentration, we can predict the concentration at any time during the reaction.  </para>
       <para id="import-auto-id1169068756545">An interesting point in the reaction is the time at which exactly half of the original concentration of <emphasis effect="italics">A</emphasis> has been consumed.  We call this time the “half-life” of the reaction and denote it as <emphasis effect="italics">t</emphasis><emphasis effect="italics">½</emphasis>.  At that time, .  From Equation (12) and using the properties of logarithms, we find that, for a first order reaction</para>
-      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id3235919">t<sub>1/2</sub> = <m:math display="display">
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id3235919">t<sub>1/2</sub> = <m:math>
   <m:apply>
     <m:eq/>
     <m:apply>
@@ -777,7 +777,7 @@ In this study, we will assume very little prior knowledge, as we are beginning a
     </m:apply>
   </m:apply>
 </m:math></para><para id="import-auto-id1088391">This equation tells us that the half-life of a first order reaction does not depend on how much material we start with.  It takes exactly the same amount of time for the reaction to proceed from all of the starting material to half of the starting material as it does to proceed from half of the starting material to one-fourth of the starting material.  In each case, we halve the remaining material in a time equal to the constant half-life in Equation (13).</para>
-      <para id="import-auto-id1169068436397">These conclusions are only valid for first order reactions.  Consider then a second order reaction, such as the butadiene dimerization discussed above.  The general second order reaction <emphasis effect="italics">A → products</emphasis> has the rate law</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1169068519085"><emphasis effect="italics">Rate</emphasis> = -<m:math display="display">
+      <para id="import-auto-id1169068436397">These conclusions are only valid for first order reactions.  Consider then a second order reaction, such as the butadiene dimerization discussed above.  The general second order reaction <emphasis effect="italics">A → products</emphasis> has the rate law</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1169068519085"><emphasis effect="italics">Rate</emphasis> = -<m:math>
   <m:apply>
     <m:eq/>
     <m:apply>
